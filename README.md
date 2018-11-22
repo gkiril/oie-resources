@@ -55,23 +55,19 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2011
 
-* *"Open Information Extraction: The Second Generation"* -  IJCAI 2011
+* *["Open Information Extraction: The Second Generation"](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf)* -  IJCAI 2011
   
   Oren Etzioni, Anthony Fader, Janara Christensen, Stephen Soderland, Mausam
   
-* *"Identifying Relations for Open Information Extraction"* - EMNLP 2011
+* *["Identifying Relations for Open Information Extraction"](http://www.aclweb.org/anthology/D11-1142)* - EMNLP 2011
 
   Anthony Fader, Stephen Soderland, Oren Etzioni
   
-* *"Web-based open-domain information extraction"* - CIKM 2011
-
-  Marius Pasca
-  
-* *"Filtering and clustering relations for unsupervised information extraction in open domain" - CIKM 2011
+* *["Filtering and clustering relations for unsupervised information extraction in open domain](https://perso.limsi.fr/bg/fichiers/2011/cikm0874-wang.pdf)" - CIKM 2011
 
   Wei Wang, Romaric Besançon, Olivier Ferret, Brigitte Grau
 
-* *"An analysis of open information extraction based on semantic role labeling"* K-CAP 2011
+* *["An analysis of open information extraction based on semantic role labeling"](https://homes.cs.washington.edu/~mausam/papers/kcap11.pdf)* K-CAP 2011
 
   Janara Christensen, Mausam, Stephen Soderland, Oren Etzioni
 
