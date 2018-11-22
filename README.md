@@ -2,7 +2,10 @@
 
 A curated list of Open Information Extraction (OIE) resources: reserach papers, code, data, applications, etc.
 
-## Papers
+* [Papers](#papers)
+
+
+## [Papers](#papers)
 
 ### 2007
 * *["Open information extraction from the web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
