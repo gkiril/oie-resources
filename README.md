@@ -127,7 +127,12 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
   Hannah Bast, Elmar Haussmann
   
+* *"Open Information Extraction to KBP Relations in 3 Hours"* - TAC 2013
+
+  Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
+  
 ### 2014
+
 * *"ReNoun: Fact Extraction for Nominal Attributes"* - EMNLP 2014
   	
     Mohamed Yahya, Steven Whang, Rahul Gupta, Alon Y. Halevy
