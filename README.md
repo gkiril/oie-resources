@@ -285,7 +285,11 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 * *"StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction"* - CIKM 2018
 
-  Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt:
+  Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt
+  
+* *"Open Information Extraction with Global Structure Constraints"* - WWW 2018
+
+  Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
   
 * *"Employing Semantic Context for Sparse Information Extraction Assessment"* - TKDD 2018
 
