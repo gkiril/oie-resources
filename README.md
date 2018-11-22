@@ -20,7 +20,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [Slides](#slides)
 * [Data](#data)
 
-## [Papers](#papers)
+## Papers
 
 ### 2007
 * *["Open information extraction from the web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
@@ -145,7 +145,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
   
-### [2014](#papers-2014)
+### 2014
 
 * *["ReNoun: Fact Extraction for Nominal Attributes"](http://emnlp2014.org/papers/pdf/EMNLP2014038.pdf)* - EMNLP 2014
   	
@@ -167,7 +167,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Marcos García, Pablo Gamallo
   
-### [2015](#papers-2015)
+### 2015
 
 * *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015
 
@@ -201,7 +201,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
   
-### [2016](#papers-2016)
+### 2016
 
 * *["Nested Propositions in Open Information Extraction"](https://aclweb.org/anthology/D16-1006)* - EMNLP 2016 ([talk](https://vimeo.com/239245885))
 
@@ -239,7 +239,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   William Léchelle, Philippe Langlais
   
-### [2017](#papers-2017)
+### 2017
 
 * *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017
 
@@ -289,7 +289,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
   
-### [2018](#papers-2018)
+### 2018
 
 * *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
 
