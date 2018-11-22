@@ -3,6 +3,18 @@
 A curated list of Open Information Extraction (OIE) resources: reserach papers, code, data, applications, etc.
 
 * [Papers](#papers)
+  * [2007](#papers-2007)
+  * [2008](#papers-2008)
+  * [2009](#papers-2009)
+  * [2010](#papers-2010)
+  * [2011](#papers-2011)
+  * [2012](#papers-2012)
+  * [2013](#papers-2013)
+  * [2014](#papers-2014)
+  * [2015](#papers-2015)
+  * [2016](#papers-2016)
+  * [2017](#papers-2017)
+  * [2018](#papers-2018)
 * [Code](#code)
 * [Talks (video)](#talks)
 * [Slides](#slides)
@@ -10,7 +22,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
 ## [Papers](#papers)
 
-### 2007
+### [2007](#papers-2007)
 * *["Open information extraction from the web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
   
   Michele Banko,  Michael J. Cafarella, Stephen Soderland, Matthew Broadhead, Oren Etzioni
@@ -26,7 +38,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Alexander Yates, Michele Banko, Matthew Broadhead, Michael J. Cafarella, Oren Etzioni, Stephen Soderland
   
-### 2008
+### [2008](#papers-2008)
 * *["The tradeoffs between open and traditional relation extraction"](http://turing.cs.washington.edu/papers/acl08.pdf)* - ACL 2008
 
   Michele Banko, Oren Etzioni
@@ -39,13 +51,13 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Oren Etzioni, Michele Banko, Stephen Soderland, Daniel S. Weld
   
-### 2009
+### [2009](#papers-2009)
 
 * *["Using Wikipedia to bootstrap open information extraction"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.4369&rep=rep1&type=pdf)* - SIGMOD 2009
   	
     Daniel S. Weld, Raphael Hoffmann, Fei Wu
     
-### 2010
+### [2010](#papers-2010)
 
 * *["Open Information Extraction Using Wikipedia"](http://www.aclweb.org/anthology/P10-1013)* - ACL 2010
 
@@ -59,7 +71,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Stephen Soderland, Brendan Roof, Bo Qin, Shi Xu, Mausam, Oren Etzioni 
   
-### 2011
+### [2011](#papers-2011)
 
 * *["Open Information Extraction: The Second Generation"](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf)* -  IJCAI 2011
   
@@ -77,7 +89,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Janara Christensen, Mausam, Stephen Soderland, Oren Etzioni
 
-### 2012
+### [2012](#papers-2012)
 
 * *["Open Language Learning for Information Extraction"](https://www.aclweb.org/anthology/D12-1048)* - EMNLP-CoNLL 2012
 
@@ -107,7 +119,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Alan Akbik, Alexander Löser
   
-### 2013
+### [2013](#papers-2013)
 
 * *["ClausIE: clause-based open information extraction"](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)* - WWW 2013
 
@@ -133,7 +145,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
   
-### 2014
+### [2014](#papers-2014)
 
 * *["ReNoun: Fact Extraction for Nominal Attributes"](http://emnlp2014.org/papers/pdf/EMNLP2014038.pdf)* - EMNLP 2014
   	
@@ -155,7 +167,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Marcos García, Pablo Gamallo
   
-### 2015
+### [2015](#papers-2015)
 
 * *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015
 
@@ -189,7 +201,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
   
-### 2016
+### [2016](#papers-2016)
 
 * *["Nested Propositions in Open Information Extraction"](https://aclweb.org/anthology/D16-1006)* - EMNLP 2016 ([talk](https://vimeo.com/239245885))
 
@@ -227,7 +239,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   William Léchelle, Philippe Langlais
   
-### 2017
+### [2017](#papers-2017)
 
 * *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017
 
@@ -277,7 +289,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
   
-### 2018
+### [2018](#papers-2018)
 
 * *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
 
