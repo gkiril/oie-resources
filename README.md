@@ -94,9 +94,75 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Filipe de Sá Mesquita, Jordan Schmidek, Denilson Barbosa
   
-* *"Open Information Extraction with Tree Kernels." - HLT-NAACL 2013
+* *"Open Information Extraction with Tree Kernels."* - HLT-NAACL 2013
  
   Ying Xu, Mi-Young Kim, Kevin Quinn, Randy Goebel, Denilson Barbosa
   
 ### 2014
+* *"ReNoun: Fact Extraction for Nominal Attributes"* - EMNLP 2014
+  	
+    Mohamed Yahya, Steven Whang, Rahul Gupta, Alon Y. Halevy
 
+* *"Boosting Open Information Extraction with Noun-Based Relations"* - LREC 2014
+
+  Clarissa Castellã Xavier, Vera Lúcia Strube de Lima
+
+* *"Improving Open Relation Extraction via Sentence Re-Structuring"* - LREC 2014
+
+  Jordan Schmidek, Denilson Barbosa
+
+* *"More Informative Open Information Extraction via Simple Inference"* - ECIR 2014
+
+  Hannah Bast, Elmar Haussmann
+
+* *"Entity-Centric Coreference Resolution of Person Entities for Open Information Extraction"* - Procesamiento del Lenguaje Natural (2014)
+
+  Marcos García, Pablo Gamallo
+  
+### 2015
+
+* *"Leveraging Linguistic Structure For Open Domain Information Extraction"* - ACL 2015
+
+  Gabor Angeli, Melvin Jose Johnson Premkumar, Christopher D. Manning
+
+* *"Open IE as an Intermediate Structure for Semantic Tasks"* - ACL 2015
+
+  Gabriel Stanovsky, Ido Dagan, Mausam
+
+* *"Multilingual Open Information Extraction"* - EPIA 2015
+
+  Pablo Gamallo, Marcos García
+  
+* *"Open information extraction based on lexical semantics."* - J. Braz. Comp. Soc. 21 2015
+
+ 	Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
+  
+### 2016
+
+* *"Nested Propositions in Open Information Extraction"* - EMNLP 2016
+
+  Nikita Bhutani, H. V. Jagadish, Dragomir R. Radev
+
+* *"Creating a Large Benchmark for Open Information Extraction"* - EMNLP 2016
+
+  Gabriel Stanovsky, Ido Dagan
+  
+* *"Open Information Extraction Systems and Downstream Applications."* - IJCAI 2016
+
+  Mausam
+  
+* *"Demonyms and Compound Relational Nouns in Nominal Open IE"* - AKBC@NAACL-HLT 2016
+
+  Harinder Pal, Mausam
+  
+* *"A Rule Based Open Information Extraction Method Using Cascaded Finite-State Transducer"* - PAKDD 2016
+
+	Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
+
+* *"Getting More Out Of Syntax with PropS"* - CoRR abs/1603.01648 (2016)
+
+  Gabriel Stanovsky, Jessica Ficler, Ido Dagan, Yoav Goldberg
+
+* *"Improving Open Information Extraction for Semantic Web Tasks"* -  Trans. Computational Collective Intelligence 21, 2016
+
+  Cheikh Kacfah Emani, Catarina Ferreira Da Silva, Bruno Fiés, Parisa Ghodous
