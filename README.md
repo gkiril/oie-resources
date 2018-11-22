@@ -375,6 +375,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [\[pdf\] *"Brief Introduction and Review of Open Information Extraction (Open-IE) Systems"*](https://ece.umd.edu/~smiran/OpenIE.pdf). Project Presentation by Sina Miran.
 * [\[pdf\] *"Open Information Extraction Systems and Downstream Applications"*](https://homes.cs.washington.edu/~mausam/papers/ijcai16-earlycareer.pdf) by [Prof. Mausam](http://www.cse.iitd.ernet.in/~mausam/). The talk was presented at [IJCAI 2016](http://ijcai-16.org/)
 * [\[pptx\] *"Open Information Extraction from the Web"*](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx), presented by [Prof. Oren Etzioni](https://allenai.org/team/orene/). The tutorial was presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/)
+* [\[pdf\] *"ClausIE: Clause-Based Open Information Extraction"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf) by Luciano del Corro. 
 
 ## Talks
 
