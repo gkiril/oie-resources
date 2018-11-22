@@ -328,6 +328,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Pablo Gamallo, Marcos Garcia
   
+* *"Challenges of an Annotation Task for Open Information Extraction in Portuguese"* - PROPOR 2018
+
+  Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
+  
 * *"A systematic mapping study on open information extraction"* -  Expert Syst. Appl. 2018
 
   Rafael Glauber, Daniela Barreiro Claro
