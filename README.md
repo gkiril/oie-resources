@@ -5,7 +5,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 ## Papers
 
 ### 2007
-* *"Open information extraction from the web"* - IJCAI 2007
+* *["Open information extraction from the web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
   
   Michele Banko,  Michael J. Cafarella, Stephen Soderland, Matthew Broadhead, Oren Etzioni
 * *"Autonomously semantifying wikipedia"* - CIKM 2007
