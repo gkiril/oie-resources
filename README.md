@@ -193,31 +193,31 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Gabriel Stanovsky, Ido Dagan
   
-* *"Porting an Open Information Extraction System from English to German"* - EMNLP 2016
+* *["Porting an Open Information Extraction System from English to German"](https://aclweb.org/anthology/D16-1086)* - EMNLP 2016
 
   Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
   
-* *"Open Information Extraction Systems and Downstream Applications."* - IJCAI 2016
+* *["Open Information Extraction Systems and Downstream Applications"](https://www.ijcai.org/Proceedings/16/Papers/604.pdf)* - IJCAI 2016
 
   Mausam
   
-* *"Demonyms and Compound Relational Nouns in Nominal Open IE"* - AKBC@NAACL-HLT 2016
+* *["Demonyms and Compound Relational Nouns in Nominal Open IE"](https://homes.cs.washington.edu/~mausam/papers/akbc16.pdf)* - AKBC@NAACL-HLT 2016
 
   Harinder Pal, Mausam
   
-* *"A Rule Based Open Information Extraction Method Using Cascaded Finite-State Transducer"* - PAKDD 2016
+* *["A Rule Based Open Information Extraction Method Using Cascaded Finite-State Transducer"](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_26)* - PAKDD 2016
 
   Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
 
-* *"Getting More Out Of Syntax with PropS"* - CoRR abs/1603.01648 (2016)
+* *["Getting More Out Of Syntax with PropS"](https://arxiv.org/pdf/1603.01648.pdf)* - ArXiv (2016)
 
   Gabriel Stanovsky, Jessica Ficler, Ido Dagan, Yoav Goldberg
 
-* *"Improving Open Information Extraction for Semantic Web Tasks"* -  Trans. Computational Collective Intelligence 21, 2016
+* *["Improving Open Information Extraction for Semantic Web Tasks"](https://link.springer.com/chapter/10.1007/978-3-662-49521-6_6)* -  Trans. Computational Collective Intelligence 21, 2016
 
   Cheikh Kacfah Emani, Catarina Ferreira Da Silva, Bruno Fiés, Parisa Ghodous
   
-* *"An Informativeness Approach to Open IE Evaluation"* - CICLing 2016
+* *["An Informativeness Approach to Open IE Evaluation"](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/An_informativeness_approach_to_Open_IE_evaluation%5B1%5D.pdf)* - CICLing 2016
 
   William Léchelle, Philippe Langlais
   
