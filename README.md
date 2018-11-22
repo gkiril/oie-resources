@@ -151,41 +151,41 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2015
 
-* *"Leveraging Linguistic Structure For Open Domain Information Extraction"* - ACL 2015
+* *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015
 
   Gabor Angeli, Melvin Jose Johnson Premkumar, Christopher D. Manning
 
-* *"Open IE as an Intermediate Structure for Semantic Tasks"* - ACL 2015
+* *["Open IE as an Intermediate Structure for Semantic Tasks"](http://www.aclweb.org/anthology/P15-2050)* - ACL 2015
 
   Gabriel Stanovsky, Ido Dagan, Mausam
   
-* *"Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis"* - TACL 2015
+* *["Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis"](https://transacl.org/ojs/index.php/tacl/article/view/660)* - TACL 2015
 
   Claudio Delli Bovi, Luca Telesca, Roberto Navigli
   
-* *"Inferring Binary Relation Schemas for Open Information Extraction"* - EMNLP 2015
+* *["Inferring Binary Relation Schemas for Open Information Extraction"](http://www.aclweb.org/anthology/D15-1065)* - EMNLP 2015
 
   Kangqi Luo, Xusheng Luo, Kenny Qili Zhu
   
-* *"Knowledge Base Unification via Sense Embeddings and Disambiguation"* - EMNLP 2015
+* *["Knowledge Base Unification via Sense Embeddings and Disambiguation"](http://aclweb.org/anthology/D15-1084)* - EMNLP 2015
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
   
-* *"SRDF: Korean Open Information Extraction using Singleton Property"* - ISWC 2015
+* *["SRDF: Korean Open Information Extraction using Singleton Property"](http://ceur-ws.org/Vol-1486/paper_55.pdf)* - ISWC 2015
 
   Sangha Nam, YoungGyun Hahm, Sejin Nam, Key-Sun Choi
 
-* *"Multilingual Open Information Extraction"* - EPIA 2015
+* *["Multilingual Open Information Extraction"](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf)* - EPIA 2015
 
   Pablo Gamallo, Marcos García
   
-* *"Open information extraction based on lexical semantics."* - J. Braz. Comp. Soc. 21 2015
+* *["Open information extraction based on lexical semantics"](https://link.springer.com/article/10.1186/s13173-015-0023-2)* - J. Braz. Comp. Soc. 21 2015
 
   Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
   
 ### 2016
 
-* *"Nested Propositions in Open Information Extraction"* - EMNLP 2016
+* *["Nested Propositions in Open Information Extraction"](https://aclweb.org/anthology/D16-1006)* - EMNLP 2016 ([talk](https://vimeo.com/239245885))
 
   Nikita Bhutani, H. V. Jagadish, Dragomir R. Radev
 
