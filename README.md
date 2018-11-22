@@ -273,47 +273,47 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2018
 
-* *"Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"* - WSDM 2018
+* *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
 
 	Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li
 
-* *"Assertion-Based QA With Question-Aware Open Information Extraction"* - AAAI 2018
+* *["Assertion-Based QA With Question-Aware Open Information Extraction"](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16705/16170)* - AAAI 2018
   	
   Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
   
-* *"Neural Open Information Extraction"* - ACL 2018
+* *["Neural Open Information Extraction"](http://aclweb.org/anthology/P18-2065)* - ACL 2018
 
   Lei Cui, Furu Wei, Ming Zhou
   
-* *"Supervised Open Information Extraction"* - NAACL-HLT 2018
+* *["Supervised Open Information Extraction"](http://www.aclweb.org/anthology/N18-1081)* - NAACL-HLT 2018
   	
   Gabriel Stanovsky, Julian Michael, Luke Zettlemoyer, Ido Dagan
   
-* *"Open Information Extraction from Conjunctive Sentences"* - COLING 2018
+* *["Open Information Extraction from Conjunctive Sentences"](http://aclweb.org/anthology/C18-1194)* - COLING 2018
 
   Swarnadeep Saha, Mausam
   
-* *"Graphene: Semantically-Linked Propositions in Open Information Extraction"* - COLING 2018
+* *["Graphene: Semantically-Linked Propositions in Open Information Extraction"](http://aclweb.org/anthology/C18-1195)* - COLING 2018
 
   Matthias Cetto, Christina Niklaus, André Freitas, Siegfried Handschuh
   
-* *"Open Information Extraction on Scientific Text: An Evaluation"* - COLING 2018
+* *["Open Information Extraction on Scientific Text: An Evaluation"](http://aclweb.org/anthology/C18-1289)* - COLING 2018
   
   Paul T. Groth, Michael Lauruhn, Antony Scerri, Ron Daniel
   
-* *"A Survey on Open Information Extraction"* - COLING 2018
+* *["A Survey on Open Information Extraction"](http://aclweb.org/anthology/C18-1326)* - COLING 2018
 
   Christina Niklaus, Matthias Cetto, André Freitas, Siegfried Handschuh
   
-* *"StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction"* - CIKM 2018
+* *["StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction"](https://dl.acm.org/citation.cfm?id=3271812)* - CIKM 2018
 
   Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt
   
-* *"Open Information Extraction with Global Structure Constraints"* - WWW 2018
+* *["Open Information Extraction with Global Structure Constraints"](http://www-bcf.usc.edu/~xiangren/www18_poster.pdf)* - WWW 2018
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
   
-* *"Employing Semantic Context for Sparse Information Extraction Assessment"* - TKDD 2018
+* *["Employing Semantic Context for Sparse Information Extraction Assessment"](https://dl.acm.org/citation.cfm?id=3201407)* - TKDD 2018 ([resources](https://github.com/peipeilihfut/AssessSparseIE))
 
   Pei-Pei Li, Haixun Wang, Hongsong Li, Xindong Wu
   
