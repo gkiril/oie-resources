@@ -74,7 +74,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2011
 
-* *["Open Information Extraction: The Second Generation"](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf)* -  IJCAI 2011
+* *["Open Information Extraction: The Second Generation"](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf)* -  IJCAI 2011 ([slides](http://www.cse.iitd.ac.in/~mausam/courses/col864/spring2017/slides/03-openie.pdf))
   
   Oren Etzioni, Anthony Fader, Janara Christensen, Stephen Soderland, Mausam
   
@@ -376,6 +376,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [\[pdf\] *"Open Information Extraction Systems and Downstream Applications"*](https://homes.cs.washington.edu/~mausam/papers/ijcai16-earlycareer.pdf) by [Prof. Mausam](http://www.cse.iitd.ernet.in/~mausam/). The talk was presented at [IJCAI 2016](http://ijcai-16.org/)
 * [\[pptx\] *"Open Information Extraction from the Web"*](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx), presented by [Prof. Oren Etzioni](https://allenai.org/team/orene/). The tutorial was presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/)
 * [\[pdf\] *"ClausIE: Clause-Based Open Information Extraction"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf) by [Luciano del Corro](https://people.mpi-inf.mpg.de/~corrogg/). 
+* [\[pdf\] *"Open Information Extraction: the Second Generation"*](http://www.cse.iitd.ac.in/~mausam/courses/col864/spring2017/slides/03-openie.pdf)
 
 ## Talks
 
