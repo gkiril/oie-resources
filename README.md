@@ -163,7 +163,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 * *"Open information extraction based on lexical semantics."* - J. Braz. Comp. Soc. 21 2015
 
- Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
+  Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
   
 ### 2016
 
