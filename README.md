@@ -186,7 +186,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Kangqi Luo, Xusheng Luo, Kenny Qili Zhu
   
-* *["Knowledge Base Unification via Sense Embeddings and Disambiguation"](http://aclweb.org/anthology/D15-1084)* - EMNLP 2015
+* *["Knowledge Base Unification via Sense Embeddings and Disambiguation"](http://aclweb.org/anthology/D15-1084)* - EMNLP 2015 ([resources](http://lcl.uniroma1.it/kb-unify/))
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
   
