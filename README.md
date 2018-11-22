@@ -378,7 +378,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 ## Talks
 
 * [*\[video\] Open Information Extraction from the Web*](https://www.youtube.com/watch?v=lMiLiPjGays&feature=youtu.be), by [Prof. Oren Etzioni](https://allenai.org/team/orene/), presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/).
-Slides: [\[pptx\](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx)]
+Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx)
 
 ## Code
 
