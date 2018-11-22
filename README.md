@@ -3,7 +3,7 @@
 A curated list of Open Information Extraction (OIE) resources: reserach papers, code, data, applications, etc.
 
 * [Papers](#papers)
-  * [2007](#papers-2007)
+  * [2007](#2007)
   * [2008](#papers-2008)
   * [2009](#papers-2009)
   * [2010](#papers-2010)
