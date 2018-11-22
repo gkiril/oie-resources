@@ -317,35 +317,35 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Pei-Pei Li, Haixun Wang, Hongsong Li, Xindong Wu
   
-* *"Open Information Extraction with Meta-pattern Discovery in Biomedical Literature"* - BCB 2018
+* *["Open Information Extraction with Meta-pattern Discovery in Biomedical Literature"](https://yuzhimanhua.github.io/papers/bcb18.pdf)* - BCB 2018
 
   Xuan Wang, Yu Zhang, Qi Li, Yinyin Chen, Jiawei Han
   
-* *"Modeling and Summarizing News Events Using Semantic Triples"* - ESWC 2018
+* *["Modeling and Summarizing News Events Using Semantic Triples"](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_33)* - ESWC 2018
 
   Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt
   
-* *"Disambiguating Open IE: Identifying Semantic Similarity in Relation Extraction by Word Embeddings"* - PROPOR 2018
+* *["Disambiguating Open IE: Identifying Semantic Similarity in Relation Extraction by Word Embeddings"](https://www.springerprofessional.de/en/disambiguating-open-ie-identifying-semantic-similarity-in-relati/16122888)* - PROPOR 2018
 
   Leandro M. P. Sanches, Victor S. Cardel, Larissa S. Machado, Marlo Souza, Laís do Nascimento Salvador
   
-* *"Task-Oriented Evaluation of Dependency Parsing with Open Information Extraction"* - PROPOR 2018
+* *["Task-Oriented Evaluation of Dependency Parsing with Open Information Extraction"](https://link.springer.com/chapter/10.1007%2F978-3-319-99722-3_8)* - PROPOR 2018
 
   Pablo Gamallo, Marcos Garcia
   
-* *"Challenges of an Annotation Task for Open Information Extraction in Portuguese"* - PROPOR 2018
+* *["Challenges of an Annotation Task for Open Information Extraction in Portuguese"](https://link.springer.com/chapter/10.1007/978-3-319-99722-3_7)* - PROPOR 2018
 
   Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
   
-* *"A systematic mapping study on open information extraction"* -  Expert Syst. Appl. 2018
+* *["A systematic mapping study on open information extraction"](https://www.sciencedirect.com/science/article/pii/S0957417418303932)* -  Expert Syst. Appl. 2018
 
   Rafael Glauber, Daniela Barreiro Claro
   
-* *"Integrating Local Context and Global Cohesiveness for Open Information Extraction"* - ArXiv 2018
+* *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - ArXiv 2018
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
   
-* *"Supervised Neural Models Revitalize the Open Relation Extraction"*  ArXiv 2018
+* *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)*  ArXiv 2018
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
 
