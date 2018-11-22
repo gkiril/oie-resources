@@ -19,3 +19,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"The tradeoffs between open and traditional relation extraction"* - ACL 2008
 
   Michele Banko, Oren Etzioni
+
+* *"Open Knowledge Extraction through Compositional Language Processing"* - STEP 2008
+
+  Benjamin Van Durme, Lenhart K. Schubert:
