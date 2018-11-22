@@ -373,6 +373,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [\[pdf\] (Information Extraction) Lecture 10 – Ontological and Open IE](http://www.cis.uni-muenchen.de/~fraser/information_extraction_2015_lecture/10_ontological_and_open_IE.pdf): A lecture on Open IE, which is part of the course ["Information Extraction"](http://www.cis.uni-muenchen.de/~fraser/information_extraction_2018_lecture/), by [Prof. Dr. Alexander Fraser](http://www.cis.uni-muenchen.de/~fraser/), from LMU München
 * Open IE Tutorial: [Open Information Extraction for QA](https://www.slideshare.net/andrenfreitas/open-ie-tutorial-2018) by [André Freitas](http://andrefreitas.org/). Tutorial was presented on OKBQA 2018
 * [\[pdf\] Brief Introduction and Review of Open Information Extraction (Open-IE) Systems](https://ece.umd.edu/~smiran/OpenIE.pdf). Project Presentation by Sina Miran.
+* [\[pdf\] Open Information Extraction Systems and Downstream Applications](https://homes.cs.washington.edu/~mausam/papers/ijcai16-earlycareer.pdf) by [Prof. Mausam](http://www.cse.iitd.ernet.in/~mausam/). The talk was presented at [IJCAI 2016](http://ijcai-16.org/)
 * [\[pptx\] Open Information Extraction from the Web](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx), presented by [Prof. Oren Etzioni](https://allenai.org/team/orene/). The tutorial was presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/)
 
 ## Talks
