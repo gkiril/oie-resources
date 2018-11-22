@@ -18,4 +18,4 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 ### 2008
 * *"The tradeoffs between open and traditional relation extraction"* - ACL 2008
 
-  Michele Banko, Oren Etzioni
+  Michele Banko, Oren Etzioni 
