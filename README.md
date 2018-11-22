@@ -367,8 +367,8 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
 
-## [Code](#code)
+## Code
 
-## [Talks (video)](#talks)
+## Talks (video)
 
-## [Data](#data)
+## Data
