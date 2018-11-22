@@ -100,7 +100,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Ndapandula Nakashole, Gerhard Weikum, Fabian M. Suchanek
   
-* *["WiSeNet: building a wikipedia-based semantic network with ontologized relations"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_CIKM12.pdf)* - CIKM 2012
+* *["WiSeNet: building a wikipedia-based semantic network with ontologized relations"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_CIKM12.pdf)* - CIKM 2012 ([resources](http://lcl.uniroma1.it/wisenet/))
 
   Andrea Moro, Roberto Navigli
   
@@ -126,7 +126,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Luciano Del Corro, Rainer Gemulla
   
-* *["Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_IJCAI13.pdf)* - IJCAI 2013
+* *["Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_IJCAI13.pdf)* - IJCAI 2013 ([resources](http://lcl.uniroma1.it/wisenet/))
 
   Andrea Moro, Roberto Navigli
 
