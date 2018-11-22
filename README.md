@@ -387,4 +387,9 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 
 ## Code
 
+* [MinIE: Open Information Extraction System](https://github.com/gkiril/minie)
+* [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone): the latest version of OpenIE at A2I.
+* [OLLIE](http://knowitall.github.io/ollie/)
+* [ReVerb](http://reverb.cs.washington.edu/)
+
 ## Data
