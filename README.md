@@ -169,6 +169,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Knowledge Base Unification via Sense Embeddings and Disambiguation"* - EMNLP 2015
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
+  
+* *"SRDF: Korean Open Information Extraction using Singleton Property"* - ISWC 2015
+
+  Sangha Nam, YoungGyun Hahm, Sejin Nam, Key-Sun Choi
 
 * *"Multilingual Open Information Extraction"* - EPIA 2015
 
