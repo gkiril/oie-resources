@@ -57,6 +57,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Identifying Relations for Open Information Extraction"* - EMNLP 2011
 
   Anthony Fader, Stephen Soderland, Oren Etzioni
+  
+* *Web-based open-domain information extraction"* - WWW 2011
+
+  Marius Pasca
 
 * *"An analysis of open information extraction based on semantic role labeling"* K-CAP 2011
 
