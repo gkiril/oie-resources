@@ -223,51 +223,51 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2017
 
-* *"MinIE: Minimizing Facts in Open Information Extraction"* - EMNLP 2017
+* *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017
 
   Kiril Gashteovski, Rainer Gemulla, Luciano Del Corro
   
-* *"Answering Complex Questions Using Open Information Extraction"* - ACL 2017
+* *["Answering Complex Questions Using Open Information Extraction"](http://ai2-website.s3.amazonaws.com/publications/TupleInf_ACL17.pdf)* - ACL 2017
 
   Tushar Khot, Ashish Sabharwal, Peter Clark
   
-* *"Pocket Knowledge Base Population"* - ACL 2017
+* *["Pocket Knowledge Base Population"](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf)* - ACL 2017
   
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
   
-* *"Bootstrapping for Numerical Open IE"* - ACL 2017
+* *["Bootstrapping for Numerical Open IE"](https://homes.cs.washington.edu/~mausam/papers/acl17.pdf)* - ACL 2017
 
   Swarnadeep Saha, Harinder Pal, Mausam
 
-* *"MT/IE: Cross-lingual Open Information Extraction with Neural Sequence-to-Sequence Models"* - EACL 2017
+* *["MT/IE: Cross-lingual Open Information Extraction with Neural Sequence-to-Sequence Models"](http://www.aclweb.org/anthology/E17-2011)* - EACL 2017
   	
   Kevin Duh, Benjamin Van Durme, Sheng Zhang
     
-* *"Syntactic Representation Learning for Open Information Extraction on Web"* - WWW 2017
+* *["Syntactic Representation Learning for Open Information Extraction on Web"](https://dl.acm.org/citation.cfm?id=3041021.3054266)* - WWW 2017
 
   Chengsen Ru, Jintao Tang, Shasha Li, Ting Wang
     
-* *"MetaPAD: Meta Pattern Discovery from Massive Text Corpora"* - KDD 2017
+* *["MetaPAD: Meta Pattern Discovery from Massive Text Corpora"](http://www.meng-jiang.com/pubs/metapad-kdd17/metapad-kdd17-paper.pdf)* ([code](https://github.com/mjiang89/MetaPAD))- KDD 2017
 
   Meng Jiang, Jingbo Shang, Taylor Cassidy, Xiang Ren, Lance M. Kaplan, Timothy P. Hanratty, Jiawei Han
 
-* *"Open Relation Extraction and Grounding"* - IJCNLP 2017
+* *["Open Relation Extraction and Grounding"](http://aclweb.org/anthology/I17-1086)* - IJCNLP 2017
 
   Dian Yu, Lifu Huang, Heng Ji
   
-* *"Selective Decoding for Cross-lingual Open Information Extraction"* - IJCNLP(1) 2017
+* *["Selective Decoding for Cross-lingual Open Information Extraction"](http://www.aclweb.org/anthology/I17-1084)* - IJCNLP(1) 2017
 
   Sheng Zhang, Kevin Duh, Benjamin Van Durme
 
-* *"An assessment of open relation extraction systems for the semantic web"* - Inf. Syst. 71, 2017
+* *"[An assessment of open relation extraction systems for the semantic web"](https://www.sciencedirect.com/science/article/pii/S0306437916304999)* - Inf. Syst. 71, 2017
 
   Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
   
-* *"Discovering Relational Phrases for Qualia Roles Through Open Information Extraction"* - KESW 2017
+* *["Discovering Relational Phrases for Qualia Roles Through Open Information Extraction"](https://link.springer.com/chapter/10.1007/978-3-319-69548-8_6)* - KESW 2017
 
   Giovanni Siragusa, Valentina Leone, Luigi Di Caro, Claudio Schifanella
   
-* *"Open Relation Extraction Based on Core Dependency Phrase Clustering"* - DSC 2017
+* *["Open Relation Extraction Based on Core Dependency Phrase Clustering"](https://ieeexplore.ieee.org/document/8005507)* - DSC 2017
 
   Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
   
