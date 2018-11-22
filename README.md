@@ -129,23 +129,23 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2014
 
-* *"ReNoun: Fact Extraction for Nominal Attributes"* - EMNLP 2014
+* *["ReNoun: Fact Extraction for Nominal Attributes"](http://emnlp2014.org/papers/pdf/EMNLP2014038.pdf)* - EMNLP 2014
   	
     Mohamed Yahya, Steven Whang, Rahul Gupta, Alon Y. Halevy
 
-* *"Boosting Open Information Extraction with Noun-Based Relations"* - LREC 2014
+* *["Boosting Open Information Extraction with Noun-Based Relations"](https://pdfs.semanticscholar.org/570c/ce7b24c51f75da091b515baddce567128680.pdf)* - LREC 2014
 
   Clarissa Castellã Xavier, Vera Lúcia Strube de Lima
 
-* *"Improving Open Relation Extraction via Sentence Re-Structuring"* - LREC 2014
+* *["Improving Open Relation Extraction via Sentence Re-Structuring"](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1038_Paper.pdf)* - LREC 2014
 
   Jordan Schmidek, Denilson Barbosa
 
-* *"More Informative Open Information Extraction via Simple Inference"* - ECIR 2014
+* *["More Informative Open Information Extraction via Simple Inference"](http://ad-publications.informatik.uni-freiburg.de/ECIR_csdie-inf_BH_2014.pdf)* - ECIR 2014
 
   Hannah Bast, Elmar Haussmann
 
-* *"Entity-Centric Coreference Resolution of Person Entities for Open Information Extraction"* - Procesamiento del Lenguaje Natural (2014)
+* *["Entity-Centric Coreference Resolution of Person Entities for Open Information Extraction"](http://www.taln.upf.edu/pages/sepln2014/full_papers/edited_paper_30.pdf)* - Procesamiento del Lenguaje Natural (2014)
 
   Marcos García, Pablo Gamallo
   
