@@ -75,6 +75,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"WiSeNet: building a wikipedia-based semantic network with ontologized relations"* - CIKM 2012
 
   Andrea Moro, Roberto Navigli
+  
+* *"Open Information Extraction for SOV Language Based on Entity-Predicate Pair Detection"* -  COLING 2012
+
+  Woong-Ki Lee, Yeon-Su Lee, Hyoung-Gyu Lee, Won-Ho Ryu, Hae-Chang Rim
 
 * *"Dependency-based open information extraction"* - Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP @ ACL 2012
 
@@ -270,6 +274,14 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Graphene: Semantically-Linked Propositions in Open Information Extraction"* - COLING 2018
 
   Matthias Cetto, Christina Niklaus, André Freitas, Siegfried Handschuh
+  
+* *"Open Information Extraction on Scientific Text: An Evaluation"* - COLING 2018
+  
+  Paul T. Groth, Michael Lauruhn, Antony Scerri, Ron Daniel
+  
+* *"A Survey on Open Information Extraction"* - COLING 2018
+
+  Christina Niklaus, Matthias Cetto, André Freitas, Siegfried Handschuh
   
 * *"StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction"* - CIKM 2018
 
