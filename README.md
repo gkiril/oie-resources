@@ -163,6 +163,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Gabriel Stanovsky, Ido Dagan
   
+* *"Porting an Open Information Extraction System from English to German"* - EMNLP 2016
+
+  Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
+  
 * *"Open Information Extraction Systems and Downstream Applications."* - IJCAI 2016
 
   Mausam
