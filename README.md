@@ -375,7 +375,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [\[pdf\] Brief Introduction and Review of Open Information Extraction (Open-IE) Systems](https://ece.umd.edu/~smiran/OpenIE.pdf). Project Presentation by Sina Miran.
 * [\[pptx\] Open Information Extraction from the Web](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx), presented by [Prof. Oren Etzioni](https://allenai.org/team/orene/). The tutorial was presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/)
 
-## Talks (video)
+## Talks
+
+* [*\[video\] Open Information Extraction from the Web*](https://www.youtube.com/watch?v=lMiLiPjGays&feature=youtu.be), by [Prof. Oren Etzioni](https://allenai.org/team/orene/), presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/).
+Slides: [\[pptx\](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx)]
 
 ## Code
 
