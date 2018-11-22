@@ -67,37 +67,37 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Wei Wang, Romaric Besançon, Olivier Ferret, Brigitte Grau
 
-* *["An analysis of open information extraction based on semantic role labeling"](https://homes.cs.washington.edu/~mausam/papers/kcap11.pdf)* K-CAP 2011
+* *["An analysis of open information extraction based on semantic role labeling"](https://homes.cs.washington.edu/~mausam/papers/kcap11.pdf)* - K-CAP 2011
 
   Janara Christensen, Mausam, Stephen Soderland, Oren Etzioni
 
 ### 2012
 
-* *"Open Language Learning for Information Extraction"* - EMNLP-CoNLL 2012
+* *["Open Language Learning for Information Extraction"](https://www.aclweb.org/anthology/D12-1048)* - EMNLP-CoNLL 2012
 
   Mausam, Michael Schmitz, Stephen Soderland, Robert Bart, Oren Etzioni
   
-* *"PATTY: A Taxonomy of Relational Patterns with Semantic Types"* - EMNLP-CoNLL 2012
+* *["PATTY: A Taxonomy of Relational Patterns with Semantic Types"](http://www.aclweb.org/anthology/D12-1104)* - EMNLP-CoNLL 2012
 
   Ndapandula Nakashole, Gerhard Weikum, Fabian M. Suchanek
   
-* *"WiSeNet: building a wikipedia-based semantic network with ontologized relations"* - CIKM 2012
+* *["WiSeNet: building a wikipedia-based semantic network with ontologized relations"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_CIKM12.pdf)* - CIKM 2012
 
   Andrea Moro, Roberto Navigli
   
-* *"Open Information Extraction for SOV Language Based on Entity-Predicate Pair Detection"* -  COLING 2012
+* *["Open Information Extraction for SOV Language Based on Entity-Predicate Pair Detection"](http://aclweb.org/anthology/C12-3038)* -  COLING 2012
 
   Woong-Ki Lee, Yeon-Su Lee, Hyoung-Gyu Lee, Won-Ho Ryu, Hae-Chang Rim
   
-* *"A Weighting Scheme for Open Information Extraction"* - HLT-NAACL 2012
+* *["A Weighting Scheme for Open Information Extraction"](http://www.aclweb.org/anthology/N12-2011)* - HLT-NAACL 2012
 
   Yuval Merhav
 
-* *"Dependency-based open information extraction"* - Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP @ ACL 2012
+* *["Dependency-based open information extraction"](http://www.anthology.aclweb.org/W/W12/W12-0702.pdf)* - Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP @ ACL 2012
 
   Pablo Gamallo, Marcos Garcia
   
-* *"KrakeN: N-ary Facts in Open Information Extraction"* - AKBC-WEKEX@NAACL-HLT 2012
+* *["KrakeN: N-ary Facts in Open Information Extraction"](http://wing.comp.nus.edu.sg/~antho/W/W12/W12-3010.pdf)* - AKBC-WEKEX@NAACL-HLT 2012
 
   Alan Akbik, Alexander Löser
   
