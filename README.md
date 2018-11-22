@@ -200,6 +200,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Pocket Knowledge Base Population"* - ACL 2017
   
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
+  
+* *"Bootstrapping for Numerical Open IE"* - ACL 2017
+
+  Swarnadeep Saha, Harinder Pal, Mausam
 
 * *"MT/IE: Cross-lingual Open Information Extraction with Neural Sequence-to-Sequence Models"* - EACL 2017
   	
