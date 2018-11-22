@@ -377,11 +377,13 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [\[pptx\] *"Open Information Extraction from the Web"*](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx), presented by [Prof. Oren Etzioni](https://allenai.org/team/orene/). The tutorial was presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/)
 * [\[pdf\] *"ClausIE: Clause-Based Open Information Extraction"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf) by [Luciano del Corro](https://people.mpi-inf.mpg.de/~corrogg/). 
 * [\[pdf\] *"Open Information Extraction: the Second Generation"*](http://www.cse.iitd.ac.in/~mausam/courses/col864/spring2017/slides/03-openie.pdf)
+* [\[pdf\] *"Open Information Extraction: Where Are We Going?"*](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf) by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/), 2016
 
 ## Talks
 
-* [*\[video\] Open Information Extraction from the Web*](https://www.youtube.com/watch?v=lMiLiPjGays&feature=youtu.be), by [Prof. Oren Etzioni](https://allenai.org/team/orene/), presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/).
+* [*\[video\] "Open Information Extraction from the Web"*](https://www.youtube.com/watch?v=lMiLiPjGays&feature=youtu.be), by [Prof. Oren Etzioni](https://allenai.org/team/orene/), presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/).
 Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx)
+* [*\[video\] "Open Information Extraction: Where Are We Going?"*](https://www.youtube.com/watch?v=EhOF_AbDwcE), by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/). The talk was given at AI2 in 2016. [Slides \[pdf\]](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf)
 
 ## Code
 
