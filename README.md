@@ -173,7 +173,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 * *"A Rule Based Open Information Extraction Method Using Cascaded Finite-State Transducer"* - PAKDD 2016
 
-Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
+  Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
 
 * *"Getting More Out Of Syntax with PropS"* - CoRR abs/1603.01648 (2016)
 
@@ -183,4 +183,111 @@ Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
 
   Cheikh Kacfah Emani, Catarina Ferreira Da Silva, Bruno Fiés, Parisa Ghodous
   
+* *"An Informativeness Approach to Open IE Evaluation"* - CICLing 2016
+
+  William Léchelle, Philippe Langlais
+  
 ### 2017
+
+* *"MinIE: Minimizing Facts in Open Information Extraction"* - EMNLP 2017
+
+  Kiril Gashteovski, Rainer Gemulla, Luciano Del Corro
+  
+* *"Answering Complex Questions Using Open Information Extraction"* - ACL 2017
+
+  Tushar Khot, Ashish Sabharwal, Peter Clark
+  
+* *"Pocket Knowledge Base Population"* - ACL 2017
+  
+  Travis Wolfe, Mark Dredze, Benjamin Van Durme
+
+* *"MT/IE: Cross-lingual Open Information Extraction with Neural Sequence-to-Sequence Models"* - EACL 2017
+  	
+  Kevin Duh, Benjamin Van Durme, Sheng Zhang
+    
+* *"Syntactic Representation Learning for Open Information Extraction on Web"* - WWW 2017
+
+  Chengsen Ru, Jintao Tang, Shasha Li, Ting Wang
+    
+* *"MetaPAD: Meta Pattern Discovery from Massive Text Corpora"* - KDD 2017
+
+  Meng Jiang, Jingbo Shang, Taylor Cassidy, Xiang Ren, Lance M. Kaplan, Timothy P. Hanratty, Jiawei Han
+
+* *"Open Relation Extraction and Grounding"* - IJCNLP 2017
+
+  Dian Yu, Lifu Huang, Heng Ji
+  
+* *"Selective Decoding for Cross-lingual Open Information Extraction"* - IJCNLP(1) 2017
+
+  Sheng Zhang, Kevin Duh, Benjamin Van Durme
+
+* *"An assessment of open relation extraction systems for the semantic web"* - Inf. Syst. 71, 2017
+
+  Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
+  
+* *"Discovering Relational Phrases for Qualia Roles Through Open Information Extraction"* - KESW 2017
+
+  Giovanni Siragusa, Valentina Leone, Luigi Di Caro, Claudio Schifanella
+  
+* *"Open Relation Extraction Based on Core Dependency Phrase Clustering"* - DSC 2017
+
+  Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
+  
+### 2018
+
+* *"Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"* - WSDM 2018
+
+	Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li
+
+* *"Assertion-Based QA With Question-Aware Open Information Extraction"* - AAAI 2018
+  	
+  Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
+  
+* *"Neural Open Information Extraction"* - ACL 2018
+
+  Lei Cui, Furu Wei, Ming Zhou
+  
+* *"Supervised Open Information Extraction"* - NAACL-HLT 2018
+  	
+  Gabriel Stanovsky, Julian Michael, Luke Zettlemoyer, Ido Dagan
+  
+* *"Open Information Extraction from Conjunctive Sentences"* - COLING 2018
+
+  Swarnadeep Saha, Mausam
+  
+* *"Graphene: Semantically-Linked Propositions in Open Information Extraction"* - COLING 2018
+
+  Matthias Cetto, Christina Niklaus, André Freitas, Siegfried Handschuh
+  
+* *"StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction"* - CIKM 2018
+
+  Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt:
+  
+* *"Employing Semantic Context for Sparse Information Extraction Assessment"* - TKDD 2018
+
+  Pei-Pei Li, Haixun Wang, Hongsong Li, Xindong Wu
+  
+* *"Open Information Extraction with Meta-pattern Discovery in Biomedical Literature"* - BCB 2018
+
+  Xuan Wang, Yu Zhang, Qi Li, Yinyin Chen, Jiawei Han
+  
+* *"Modeling and Summarizing News Events Using Semantic Triples"* - ESWC 2018
+
+  Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt
+  
+* *"Disambiguating Open IE: Identifying Semantic Similarity in Relation Extraction by Word Embeddings"* - PROPOR 2018
+
+  Leandro M. P. Sanches, Victor S. Cardel, Larissa S. Machado, Marlo Souza, Laís do Nascimento Salvador
+  
+* *"A systematic mapping study on open information extraction"* -  Expert Syst. Appl. 2018
+
+  Rafael Glauber, Daniela Barreiro Claro
+  
+* *"Integrating Local Context and Global Cohesiveness for Open Information Extraction"* - ArXiv 2018
+
+  Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
+  
+* *"Supervised Neural Models Revitalize the Open Relation Extraction"*  ArXiv 2018
+
+  Shengbin Jia, Yang Xiang, Xiaojun Chen
+
