@@ -3,7 +3,10 @@
 A curated list of Open Information Extraction (OIE) resources: reserach papers, code, data, applications, etc.
 
 * [Papers](#papers)
-
+* [Code](#code)
+* [Talks (video)](#talks)
+* [Slides](#slides)
+* [Data](#data)
 
 ## [Papers](#papers)
 
@@ -352,3 +355,8 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
 
+## [Code](#code)
+
+## [Talks (video)](#talks)
+
+## [Data](#data)
