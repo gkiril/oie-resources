@@ -141,6 +141,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Claudio Delli Bovi, Luca Telesca, Roberto Navigli
   
+* *"Inferring Binary Relation Schemas for Open Information Extraction"* - EMNLP 2015
+
+  Kangqi Luo, Xusheng Luo, Kenny Qili Zhu
+  
 * *"Knowledge Base Unification via Sense Embeddings and Disambiguation"* - EMNLP 2015
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
