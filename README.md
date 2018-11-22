@@ -103,27 +103,27 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2013
 
-* *"ClausIE: clause-based open information extraction"* - WWW 2013
+* *["ClausIE: clause-based open information extraction"](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)* - WWW 2013
 
   Luciano Del Corro, Rainer Gemulla
   
-* *"Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm"* - IJCAI 2013
+* *["Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_IJCAI13.pdf)* - IJCAI 2013
 
   Andrea Moro, Roberto Navigli
 
-* *"Effectiveness and Efficiency of Open Relation Extraction"* - EMNLP 2013
+* *["Effectiveness and Efficiency of Open Relation Extraction"](http://www.aclweb.org/anthology/D13-1043)* - EMNLP 2013
 
   Filipe de Sá Mesquita, Jordan Schmidek, Denilson Barbosa
   
-* *"Open Information Extraction with Tree Kernels."* - HLT-NAACL 2013
+* *["Open Information Extraction with Tree Kernels"](http://www.aclweb.org/anthology/N13-1107)* - HLT-NAACL 2013
  
   Ying Xu, Mi-Young Kim, Kevin Quinn, Randy Goebel, Denilson Barbosa
   
-* *"Open Information Extraction via Contextual Sentence Decomposition"* - ICSC 2013
+* *["Open Information Extraction via Contextual Sentence Decomposition"](http://ad-publications.cs.uni-freiburg.de/ICSC_csdie_BH_2013.pdf)* - ICSC 2013
   
   Hannah Bast, Elmar Haussmann
   
-* *"Open Information Extraction to KBP Relations in 3 Hours"* - TAC 2013
+* *["Open Information Extraction to KBP Relations in 3 Hours"](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)* - TAC 2013
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
   
