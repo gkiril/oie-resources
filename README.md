@@ -122,7 +122,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2013
 
-* *["ClausIE: clause-based open information extraction"](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)* - WWW 2013 ([slides](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf), [code](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-0-0-1.zip), [code tutorial](http://resources.mpi-inf.mpg.de/d5/clausie/tutorial_.html), [all resources](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/))
+* *["ClausIE: clause-based open information extraction"](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)* - WWW 2013 ([slides](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf), [code](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-0-0-1.zip), [all resources](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/))
 
   Luciano Del Corro, Rainer Gemulla
   
