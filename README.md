@@ -208,7 +208,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Nikita Bhutani, H. V. Jagadish, Dragomir R. Radev
 
-* *["Creating a Large Benchmark for Open Information Extraction"](https://aclweb.org/anthology/D16-1252)* - EMNLP 2016 ([talk](https://vimeo.com/239251034))
+* *["Creating a Large Benchmark for Open Information Extraction"](https://aclweb.org/anthology/D16-1252)* - EMNLP 2016 ([code](https://github.com/gabrielStanovsky/oie-benchmark), [talk](https://vimeo.com/239251034))
 
   Gabriel Stanovsky, Ido Dagan
   
