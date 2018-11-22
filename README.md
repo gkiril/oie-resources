@@ -324,6 +324,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Leandro M. P. Sanches, Victor S. Cardel, Larissa S. Machado, Marlo Souza, Laís do Nascimento Salvador
   
+* *"Task-Oriented Evaluation of Dependency Parsing with Open Information Extraction"* - PROPOR 2018
+
+  Pablo Gamallo, Marcos Garcia
+  
 * *"A systematic mapping study on open information extraction"* -  Expert Syst. Appl. 2018
 
   Rafael Glauber, Daniela Barreiro Claro
