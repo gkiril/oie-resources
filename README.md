@@ -390,6 +390,9 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 * MinIE: Open Information Extraction System
   * [MinIE](https://github.com/gkiril/minie): originally written in Java
   * [Python wrapper for MinIE](https://github.com/mmxgn/miniepy)
+* ClausIE: Clause-based OIE
+  * [ClausIE](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/): originally written in Java
+  * [ClausIEpy](https://github.com/drwiner/ClausIEpy): Python wrapper for ClausIE
 * [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone): the latest version of OpenIE at A2I.
 * [OLLIE](http://knowitall.github.io/ollie/)
 * [ReVerb](http://reverb.cs.washington.edu/)
