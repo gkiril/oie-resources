@@ -395,6 +395,8 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
   * [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html): Stanford's OpenIE system.
   * [Stanford OpenIE Spider](https://github.com/liaoziyang/OpenIE-Spider): Extract Information from WebCorpus using Stanford Open Information Extraction.
   * [Python wrapper for Stanford OpenIE](https://github.com/philipperemy/Stanford-OpenIE-Python): The unofficial cross-platform Python wrapper for the state-of-art information extraction library from Stanford University.
- * [Zhopenie: Chinese OIE](https://github.com/tim5go/zhopenie): OIE system for Chinese language written in Python.
+ * OIE systems for languages other than English:
+   * [Zhopenie - Chinese OIE](https://github.com/tim5go/zhopenie): OIE system for Chinese language written in Python.
+   * [Baaz](https://github.com/sobhe/openie): Open information extraction from Persian web (Python)
 
 ## Data
