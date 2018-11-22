@@ -11,9 +11,14 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Autonomously semantifying wikipedia"* - CIKM 2007
 
   Fei Wu, Daniel S. Weld
+  
 * *"Unsupervised resolution of objects and relations on the web"* - NAACL 2007
 
   Alexander Yates, Oren Etzioni
+  
+* *"TextRunner: Open Information Extraction on the Web"* -  HLT-NAACL 2007
+
+  Alexander Yates, Michele Banko, Matthew Broadhead, Michael J. Cafarella, Oren Etzioni, Stephen Soderland
   
 ### 2008
 * *"The tradeoffs between open and traditional relation extraction"* - ACL 2008
@@ -83,6 +88,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Open Information Extraction for SOV Language Based on Entity-Predicate Pair Detection"* -  COLING 2012
 
   Woong-Ki Lee, Yeon-Su Lee, Hyoung-Gyu Lee, Won-Ho Ryu, Hae-Chang Rim
+  
+* *"A Weighting Scheme for Open Information Extraction"* - HLT-NAACL 2012
+
+  Yuval Merhav
 
 * *"Dependency-based open information extraction"* - Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP @ ACL 2012
 
