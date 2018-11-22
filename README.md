@@ -16,7 +16,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   * [2017](#2017)
   * [2018](#2018)
 * [Slides](#slides)
-* [Talks (video)](#talks-(video))
+* [Talks](#talks)
 * [Code](#code)
 * [Data](#data)
 
