@@ -370,6 +370,8 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
 ## Slides
 
+* [(Information Extraction) Lecture 10 – Ontological and Open IE](http://www.cis.uni-muenchen.de/~fraser/information_extraction_2015_lecture/10_ontological_and_open_IE.pdf): A lecture on Open IE, which is part of the course ["Information Extraction"](http://www.cis.uni-muenchen.de/~fraser/information_extraction_2018_lecture/), by [Prof. Dr. Alexander Fraser](http://www.cis.uni-muenchen.de/~fraser/), from LMU München
+
 ## Talks (video)
 
 ## Code
