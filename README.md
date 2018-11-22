@@ -21,15 +21,15 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   Alexander Yates, Michele Banko, Matthew Broadhead, Michael J. Cafarella, Oren Etzioni, Stephen Soderland
   
 ### 2008
-* *"The tradeoffs between open and traditional relation extraction"* - ACL 2008
+* *["The tradeoffs between open and traditional relation extraction"](http://turing.cs.washington.edu/papers/acl08.pdf)* - ACL 2008
 
   Michele Banko, Oren Etzioni
 
-* *"Open Knowledge Extraction through Compositional Language Processing"* - STEP 2008
+* *["Open Knowledge Extraction through Compositional Language Processing"](https://www.cs.rochester.edu/~schubert/papers/open-knowledge-step08.pdf)* - STEP 2008
 
   Benjamin Van Durme, Lenhart K. Schubert:
 
-* *"Open information extraction from the web"* - Commun. ACM 2008
+* *["Open information extraction from the web"](https://dl.acm.org/citation.cfm?id=1409378)* - Commun. ACM 2008
 
   Oren Etzioni, Michele Banko, Stephen Soderland, Daniel S. Weld
   
