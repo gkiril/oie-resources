@@ -41,15 +41,15 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
     
 ### 2010
 
-* *"Open Information Extraction Using Wikipedia"* - ACL 2010
+* *["Open Information Extraction Using Wikipedia"](http://www.aclweb.org/anthology/P10-1013)* - ACL 2010
 
   Fei Wu, Daniel S. Weld
   
-* *"Identifying Functional Relations in Web Text"* - EMNLP 2010
+* *["Identifying Functional Relations in Web Text"](https://homes.cs.washington.edu/~mausam/papers/emnlp10.pdf)* - EMNLP 2010
   
   Thomas Lin, Mausam, Oren Etzioni
 
-* *"Adapting Open Information Extraction to Domain-Specific Relations"* -  AI Magazine (31), 2010
+* *["Adapting Open Information Extraction to Domain-Specific Relations"](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2305)* -  AI Magazine (31), 2010
 
   Stephen Soderland, Brendan Roof, Bo Qin, Shi Xu, Mausam, Oren Etzioni 
   
