@@ -12,11 +12,11 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Fei Wu, Daniel S. Weld
   
-* *"Unsupervised resolution of objects and relations on the web"* - NAACL 2007
+* *["Unsupervised resolution of objects and relations on the web"](http://turing.cs.washington.edu/papers/object_identification_camera_ready_4.pdf)* - NAACL 2007
 
   Alexander Yates, Oren Etzioni
   
-* *"TextRunner: Open Information Extraction on the Web"* -  HLT-NAACL 2007
+* *["TextRunner: Open Information Extraction on the Web"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/p25-yates.pdf)* -  HLT-NAACL 2007
 
   Alexander Yates, Michele Banko, Matthew Broadhead, Michael J. Cafarella, Oren Etzioni, Stephen Soderland
   
