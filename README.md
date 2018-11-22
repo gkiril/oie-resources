@@ -170,7 +170,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2015
 
-* *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015
+* *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015 ([code (Java)](https://stanfordnlp.github.io/CoreNLP/openie.html), [code (Python)](https://github.com/philipperemy/Stanford-OpenIE-Python))
 
   Gabor Angeli, Melvin Jose Johnson Premkumar, Christopher D. Manning
 
