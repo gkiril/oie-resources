@@ -35,7 +35,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2009
 
-* *"Using Wikipedia to bootstrap open information extraction"* - SIGMOD 2009
+* *["Using Wikipedia to bootstrap open information extraction"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.4369&rep=rep1&type=pdf)* - SIGMOD 2009
   	
     Daniel S. Weld, Raphael Hoffmann, Fei Wu
     
