@@ -410,5 +410,8 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 
 
 ## Data
-
+* [ReVerb extractions]: 
+* [ReVerb extractions (linked)]:
 * [PATTY](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/): 
+* [WiseNet (1.0 and 2.0)](http://lcl.uniroma1.it/wisenet/):
+* [KB-Unify](http://lcl.uniroma1.it/kb-unify/): 
