@@ -63,9 +63,13 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 
   Anthony Fader, Stephen Soderland, Oren Etzioni
   
-* *Web-based open-domain information extraction"* - WWW 2011
+* *"Web-based open-domain information extraction"* - CIKM 2011
 
   Marius Pasca
+  
+* *"Filtering and clustering relations for unsupervised information extraction in open domain" - CIKM 2011
+
+  Wei Wang, Romaric Besançon, Olivier Ferret, Brigitte Grau
 
 * *"An analysis of open information extraction based on semantic role labeling"* K-CAP 2011
 
