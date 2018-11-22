@@ -242,7 +242,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 ### 2017
 
-* *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017
+* *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017 ([code](https://github.com/gkiril/minie), [all resources](https://dws.informatik.uni-mannheim.de/en/resources/software/minie/))
 
   Kiril Gashteovski, Rainer Gemulla, Luciano Del Corro
   
