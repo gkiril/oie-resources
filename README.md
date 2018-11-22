@@ -71,6 +71,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"PATTY: A Taxonomy of Relational Patterns with Semantic Types"* - EMNLP-CoNLL 2012
 
   Ndapandula Nakashole, Gerhard Weikum, Fabian M. Suchanek
+  
+* *"WiSeNet: building a wikipedia-based semantic network with ontologized relations"* - CIKM 2012
+
+  Andrea Moro, Roberto Navigli
 
 * *"Dependency-based open information extraction"* - Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP @ ACL 2012
 
@@ -85,10 +89,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"ClausIE: clause-based open information extraction"* - WWW 2013
 
   Luciano Del Corro, Rainer Gemulla
-
-* *"Open Information Extraction via Contextual Sentence Decomposition"* - ICSC 2013
   
-  Hannah Bast, Elmar Haussmann
+* *"Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm"* - IJCAI 2013
+
+  Andrea Moro, Roberto Navigli
 
 * *"Effectiveness and Efficiency of Open Relation Extraction"* - EMNLP 2013
 
@@ -97,6 +101,10 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Open Information Extraction with Tree Kernels."* - HLT-NAACL 2013
  
   Ying Xu, Mi-Young Kim, Kevin Quinn, Randy Goebel, Denilson Barbosa
+  
+* *"Open Information Extraction via Contextual Sentence Decomposition"* - ICSC 2013
+  
+  Hannah Bast, Elmar Haussmann
   
 ### 2014
 * *"ReNoun: Fact Extraction for Nominal Attributes"* - EMNLP 2014
@@ -128,6 +136,14 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Open IE as an Intermediate Structure for Semantic Tasks"* - ACL 2015
 
   Gabriel Stanovsky, Ido Dagan, Mausam
+  
+* *"Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis"* - TACL 2015
+
+  Claudio Delli Bovi, Luca Telesca, Roberto Navigli
+  
+* *"Knowledge Base Unification via Sense Embeddings and Disambiguation"* - EMNLP 2015
+
+  Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
 
 * *"Multilingual Open Information Extraction"* - EPIA 2015
 
@@ -135,7 +151,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 * *"Open information extraction based on lexical semantics."* - J. Braz. Comp. Soc. 21 2015
 
- 	Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
+ Clarissa Castellã Xavier, Vera Lúcia Strube de Lima, Marlo Souza
   
 ### 2016
 
@@ -157,7 +173,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   
 * *"A Rule Based Open Information Extraction Method Using Cascaded Finite-State Transducer"* - PAKDD 2016
 
-	Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
+Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
 
 * *"Getting More Out Of Syntax with PropS"* - CoRR abs/1603.01648 (2016)
 
@@ -166,3 +182,5 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * *"Improving Open Information Extraction for Semantic Web Tasks"* -  Trans. Computational Collective Intelligence 21, 2016
 
   Cheikh Kacfah Emani, Catarina Ferreira Da Silva, Bruno Fiés, Parisa Ghodous
+  
+### 2017
