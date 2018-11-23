@@ -2,6 +2,7 @@
 
 A curated list of Open Information Extraction (OIE) resources: reserach papers, code, data, applications, etc.
 
+* [Introduction to OIE](#introduction-to-oie)
 * [Papers](#papers)
   * [2007](#2007)
   * [2008](#2008)
@@ -20,6 +21,18 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [Code](#code)
 * [Data](#data)
 
+## Introduction to OIE
+
+Open Information Extraction (OIE) systems aim to extract unseen relations and their arguments from unstructured text in unsupervised manner. In its simplest form, given a natural language sentence, they extract information in the form of a triple, consisted of subject (S), relation (R) and object (O).
+
+Suppose we have the following input sentence:
+
+    AMD, which is based in U.S., is a technology company.
+
+An OIE system aims to make the following extractions:
+
+    ("AMD"; "is based in"; "U.S.")
+    ("AMD"; "is"; "technology company")
 
 ## Papers
 
