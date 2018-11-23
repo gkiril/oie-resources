@@ -438,4 +438,6 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 
 ### Resources derived from OIE output
 
-* [Functional relations:](http://knowitall.cs.washington.edu/leibniz/): 10K Functional relations. This resource comes from the paper [*"Identifying Functional Relations in Web Text"*](http://knowitall.cs.washington.edu/leibniz/paper.pdf). 
+* [Functional relations](http://knowitall.cs.washington.edu/leibniz/): 10K Functional relations. This resource comes from the paper [*"Identifying Functional Relations in Web Text"*](http://knowitall.cs.washington.edu/leibniz/paper.pdf), published on EMNLP 2010.
+* [Entailment rules](http://u.cs.biu.ac.il/~nlp/resources/downloads/predicative-entailment-rules-learned-using-local-and-global-algorithms/): 10M predicative entailment rules learned using local and global algorithms. From the documentation: 
+  > This resource of predicative entailment rules contains three resources in two formats – shallow and syntactic. Resources are learned over the REVERB data set and using the local and algorithms described in Chapter 5 of Jonathan Berant’s thesis (which is part of the package).
