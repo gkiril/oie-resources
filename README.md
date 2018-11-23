@@ -404,7 +404,7 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 * [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016
 
 ## OIE for downstream applications
-
+*To be populated*
 
 ## Code
 
