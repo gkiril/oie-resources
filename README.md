@@ -191,7 +191,7 @@ An OIE system aims to make the following extractions:
 
   Gabriel Stanovsky, Ido Dagan, Mausam
   
-* *["Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis"](https://transacl.org/ojs/index.php/tacl/article/view/660)* - TACL 2015
+* *["Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis"](https://transacl.org/ojs/index.php/tacl/article/view/660)* - TACL 2015 ([resources](http://lcl.uniroma1.it/defie/))
 
   Claudio Delli Bovi, Luca Telesca, Roberto Navigli
   
