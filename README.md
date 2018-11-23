@@ -437,3 +437,5 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 * [KB-Unify](http://lcl.uniroma1.it/kb-unify/): KB-Unify takes as an input several OIE corpora and unifies them into a single disambiguated OIE repository. The open relations are organized into relational synsets and the arguments are disambiguated with BabelFy. 
 
 ### Resources derived from OIE output
+
+* [Functional relations:](http://knowitall.cs.washington.edu/leibniz/): 10K Functional relations. This resource comes from the paper [*"Identifying Functional Relations in Web Text"*](http://knowitall.cs.washington.edu/leibniz/paper.pdf). 
