@@ -95,7 +95,7 @@ An OIE system aims to make the following extractions:
 
   Anthony Fader, Stephen Soderland, Oren Etzioni
   
-* *["Filtering and clustering relations for unsupervised information extraction in open domain](https://perso.limsi.fr/bg/fichiers/2011/cikm0874-wang.pdf)" - CIKM 2011
+* [*"Filtering and clustering relations for unsupervised information extraction in open domain"](https://perso.limsi.fr/bg/fichiers/2011/cikm0874-wang.pdf)* - CIKM 2011
 
   Wei Wang, Romaric Besançon, Olivier Ferret, Brigitte Grau
 
