@@ -105,7 +105,7 @@ An OIE system aims to make the following extractions:
 
 ### 2012
 
-* *["Open Language Learning for Information Extraction"](https://www.aclweb.org/anthology/D12-1048)* - EMNLP-CoNLL 2012
+* *["Open Language Learning for Information Extraction"](https://www.aclweb.org/anthology/D12-1048)* - EMNLP-CoNLL 2012 ([resources (code, data, binaries)](http://knowitall.github.io/ollie/))
 
   Mausam, Michael Schmitz, Stephen Soderland, Robert Bart, Oren Etzioni
   
