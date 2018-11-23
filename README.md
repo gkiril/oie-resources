@@ -91,7 +91,7 @@ An OIE system aims to make the following extractions:
   
   Oren Etzioni, Anthony Fader, Janara Christensen, Stephen Soderland, Mausam
   
-* *["Identifying Relations for Open Information Extraction"](http://www.aclweb.org/anthology/D11-1142)* - EMNLP 2011
+* *["Identifying Relations for Open Information Extraction"](http://www.aclweb.org/anthology/D11-1142)* - EMNLP 2011 [(resources (code, data)](http://reverb.cs.washington.edu/))
 
   Anthony Fader, Stephen Soderland, Oren Etzioni
   
