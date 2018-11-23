@@ -18,6 +18,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   * [2018](#2018)
 * [Slides](#slides)
 * [Talks](#talks)
+* [OIE for downstream applications](#oie-for-downstream-applications)
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
@@ -401,6 +402,9 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 * [*\[video\] "Open Information Extraction: Where Are We Going?"*](https://www.youtube.com/watch?v=EhOF_AbDwcE), by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/). The talk was given at AI2 in 2016. [Slides \[pdf\]](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf)
 * [*\[video\] "Nested Propositions in Open Information Extraction"*](https://vimeo.com/239245885) by Nikita Bhutani at EMNLP 2016
 * [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016
+
+## OIE for downstream applications
+
 
 ## Code
 
