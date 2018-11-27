@@ -21,6 +21,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [OIE for downstream applications](#oie-for-downstream-applications)
   * [Question Answering](#question-answering)
   * [Slot Filling](#slot-filling)
+  * [Event Schema Induction](#event-schema-induction)
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
@@ -424,6 +425,14 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) TAC 2013
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
+
+### Event Schema Induction
+
+* [*"Generating Coherent Event Schemas at Scale"*](http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf) EMNLP 2013
+
+  Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
+
+
 
 ## Code
 
