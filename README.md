@@ -22,6 +22,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
   * [Question Answering](#question-answering)
   * [Slot Filling](#slot-filling)
   * [Event Schema Induction](#event-schema-induction)
+  * [Fact Salience](#fact-salience)
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
@@ -432,7 +433,12 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
 
+### Fact Salience
 
+* [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) EMNLP 2018
+
+  Marco Ponza, Luciano Del Corro, Gerhard Weikum
+  
 
 ## Code
 
