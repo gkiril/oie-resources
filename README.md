@@ -417,6 +417,12 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Paraphrase-Driven Learning for Open Question Answering"*](http://www.aclweb.org/anthology/P13-1158) ACL 2013 
 
   Anthony Fader, Luke S. Zettlemoyer, Oren Etzioni
+  
+### Slot Filling
+
+* [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) TAC 2013
+
+  Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
 
 ## Code
 
