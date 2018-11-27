@@ -408,7 +408,14 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 * [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016
 
 ## OIE for downstream applications
-*To be populated*
+
+OIE's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OIE output are listed. 
+
+### Question Answering
+
+* [*"Paraphrase-Driven Learning for Open Question Answering"*](http://www.aclweb.org/anthology/P13-1158) ACL 2013 
+
+  Anthony Fader, Luke S. Zettlemoyer, Oren Etzioni
 
 ## Code
 
