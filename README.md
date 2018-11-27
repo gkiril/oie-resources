@@ -19,6 +19,7 @@ A curated list of Open Information Extraction (OIE) resources: reserach papers, 
 * [Slides](#slides)
 * [Talks](#talks)
 * [OIE for downstream applications](#oie-for-downstream-applications)
+  * [Question Answering](#question-answering)
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
