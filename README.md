@@ -465,6 +465,23 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
   Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
 
+* [*"Inference Approach to Enhance a Portuguese Open Information Extraction"*](http://www.scitepress.org/Papers/2017/63382/63382.pdf) ICEIS 2017
+  
+  Cleiton Fernando Lima Sena, Rafael Glauber, Daniela Barreiro Claro
+  
+### OIE Systems for Persian Language
+
+* [*"A recursive algorithm for open information extraction from Persian texts"*](https://www.researchgate.net/publication/325977333_A_recursive_algorithm_for_open_information_extraction_from_Persian_texts) IJCAT 2018
+
+  Mahmoud Rahat, Alireza Talebpour, Seyedamin Monemian
+  
+* [*"Open information extraction as an intermediate semantic structure for Persian text summarization"*](https://link.springer.com/article/10.1007/s00799-018-0244-z) Int. J. on Digital Libraries (2018)
+
+  Mahmoud Rahat, Alireza Talebpour
+  
+* [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) DSH 2018
+
+  Mahmoud Rahat, Alireza Talebpour  
 
 ## Code
 
