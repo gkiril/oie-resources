@@ -447,6 +447,21 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
+### OIE Systems for German Language
+
+* [*"GerIE - An Open Information Extraction System for the German Language"*](http://www.jucs.org/jucs_24_1/gerie_an_open_information/jucs_24_01_0002_0024_bassa.pdf) J. UCS 2018
+
+  Akim Bassa, Mark Kröll, Roman Kern
+  
+* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) EMNLP 2016
+
+  Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
+
+### OIE Systems for Portugese Language
+
+* [*"Challenges of an Annotation Task for Open Information Extraction in Portuguese"*](https://link.springer.com/chapter/10.1007/978-3-319-99722-3_7) PROPOR 2018
+
+  Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
 
 
 ## Code
