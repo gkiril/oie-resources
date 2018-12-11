@@ -26,7 +26,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
 * [OIE in Different Languages](#oie-in-different-languages)
   * [OIE Systems for German Language](#oie-systems-for-german-language)
   * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
-  * [OIE Systems for Persian Language)](#ois-systems-for-persian-language)
+  * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
