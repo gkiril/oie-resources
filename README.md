@@ -416,6 +416,9 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 OIE's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OIE output are listed. 
 
 ### Question Answering
+* [*"Assertion-based QA with Question-Aware Open Information Extraction"*](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16705/16170) AAAI 2018
+
+  Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
 
 * [*"Paraphrase-Driven Learning for Open Question Answering"*](http://www.aclweb.org/anthology/P13-1158) ACL 2013 
 
