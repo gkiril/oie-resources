@@ -424,7 +424,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
 
-*["Answering Complex Questions Using Open Information Extraction"](http://ai2-website.s3.amazonaws.com/publications/TupleInf_ACL17.pdf)* - ACL 2017
+* *["Answering Complex Questions Using Open Information Extraction"](http://ai2-website.s3.amazonaws.com/publications/TupleInf_ACL17.pdf)* - ACL 2017
 
   Tushar Khot, Ashish Sabharwal, Peter Clark
 
