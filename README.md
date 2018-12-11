@@ -424,6 +424,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
 
+*["Answering Complex Questions Using Open Information Extraction"](http://ai2-website.s3.amazonaws.com/publications/TupleInf_ACL17.pdf)* - ACL 2017
+
+  Tushar Khot, Ashish Sabharwal, Peter Clark
+
 * [*"Paraphrase-Driven Learning for Open Question Answering"*](http://www.aclweb.org/anthology/P13-1158) ACL 2013 
 
   Anthony Fader, Luke S. Zettlemoyer, Oren Etzioni
