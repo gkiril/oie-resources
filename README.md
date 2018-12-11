@@ -23,6 +23,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [Slot Filling](#slot-filling)
   * [Event Schema Induction](#event-schema-induction)
   * [Fact Salience](#fact-salience)
+* [OIE in Different Languages](#oie-in-different-languages)
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
@@ -442,6 +443,11 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Marco Ponza, Luciano Del Corro, Gerhard Weikum
   
+## OIE in Different Languages
+
+Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
+
+
 
 ## Code
 
