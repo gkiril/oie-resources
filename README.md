@@ -458,7 +458,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
   
 ### Knowledge Base Population
 
-* [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2018
+* [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
 
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
   
