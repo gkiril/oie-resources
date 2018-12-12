@@ -439,25 +439,25 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
   
 ### Slot Filling
 
-* [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) TAC 2013
+* [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) - TAC 2013
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
 
 ### Event Schema Induction
 
-* [*"Generating Coherent Event Schemas at Scale"*](http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf) EMNLP 2013
+* [*"Generating Coherent Event Schemas at Scale"*](http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf) - EMNLP 2013
 
   Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
 
 ### Fact Salience
 
-* [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) EMNLP 2018
+* [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
 
   Marco Ponza, Luciano Del Corro, Gerhard Weikum
   
 ### Knowledge Base Population
 
-* [*"ocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) ACL 2018
+* [*"ocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2018
 
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
   
@@ -468,27 +468,27 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
 ### Multilingual OIE Systems
 
-* [*"Multilingual Open Information Extraction"*](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf) EPIA 2015
+* [*"Multilingual Open Information Extraction"*](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf) - EPIA 2015
 
   Pablo Gamallo, Marcos García
 
 ### OIE Systems for German Language
 
-* [*"GerIE - An Open Information Extraction System for the German Language"*](http://www.jucs.org/jucs_24_1/gerie_an_open_information/jucs_24_01_0002_0024_bassa.pdf) J. UCS 2018
+* [*"GerIE - An Open Information Extraction System for the German Language"*](http://www.jucs.org/jucs_24_1/gerie_an_open_information/jucs_24_01_0002_0024_bassa.pdf) - J. UCS 2018
 
   Akim Bassa, Mark Kröll, Roman Kern
   
-* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) EMNLP 2016
+* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) - EMNLP 2016
 
   Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
 
 ### OIE Systems for Portugese Language
 
-* [*"Challenges of an Annotation Task for Open Information Extraction in Portuguese"*](https://link.springer.com/chapter/10.1007/978-3-319-99722-3_7) PROPOR 2018
+* [*"Challenges of an Annotation Task for Open Information Extraction in Portuguese"*](https://link.springer.com/chapter/10.1007/978-3-319-99722-3_7) - PROPOR 2018
 
   Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
 
-* [*"Inference Approach to Enhance a Portuguese Open Information Extraction"*](http://www.scitepress.org/Papers/2017/63382/63382.pdf) ICEIS 2017
+* [*"Inference Approach to Enhance a Portuguese Open Information Extraction"*](http://www.scitepress.org/Papers/2017/63382/63382.pdf) - ICEIS 2017
   
   Cleiton Fernando Lima Sena, Rafael Glauber, Daniela Barreiro Claro
   
@@ -504,11 +504,11 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
   Mahmoud Rahat, Alireza Talebpour, Seyedamin Monemian
   
-* [*"Open information extraction as an intermediate semantic structure for Persian text summarization"*](https://link.springer.com/article/10.1007/s00799-018-0244-z) Int. J. on Digital Libraries (2018)
+* [*"Open information extraction as an intermediate semantic structure for Persian text summarization"*](https://link.springer.com/article/10.1007/s00799-018-0244-z) - Int. J. on Digital Libraries (2018)
 
   Mahmoud Rahat, Alireza Talebpour
   
-* [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) DSH 2018
+* [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) - DSH 2018
 
   Mahmoud Rahat, Alireza Talebpour  
 
