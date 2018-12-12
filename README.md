@@ -26,6 +26,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
 * [OIE in Different Languages](#oie-in-different-languages)
   * [OIE Systems for German Language](#oie-systems-for-german-language)
   * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
+  * [OIE Systems for Chinese Language](#oie-systems-for-chinese-language)
   * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
 * [Code](#code)
 * [Data](#data)
@@ -174,7 +175,11 @@ An OIE system aims to make the following extractions:
 
 * *["ReNoun: Fact Extraction for Nominal Attributes"](http://emnlp2014.org/papers/pdf/EMNLP2014038.pdf)* - EMNLP 2014
   	
-    Mohamed Yahya, Steven Whang, Rahul Gupta, Alon Y. Halevy
+  Mohamed Yahya, Steven Whang, Rahul Gupta, Alon Y. Halevy
+    
+* *["ZORE: A Syntax-based System for Chinese Open Relation Extraction"](http://aclweb.org/anthology/D14-1201)* - EMNLP 2014
+
+  Likun Qiu, Yue Zhang
 
 * *["Boosting Open Information Extraction with Noun-Based Relations"](https://pdfs.semanticscholar.org/570c/ce7b24c51f75da091b515baddce567128680.pdf)* - LREC 2014
 
@@ -479,6 +484,12 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Inference Approach to Enhance a Portuguese Open Information Extraction"*](http://www.scitepress.org/Papers/2017/63382/63382.pdf) ICEIS 2017
   
   Cleiton Fernando Lima Sena, Rafael Glauber, Daniela Barreiro Claro
+  
+### OIE Systems for Chinese Language
+
+* *["ZORE: A Syntax-based System for Chinese Open Relation Extraction"](http://aclweb.org/anthology/D14-1201)* - EMNLP 2014
+
+  Likun Qiu, Yue Zhang
   
 ### OIE Systems for Persian Language
 
