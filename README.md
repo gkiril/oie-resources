@@ -473,7 +473,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
 ### Multilingual OIE Systems
 
-* *["Multilingual Open Relation Extraction Using Cross-lingual Projection"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
+* [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
 
   Manaal Faruqui, Shankar Kumar
 
