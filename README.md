@@ -455,6 +455,13 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Marco Ponza, Luciano Del Corro, Gerhard Weikum
   
+### Knowledge Base Population
+
+* [*"ocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) ACL 2018
+
+  Travis Wolfe, Mark Dredze, Benjamin Van Durme
+  
+  
 ## OIE in Different Languages
 
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
