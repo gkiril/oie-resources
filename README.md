@@ -220,7 +220,7 @@ An OIE system aims to make the following extractions:
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
   
-* *["Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
+* [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
 
   Manaal Faruqui, Shankar Kumar
   
