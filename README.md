@@ -220,6 +220,10 @@ An OIE system aims to make the following extractions:
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
   
+* *["Multilingual Open Relation Extraction Using Cross-lingual Projection"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
+
+  Manaal Faruqui, Shankar Kumar
+  
 * *["SRDF: Korean Open Information Extraction using Singleton Property"](http://ceur-ws.org/Vol-1486/paper_55.pdf)* - ISWC 2015
 
   Sangha Nam, YoungGyun Hahm, Sejin Nam, Key-Sun Choi
@@ -468,6 +472,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
 ### Multilingual OIE Systems
+
+* *["Multilingual Open Relation Extraction Using Cross-lingual Projection"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
+
+  Manaal Faruqui, Shankar Kumar
 
 * [*"Multilingual Open Information Extraction"*](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf) - EPIA 2015
 
