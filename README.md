@@ -325,6 +325,9 @@ An OIE system aims to make the following extractions:
   Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
   
 ### 2018
+* *["A systematic mapping study on open information extraction"*](https://www.sciencedirect.com/science/article/pii/S0957417418303932) - Expert Systems with Applications 2018
+
+   Rafael Glauber, Daniela Barreiro Claro
 
 * *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
 
