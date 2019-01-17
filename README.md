@@ -325,7 +325,7 @@ An OIE system aims to make the following extractions:
   Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
   
 ### 2018
-* *["A systematic mapping study on open information extraction"*](https://www.sciencedirect.com/science/article/pii/S0957417418303932) - Expert Systems with Applications 2018
+* *["A systematic mapping study on open information extraction"](https://www.sciencedirect.com/science/article/pii/S0957417418303932)* - Expert Systems with Applications 2018
 
    Rafael Glauber, Daniela Barreiro Claro
 
