@@ -16,6 +16,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2016](#2016)
   * [2017](#2017)
   * [2018](#2018)
+  * [2019](#2019)
 * [Slides](#slides)
 * [Talks](#talks)
 * [OIE for downstream applications](#oie-for-downstream-applications)
@@ -408,6 +409,12 @@ An OIE system aims to make the following extractions:
 * *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)*  ArXiv 2018
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
+  
+### 2019
+
+* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf) * CoRR 2019
+   
+   Junlang Zhan, Hai Zhao
 
 ## Slides
 
