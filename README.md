@@ -263,7 +263,7 @@ An OIE system aims to make the following extractions:
 
   Hailun Lin, Yuanzhuo Wang, Peng Zhang, Weiping Wang, Yinliang Yue, Zheng Lin
 
-* *["Getting More Out Of Syntax with PropS"](https://arxiv.org/pdf/1603.01648.pdf)* - ArXiv (2016)
+* *["Getting More Out Of Syntax with PropS"](https://arxiv.org/pdf/1603.01648.pdf)* - CoRR (2016)
 
   Gabriel Stanovsky, Jessica Ficler, Ido Dagan, Yoav Goldberg
 
@@ -402,17 +402,17 @@ An OIE system aims to make the following extractions:
 
   Rafael Glauber, Daniela Barreiro Claro
   
-* *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - ArXiv 2018
+* *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - CoRR 2018
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
   
-* *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)*  ArXiv 2018
+* *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)*  CoRR 2018
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
   
 ### 2019
 
-* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf) * CoRR 2019
+* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* CoRR 2019
    
    Junlang Zhan, Hai Zhao
 
