@@ -475,7 +475,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
 
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
-  
+
+### Relating Entities
+
+* [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) MTSR 2018
   
 ## OIE in Different Languages
 
