@@ -479,7 +479,9 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
 ### Relating Entities
 
-* [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) MTSR 2018
+* [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) - MTSR 2018
+  
+  Giovanni Siragusa, Rohan Nanda, Valeria De Paiva, Luigi Di Caro
   
 ## OIE in Different Languages
 
