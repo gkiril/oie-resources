@@ -25,6 +25,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [Event Schema Induction](#event-schema-induction)
   * [Fact Salience](#fact-salience)
   * [Knowledge Base Population](#knowledge-base-population)
+  * [Relating Entities](#relating-entities)
 * [OIE in Different Languages](#oie-in-different-languages)
   * [OIE Systems for German Language](#oie-systems-for-german-language)
   * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
