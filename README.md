@@ -371,6 +371,10 @@ An OIE system aims to make the following extractions:
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
 
+* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018
+  
+  Shikhar Vashishth, Prince Jain, Partha Talukdar
+
 * *["Revisiting the Task of Scoring Open IE Relations"](http://www-etud.iro.umontreal.ca/~lechellw/papers/submitted_to_LREC18.pdf)* - LREC 2018
 
   William Léchelle, Philippe Langlais
