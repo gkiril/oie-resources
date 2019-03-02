@@ -417,6 +417,18 @@ An OIE system aims to make the following extractions:
   
 ### 2019
 
+* *"Open Information Extraction from Question-Answer Pairs"* - NAACL 2019 (to appear)
+
+  Nikita Bhutani, Yoshihiko Suhara, Wang-Chiew Tan, Alon Halevy and H V Jagadish
+  
+* *"OpenRM: Relation Mapping between Open Information Extraction and Knowledge Bases with Universal Schema"* - NAACL 2019 (to appear)
+
+  Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Luna Dong and Andrew McCallum
+  
+* *"When Open Information Extraction Meets the Semi-Structured Web"* - NAACL 2019
+
+  Colin Lockard, Prashant Shiralkar and Xin Luna Dong
+
 * *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* CoRR 2019
    
    Junlang Zhan, Hai Zhao
