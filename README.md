@@ -578,7 +578,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
   * [Python wrapper for Stanford OpenIE](https://github.com/philipperemy/Stanford-OpenIE-Python): The unofficial cross-platform Python wrapper for the state-of-art information extraction library from Stanford University.
 * [EXEMPLAR](https://github.com/U-Alberta/exemplar)
 * [DefIE:](https://github.com/claudio-db/defIE) Open information extraction from textual definitions
-* OIE systems for languages other than English:
+* OIE systems for languages other than English or cruss-lingual systems:
    * [Zhopenie - Chinese OIE](https://github.com/tim5go/zhopenie): OIE system for Chinese language written in Python.
    * [Baaz](https://github.com/sobhe/openie): Open information extraction from Persian web (Python)
    * [MT/IE](https://github.com/sheng-z/cross-lingual-open-ie): Cross-lingual Open IE. Attention-based sequence-to-sequence model for cross-lingual open IE. Written in Python
