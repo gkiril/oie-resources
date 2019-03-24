@@ -431,7 +431,7 @@ An OIE system aims to make the following extractions:
   
 * *"When Open Information Extraction Meets the Semi-Structured Web"* - NAACL 2019
 
-  Colin Lockard, Prashant Shiralkar and Xin Luna Dong
+  Colin Lockard, Prashant Shiralkar and Xin Luna Dong (to appear)
 
 * *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* CoRR 2019
    
