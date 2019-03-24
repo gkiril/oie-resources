@@ -166,6 +166,10 @@ An OIE system aims to make the following extractions:
  
   Ying Xu, Mi-Young Kim, Kevin Quinn, Randy Goebel, Denilson Barbosa
   
+* *["Relation Extraction with Matrix Factorization and Universal Schemas"](http://www.aclweb.org/anthology/N13-1008)* -  HLT-NAACL 2013 
+
+  Sebastian Riedel, Limin Yao, Andrew McCallum, Benjamin M. Marlin
+  
 * *["Open Information Extraction via Contextual Sentence Decomposition"](http://ad-publications.cs.uni-freiburg.de/ICSC_csdie_BH_2013.pdf)* - ICSC 2013
   
   Hannah Bast, Elmar Haussmann
