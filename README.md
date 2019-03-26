@@ -552,6 +552,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
   Likun Qiu, Yue Zhang
   
+* *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process. 2018 ([slides](https://hong.xmu.edu.cn/__local/B/68/C0/92B8F8DC6AC06A3F256E1FE1A6F_9556CC90_4CCA5D.pdf?e=.pdf), [code](https://github.com/lemonhu/open-entity-relation-extraction))
+
+  Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
+  
 ### OIE Systems for Persian Language
 
 * [*"A recursive algorithm for open information extraction from Persian texts"*](https://www.researchgate.net/publication/325977333_A_recursive_algorithm_for_open_information_extraction_from_Persian_texts) IJCAT 2018
