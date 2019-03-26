@@ -415,9 +415,13 @@ An OIE system aims to make the following extractions:
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
   
-* *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)*  CoRR 2018
+* *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)* - CoRR 2018
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
+  
+* *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process.
+
+  Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
   
 ### 2019
 
