@@ -419,7 +419,7 @@ An OIE system aims to make the following extractions:
 
   Shengbin Jia, Yang Xiang, Xiaojun Chen
   
-* *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process.
+* *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process. 2018
 
   Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
   
