@@ -588,10 +588,11 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [EXEMPLAR](https://github.com/U-Alberta/exemplar)
 * [DefIE:](https://github.com/claudio-db/defIE) Open information extraction from textual definitions
 * OIE systems for languages other than English or cross-lingual systems:
-   * [Zhopenie - Chinese OIE](https://github.com/tim5go/zhopenie): OIE system for Chinese language written in Python.
-   * [Open Relation Extraction for Chinese](https://github.com/lemonhu/open-entity-relation-extraction): Knowledge triples extraction (entities and relations extraction) and knowledge base construction based on dependency syntax for open domain text.
-   * [Baaz](https://github.com/sobhe/openie): Open information extraction from Persian web (Python)
+   * [Zhopenie - Chinese OIE](https://github.com/tim5go/zhopenie): OIE system for **Chinese** language written in Python.
+   * [Open Relation Extraction for Chinese](https://github.com/lemonhu/open-entity-relation-extraction): Knowledge triples extraction (entities and relations extraction) and knowledge base construction based on dependency syntax for open domain text (for **Chinese**)
+   * [Baaz](https://github.com/sobhe/openie): Open information extraction from **Persian** web (Python)
    * [MT/IE](https://github.com/sheng-z/cross-lingual-open-ie): Cross-lingual Open IE. Attention-based sequence-to-sequence model for cross-lingual open IE. Written in Python
+   * [Relation Extraction on German Websites](https://github.com/tabergma/relation-extraction): This repository holds a collection of three Open Information Extraction approaches for the **German** language
 
 
 
