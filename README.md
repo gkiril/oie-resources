@@ -158,7 +158,7 @@ An OIE system aims to make the following extractions:
 
   Andrea Moro, Roberto Navigli
 
-* *["Effectiveness and Efficiency of Open Relation Extraction"](http://www.aclweb.org/anthology/D13-1043)* - EMNLP 2013
+* *["Effectiveness and Efficiency of Open Relation Extraction"](http://www.aclweb.org/anthology/D13-1043)* - EMNLP 2013 ([code](https://github.com/U-Alberta/exemplar))
 
   Filipe de Sá Mesquita, Jordan Schmidek, Denilson Barbosa
   
