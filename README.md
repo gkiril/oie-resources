@@ -410,11 +410,7 @@ An OIE system aims to make the following extractions:
   
 * *["Self-training on refined clause patterns for relation extraction"](https://www.sciencedirect.com/science/article/abs/pii/S0306457316303259?dgcid=raven_sd_recommender_email)* - Inf. Process. Manage. 54(4): 686-706 (2018)
 
-  Duc-Thuan Vo, Ebrahim Bagheri: 
-  
-* *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - CoRR 2018
-
-  Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
+  Duc-Thuan Vo, Ebrahim Bagheri
   
 * *["Supervised Neural Models Revitalize the Open Relation Extraction"](https://arxiv.org/pdf/1809.09408.pdf)* - CoRR 2018
 
@@ -425,6 +421,10 @@ An OIE system aims to make the following extractions:
   Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
   
 ### 2019
+
+* *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - WSDM 2019 ([code](https://github.com/GentleZhu/ReMine))
+
+  Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Ahmed El-Kishky, Jiawei Han
 
 * *"Open Information Extraction from Question-Answer Pairs"* - NAACL 2019 (to appear)
 
@@ -588,6 +588,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
   * [Python wrapper for Stanford OpenIE](https://github.com/philipperemy/Stanford-OpenIE-Python): The unofficial cross-platform Python wrapper for the state-of-art information extraction library from Stanford University.
 * [EXEMPLAR](https://github.com/U-Alberta/exemplar)
 * [DefIE:](https://github.com/claudio-db/defIE) Open information extraction from textual definitions
+* [ReMine:](https://github.com/GentleZhu/ReMine) Integrating Local and Global Cohesiveness for Open Information Extraction 
 * OIE systems for languages other than English or cross-lingual systems:
    * [Zhopenie - Chinese OIE](https://github.com/tim5go/zhopenie): OIE system for **Chinese** language written in Python.
    * [Open Relation Extraction for Chinese](https://github.com/lemonhu/open-entity-relation-extraction): Knowledge triples extraction (entities and relations extraction) and knowledge base construction based on dependency syntax for open domain text (for **Chinese**)
