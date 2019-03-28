@@ -148,6 +148,10 @@ An OIE system aims to make the following extractions:
 
   Alan Akbik, Alexander Löser
   
+* *["Improving Open Information Extraction for Informal Web Documents with Ripple-Down Rules"](https://link.springer.com/chapter/10.1007/978-3-642-32541-0_14)* - PKAW 2012
+
+  Myung Hee Kim, Paul Compton
+  
 ### 2013
 
 * *["ClausIE: clause-based open information extraction"](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)* - WWW 2013 ([slides](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf), [code](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-0-0-1.zip), [all resources](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/))
