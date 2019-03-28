@@ -408,7 +408,7 @@ An OIE system aims to make the following extractions:
 
   Rafael Glauber, Daniela Barreiro Claro
   
-* *["Self-training on refined clause patterns for relation extraction"](https://www.sciencedirect.com/science/article/abs/pii/S0306457316303259?dgcid=raven_sd_recommender_email) - Inf. Process. Manage. 54(4): 686-706 (2018)
+* *["Self-training on refined clause patterns for relation extraction"](https://www.sciencedirect.com/science/article/abs/pii/S0306457316303259?dgcid=raven_sd_recommender_email)* - Inf. Process. Manage. 54(4): 686-706 (2018)
 
   Duc-Thuan Vo, Ebrahim Bagheri: 
   
