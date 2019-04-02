@@ -35,6 +35,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
   * [Resources derived from OIE output](#resources-derived-from-oie-output)
+* [PhD theses](#phd-theses)
 
 ## Introduction to OIE
 
@@ -627,6 +628,7 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 
 ### PhD theses
 
-* [*"Automated Knowledge Base Extension Using Open Information"*](https://ub-madoc.bib.uni-mannheim.de/40469/1/dutta.dissertation.pdf) by Arnab Kumar Dutta, 2015
-  
-  University of Mannheim
+* [*"Methods for open information extraction and sense disambiguation on natural language text"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro-thesis.pdf) by Luciano Del Corro, University of Saarland, Germany, 2016
+
+* [*"Automated Knowledge Base Extension Using Open Information"*](https://ub-madoc.bib.uni-mannheim.de/40469/1/dutta.dissertation.pdf) by Arnab Kumar Dutta, University of Mannheim, Germany, 2015
+
