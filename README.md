@@ -632,3 +632,4 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 
 * [*"Automated Knowledge Base Extension Using Open Information"*](https://ub-madoc.bib.uni-mannheim.de/40469/1/dutta.dissertation.pdf) by Arnab Kumar Dutta, University of Mannheim, Germany, 2015
 
+* [*"Open Information Extraction for the Web"*](http://turing.cs.washington.edu/papers/banko-thesis.pdf) by Michele Banko, University of Washington, USA, 2009
