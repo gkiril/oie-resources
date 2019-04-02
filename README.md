@@ -234,6 +234,10 @@ An OIE system aims to make the following extractions:
 
   Manaal Faruqui, Shankar Kumar
   
+* [*"Enriching Structured Knowledge with Open Information"*](https://ub-madoc.bib.uni-mannheim.de/38861/1/p267.pdf) - WWW 2015
+
+  Arnab Dutta, Christian Meilicke, Heiner Stuckenschmidt
+  
 * *["SRDF: Korean Open Information Extraction using Singleton Property"](http://ceur-ws.org/Vol-1486/paper_55.pdf)* - ISWC 2015
 
   Sangha Nam, YoungGyun Hahm, Sejin Nam, Key-Sun Choi
