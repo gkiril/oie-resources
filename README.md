@@ -624,3 +624,9 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 * [Entailment rules](http://u.cs.biu.ac.il/~nlp/resources/downloads/predicative-entailment-rules-learned-using-local-and-global-algorithms/): 10M predicative entailment rules learned using local and global algorithms. From the documentation: 
   "This resource of predicative entailment rules contains three resources in two formats – shallow and syntactic. Resources are learned over the REVERB data set and using the local and algorithms described in Chapter 5 of Jonathan Berant’s thesis (which is part of the package)."
 * [Entailment rules](https://github.com/dair-iitd/kglr): 36K high precision entailment rules (data and code). The resource is the result of the work of Prachi Jain and Mausam [*"Knowledge-Guided Linguistic Rewrites for Inference Rule Verification"*](http://www.cse.iitd.ac.in/~mausam/papers/naacl16b.pdf) published on NAACL-HLT, 2016.
+
+### PhD theses
+
+* [*"Automated Knowledge Base Extension Using Open Information"*](https://ub-madoc.bib.uni-mannheim.de/40469/1/dutta.dissertation.pdf) by Arnab Kumar Dutta, 2015
+  
+  University of Mannheim
