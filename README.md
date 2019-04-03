@@ -75,7 +75,7 @@ An OIE system aims to make the following extractions:
 
 * *["Open Knowledge Extraction through Compositional Language Processing"](https://www.cs.rochester.edu/~schubert/papers/open-knowledge-step08.pdf)* - STEP 2008
 
-  Benjamin Van Durme, Lenhart K. Schubert:
+  Benjamin Van Durme, Lenhart K. Schubert
 
 * *["Open information extraction from the web"](https://dl.acm.org/citation.cfm?id=1409378)* - Commun. ACM 2008
 
