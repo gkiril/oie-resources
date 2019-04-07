@@ -443,6 +443,10 @@ An OIE system aims to make the following extractions:
 
   Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Luna Dong and Andrew McCallum
   
+* *"OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference"* - NAACL 2019
+
+  Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Xin Luna Dong, Andrew McCallum
+  
 * *"When Open Information Extraction Meets the Semi-Structured Web"* - NAACL 2019
 
   Colin Lockard, Prashant Shiralkar and Xin Luna Dong (to appear)
