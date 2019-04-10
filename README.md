@@ -443,10 +443,6 @@ An OIE system aims to make the following extractions:
 
   Nikita Bhutani, Yoshihiko Suhara, Wang-Chiew Tan, Alon Halevy and H V Jagadish
   
-* *"OpenRM: Relation Mapping between Open Information Extraction and Knowledge Bases with Universal Schema"* - NAACL 2019 (to appear)
-
-  Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Luna Dong and Andrew McCallum
-  
 * *"OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference"* - NAACL 2019
 
   Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Xin Luna Dong, Andrew McCallum
