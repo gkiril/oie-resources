@@ -1,6 +1,6 @@
 # Open Information Extraction (OIE) Resources
 
-A curated list of Open Information Extraction (OIE) resources: research papers, code, data, applications, etc.
+A curated list of Open Information Extraction (OIE) resources: research papers, code, data, applications, etc. The list is not limited to Open Information Extraction systems exclusively. It also includes work highly related to the field of OIE, such as taxonomizing open relations. 
 
 * [Introduction to OIE](#introduction-to-oie)
 * [Papers](#papers)
@@ -192,6 +192,10 @@ An OIE system aims to make the following extractions:
 * *["ZORE: A Syntax-based System for Chinese Open Relation Extraction"](http://aclweb.org/anthology/D14-1201)* - EMNLP 2014
 
   Likun Qiu, Yue Zhang
+  
+* *["Canonicalizing Open Knowledge Bases"](https://suchanek.name/work/publications/cikm2014.pdf)* - CIKM 2014
+
+  Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
 
 * *["Boosting Open Information Extraction with Noun-Based Relations"](https://pdfs.semanticscholar.org/570c/ce7b24c51f75da091b515baddce567128680.pdf)* - LREC 2014
 
