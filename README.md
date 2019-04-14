@@ -269,6 +269,10 @@ An OIE system aims to make the following extractions:
 
   Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
   
+* *["Relation Schema Induction using Tensor Factorization with Side Information"](https://www.aclweb.org/anthology/D16-1040)* - EMNLP 2016 
+
+  Madhav Nimishakavi, Uday Singh Saini, Partha P. Talukdar
+  
 * *["Open Information Extraction Systems and Downstream Applications"](https://www.ijcai.org/Proceedings/16/Papers/604.pdf)* - IJCAI 2016
 
   Mausam
