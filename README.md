@@ -335,6 +335,10 @@ An OIE system aims to make the following extractions:
 
   Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
   
+* *["An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling"](https://aclweb.org/anthology/W17-6944) IWCS 2017
+
+  Sheng Zhang, Rachel Rudinger, Benjamin Van Durme
+  
 * *["Discovering Relational Phrases for Qualia Roles Through Open Information Extraction"](https://link.springer.com/chapter/10.1007/978-3-319-69548-8_6)* - KESW 2017
 
   Giovanni Siragusa, Valentina Leone, Luigi Di Caro, Claudio Schifanella
