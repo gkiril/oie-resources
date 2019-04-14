@@ -331,11 +331,11 @@ An OIE system aims to make the following extractions:
 
   Sheng Zhang, Kevin Duh, Benjamin Van Durme
 
-* *"[An assessment of open relation extraction systems for the semantic web"](https://www.sciencedirect.com/science/article/pii/S0306437916304999)* - Inf. Syst. 71, 2017
+* *["An assessment of open relation extraction systems for the semantic web"](https://www.sciencedirect.com/science/article/pii/S0306437916304999)* - Inf. Syst. 71, 2017
 
   Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
   
-* *["An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling"](https://aclweb.org/anthology/W17-6944) IWCS 2017
+* *["An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling"](https://aclweb.org/anthology/W17-6944)* - IWCS 2017
 
   Sheng Zhang, Rachel Rudinger, Benjamin Van Durme
   
