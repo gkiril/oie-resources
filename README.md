@@ -355,7 +355,7 @@ An OIE system aims to make the following extractions:
 
 * *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
 
-	Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li
+  Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li
 
 * *["Assertion-Based QA With Question-Aware Open Information Extraction"](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16705/16170)* - AAAI 2018
   	
