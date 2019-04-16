@@ -377,7 +377,7 @@ An OIE system aims to make the following extractions:
 
   Swarnadeep Saha, Mausam
   
-* *["Graphene: Semantically-Linked Propositions in Open Information Extraction"](http://aclweb.org/anthology/C18-1195)* - COLING 2018
+* *["Graphene: Semantically-Linked Propositions in Open Information Extraction"](http://aclweb.org/anthology/C18-1195)* - COLING 2018 ([code](https://github.com/Lambda-3/Graphene), [documentation](http://lambda3.org/Graphene/))
 
   Matthias Cetto, Christina Niklaus, André Freitas, Siegfried Handschuh
   
@@ -615,6 +615,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
   * [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html): Stanford's OpenIE system.
   * [Stanford OpenIE Spider](https://github.com/liaoziyang/OpenIE-Spider): Extract Information from WebCorpus using Stanford Open Information Extraction.
   * [Python wrapper for Stanford OpenIE](https://github.com/philipperemy/Stanford-OpenIE-Python): The unofficial cross-platform Python wrapper for the state-of-art information extraction library from Stanford University.
+* [Graphene:](https://github.com/Lambda-3/Graphene) OpenIE system containing coreference resolution, simplification and open relation extraction pipeline
 * [EXEMPLAR](https://github.com/U-Alberta/exemplar)
 * [DefIE:](https://github.com/claudio-db/defIE) Open information extraction from textual definitions
 * [ReMine:](https://github.com/GentleZhu/ReMine) Integrating Local and Global Cohesiveness for Open Information Extraction 
@@ -626,7 +627,6 @@ Most of the OIE systems are focused on extractions made from text written on Eng
    * [Relation Extraction on German Websites](https://github.com/tabergma/relation-extraction): This repository holds a collection of three Open Information Extraction approaches for the **German** language
 * [CORE:](https://github.com/fabiopetroni/CORE) Context-Aware Open Relation Extraction with Factorization Machines
 * [CESI:](https://github.com/malllabiisc/cesi) Canonicalizing Open Knowledge Bases using Embeddings and Side Information
-
 
 ## Data
 
