@@ -247,8 +247,6 @@ An OIE system aims to make the following extractions:
 
   Arnab Dutta, Christian Meilicke, Heiner Stuckenschmidt
   
-  **Goal:** map open facts to KB facts. For example, given the OIE triple *("Croydon"; "is a town in", "London")*, provide mapping to the DBpedia fact `(db:Croydon, dbo:county, db:london)`.
-  
 * *["SRDF: Korean Open Information Extraction using Singleton Property"](http://ceur-ws.org/Vol-1486/paper_55.pdf)* - ISWC 2015
 
   Sangha Nam, YoungGyun Hahm, Sejin Nam, Key-Sun Choi
