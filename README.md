@@ -235,6 +235,10 @@ An OIE system aims to make the following extractions:
 
   Claudio Delli Bovi, Luis Espinosa Anke, Roberto Navigli
   
+* *["CORE: Context-Aware Open Relation Extraction with Factorization Machines"](https://www.aclweb.org/anthology/D15-1204)* - EMNLP 2015 ([code](https://github.com/fabiopetroni/CORE))
+
+  Fabio Petroni, Luciano Del Corro, Rainer Gemulla
+  
 * [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
 
   Manaal Faruqui, Shankar Kumar
