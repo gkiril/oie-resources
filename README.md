@@ -625,6 +625,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
    * [MT/IE](https://github.com/sheng-z/cross-lingual-open-ie): Cross-lingual Open IE. Attention-based sequence-to-sequence model for cross-lingual open IE. Written in Python
    * [Relation Extraction on German Websites](https://github.com/tabergma/relation-extraction): This repository holds a collection of three Open Information Extraction approaches for the **German** language
 * [CORE:](https://github.com/fabiopetroni/CORE) Context-Aware Open Relation Extraction with Factorization Machines
+* [CESI:](https://github.com/malllabiisc/cesi) Canonicalizing Open Knowledge Bases using Embeddings and Side Information
 
 
 ## Data
