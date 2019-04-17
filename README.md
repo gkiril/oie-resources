@@ -129,6 +129,10 @@ An OIE system aims to make the following extractions:
 
   Ndapandula Nakashole, Gerhard Weikum, Fabian M. Suchanek
   
+* *["Ensemble Semantics for Large-scale Unsupervised Relation Extraction"](https://www.aclweb.org/anthology/D12-1094)* - EMNLP-CoNLL 
+
+  Bonan Min, Shuming Shi, Ralph Grishman, Chin-Yew Lin
+  
 * *["WiSeNet: building a wikipedia-based semantic network with ontologized relations"](http://wwwusers.di.uniroma1.it/~moro/MoroNavigli_CIKM12.pdf)* - CIKM 2012 ([resources](http://lcl.uniroma1.it/wisenet/))
 
   Andrea Moro, Roberto Navigli
