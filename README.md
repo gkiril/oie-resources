@@ -183,6 +183,10 @@ An OIE system aims to make the following extractions:
   
   Hannah Bast, Elmar Haussmann
   
+* *["Integrating Open and Closed Information Extraction: Challenges and First Steps"](http://ceur-ws.org/Vol-1064/Dutta_Integrating.pdf)* - NLP-DBPEDIA@ISWC 2013
+
+  Arnab Dutta, Christian Meilicke, Mathias Niepert, Simone Paolo Ponzetto
+  
 * *["Open Information Extraction to KBP Relations in 3 Hours"](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)* - TAC 2013
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
