@@ -212,6 +212,10 @@ An OIE system aims to make the following extractions:
 * *["More Informative Open Information Extraction via Simple Inference"](http://ad-publications.informatik.uni-freiburg.de/ECIR_csdie-inf_BH_2014.pdf)* - ECIR 2014
 
   Hannah Bast, Elmar Haussmann
+  
+* *["Semantifying Triples from Open Information Extraction Systems"](https://ub-madoc.bib.uni-mannheim.de/36881/1/FAIA264-0111.pdf)* - STAIRS 2014
+
+  Arnab Dutta, Christian Meilicke, Heiner Stuckenschmidt
 
 * *["Entity-Centric Coreference Resolution of Person Entities for Open Information Extraction"](http://www.taln.upf.edu/pages/sepln2014/full_papers/edited_paper_30.pdf)* - Procesamiento del Lenguaje Natural (2014)
 
