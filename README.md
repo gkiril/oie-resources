@@ -457,6 +457,10 @@ An OIE system aims to make the following extractions:
 
   Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
   
+* *["WiRe57 : A Fine-Grained Benchmark for Open Information Extraction"](https://arxiv.org/pdf/1809.08962.pdf)* - CoRR 2018
+
+  William Léchelle, Fabrizio Gotti, Philippe Langlais
+  
 ### 2019
 
 * *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 (to appear) 
