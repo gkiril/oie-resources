@@ -413,7 +413,7 @@ An OIE system aims to make the following extractions:
   
   Shikhar Vashishth, Prince Jain, Partha Talukdar
 
-* *["Revisiting the Task of Scoring Open IE Relations"](http://www-etud.iro.umontreal.ca/~lechellw/papers/submitted_to_LREC18.pdf)* - LREC 2018
+* *["Revisiting the Task of Scoring Open IE Relations"](http://www-etud.iro.umontreal.ca/~lechellw/papers/submitted_to_LREC18.pdf)* ([poster](http://www-etud.iro.umontreal.ca/~lechellw/papers/2018-LREC-poster.pdf)) - LREC 2018
 
   William Léchelle, Philippe Langlais
   
