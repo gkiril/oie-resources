@@ -498,7 +498,7 @@ An OIE system aims to make the following extractions:
 * [\[pdf\] *"ClausIE: Clause-Based Open Information Extraction"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf) by [Luciano del Corro](https://people.mpi-inf.mpg.de/~corrogg/). 
 * [\[pdf\] *"Open Information Extraction: the Second Generation"*](http://www.cse.iitd.ac.in/~mausam/courses/col864/spring2017/slides/03-openie.pdf)
 * [\[pdf\] *"Open Information Extraction: Where Are We Going?"*](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf) by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/), 2016
-* [\[pdf\] *"An Informativeness Approach to Open Information Extraction Evaluation"](http://www-etud.iro.umontreal.ca/~lechellw/papers/2016-CICLING.pdf)* by [William Léchelle](http://www-etud.iro.umontreal.ca/~lechellw/), 2016 
+* [\[pdf\] *"An Informativeness Approach to Open Information Extraction Evaluation"*](http://www-etud.iro.umontreal.ca/~lechellw/papers/2016-CICLING.pdf) by [William Léchelle](http://www-etud.iro.umontreal.ca/~lechellw/), 2016 
 
 
 ## Talks
