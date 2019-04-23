@@ -666,6 +666,7 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 * [Entailment rules](https://github.com/dair-iitd/kglr): 36K high precision entailment rules (data and code). The resource is the result of the work of Prachi Jain and Mausam [*"Knowledge-Guided Linguistic Rewrites for Inference Rule Verification"*](http://www.cse.iitd.ac.in/~mausam/papers/naacl16b.pdf) published on NAACL-HLT, 2016.
 
 ### PhD theses
+* [*"Constructing Lexicons of Relational Phrases"*](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26789/1/adam_grycner.pdf) by Adam Grycner, University of Saarland, Germany, 2017
 
 * [*"Methods for open information extraction and sense disambiguation on natural language text"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro-thesis.pdf) by Luciano Del Corro, University of Saarland, Germany, 2016
 
