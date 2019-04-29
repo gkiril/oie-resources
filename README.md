@@ -204,6 +204,10 @@ An OIE system aims to make the following extractions:
 * *["Canonicalizing Open Knowledge Bases"](https://suchanek.name/work/publications/cikm2014.pdf)* - CIKM 2014
 
   Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
+  
+* *["Focused Entailment Graphs for Open IE Propositions"](https://www.aclweb.org/anthology/W14-1610)* - CoNLL 2014
+
+  Omer Levy, Ido Dagan, Jacob Goldberger
 
 * *["Boosting Open Information Extraction with Noun-Based Relations"](https://pdfs.semanticscholar.org/570c/ce7b24c51f75da091b515baddce567128680.pdf)* - LREC 2014
 
