@@ -3,7 +3,7 @@
 A curated list of Open Information Extraction (OIE) resources: research papers, code, data, applications, etc. The list is not limited to Open Information Extraction systems exclusively. It also includes work highly related to the field of OIE, such as taxonomizing open relations and using OIE in downstream applications. 
 
 * [Introduction to OIE](#introduction-to-oie)
-* [Papers](#papers)
+* [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
   * [2007](#2007)
   * [2008](#2008)
   * [2009](#2009)
@@ -50,7 +50,7 @@ An OIE system aims to make the following extractions:
     ("AMD"; "is based in"; "U.S.")
     ("AMD"; "is"; "technology company")
 
-## Papers
+## Papers sorted in chronological order
 
 ### 2007
 * *["Open information extraction from the web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
