@@ -373,6 +373,10 @@ An OIE system aims to make the following extractions:
 
   Chengsen Ru, Shasha Li, Jintao Tang, Yi Gao, Ting Wang  
   
+* *["Analysing Errors of Open Information Extraction Systems"](https://aclweb.org/anthology/W17-5402)* - Workshop on Building Linguistically Generalizable NLP Systems @ EMNLP 2017
+
+  Rudolf Schneider, Tom Oberhauser, Tobias Klatt, Felix A. Gers, Alexander Löser
+  
 ### 2018
 
 * *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
@@ -512,6 +516,10 @@ An OIE system aims to make the following extractions:
 * *["An assessment of open relation extraction systems for the semantic web"](https://www.sciencedirect.com/science/article/pii/S0306437916304999)* - Inf. Syst. 71, 2017
 
   Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
+  
+* *["Analysing Errors of Open Information Extraction Systems"](https://aclweb.org/anthology/W17-5402)* - Workshop on Building Linguistically Generalizable NLP Systems @ EMNLP 2017
+
+  Rudolf Schneider, Tom Oberhauser, Tobias Klatt, Felix A. Gers, Alexander Löser
 
 * *["Open Information Extraction on Scientific Text: An Evaluation"](http://aclweb.org/anthology/C18-1289)* - COLING 2018
   
