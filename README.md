@@ -17,8 +17,8 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2017](#2017)
   * [2018](#2018)
   * [2019](#2019)
-* [Papers grouped by category](papers-grouped-by-category)
-  * [Evaluation](evaluation)
+* [Papers grouped by category](#papers-grouped-by-category)
+  * [Evaluation](#evaluation)
 * [Slides](#slides)
 * [Talks](#talks)
 * [OIE for downstream applications](#oie-for-downstream-applications)
@@ -498,6 +498,8 @@ An OIE system aims to make the following extractions:
 ### Evaluation
 
 * *["An Informativeness Approach to Open IE Evaluation"](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/An_informativeness_approach_to_Open_IE_evaluation%5B1%5D.pdf)* - CICLing 2016 ([slides](http://www-etud.iro.umontreal.ca/~lechellw/papers/2016-CICLING.pdf), [code + data](http://www-etud.iro.umontreal.ca/~lechellw/data/CICLing_092.zip))
+
+  William Léchelle, Philippe Langlais
 
 * *["An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling"](https://aclweb.org/anthology/W17-6944)* - IWCS 2017
 
