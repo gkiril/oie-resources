@@ -507,6 +507,20 @@ An OIE system aims to make the following extractions:
    
 ## Papers grouped by category
 
+### Surveys
+
+* *["Open Information Extraction Systems and Downstream Applications"](https://www.ijcai.org/Proceedings/16/Papers/604.pdf)* - IJCAI 2016
+
+  Mausam
+  
+* *["A Survey on Open Information Extraction"](http://aclweb.org/anthology/C18-1326)* - COLING 2018
+
+  Christina Niklaus, Matthias Cetto, André Freitas, Siegfried Handschuh
+
+* *["A systematic mapping study on open information extraction"](https://www.sciencedirect.com/science/article/pii/S0957417418303932)* -  Expert Syst. Appl. 2018
+
+  Rafael Glauber, Daniela Barreiro Claro
+
 ### Evaluation
 
 * *["Creating a Large Benchmark for Open Information Extraction"](https://aclweb.org/anthology/D16-1252)* - EMNLP 2016 ([code](https://github.com/gabrielStanovsky/oie-benchmark), [talk](https://vimeo.com/239251034))
@@ -536,8 +550,6 @@ An OIE system aims to make the following extractions:
 * *["Open Information Extraction on Scientific Text: An Evaluation"](http://aclweb.org/anthology/C18-1289)* - COLING 2018
   
   Paul T. Groth, Michael Lauruhn, Antony Scerri, Ron Daniel
-  
-  
 
 ## Slides
 
