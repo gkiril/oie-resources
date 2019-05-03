@@ -497,6 +497,10 @@ An OIE system aims to make the following extractions:
 
 ### Evaluation
 
+* *["Creating a Large Benchmark for Open Information Extraction"](https://aclweb.org/anthology/D16-1252)* - EMNLP 2016 ([code](https://github.com/gabrielStanovsky/oie-benchmark), [talk](https://vimeo.com/239251034))
+
+  Gabriel Stanovsky, Ido Dagan
+
 * *["An Informativeness Approach to Open IE Evaluation"](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/An_informativeness_approach_to_Open_IE_evaluation%5B1%5D.pdf)* - CICLing 2016 ([slides](http://www-etud.iro.umontreal.ca/~lechellw/papers/2016-CICLING.pdf), [code + data](http://www-etud.iro.umontreal.ca/~lechellw/data/CICLing_092.zip))
 
   William Léchelle, Philippe Langlais
