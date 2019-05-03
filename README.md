@@ -17,6 +17,8 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2017](#2017)
   * [2018](#2018)
   * [2019](#2019)
+* [Papers grouped by category](papers-grouped-by-category)
+  * [Evaluation](evaluation)
 * [Slides](#slides)
 * [Talks](#talks)
 * [OIE for downstream applications](#oie-for-downstream-applications)
@@ -490,6 +492,26 @@ An OIE system aims to make the following extractions:
 * *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* CoRR 2019
    
    Junlang Zhan, Hai Zhao
+   
+## Papers grouped by category
+
+### Evaluation
+
+* *["An Informativeness Approach to Open IE Evaluation"](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/An_informativeness_approach_to_Open_IE_evaluation%5B1%5D.pdf)* - CICLing 2016 ([slides](http://www-etud.iro.umontreal.ca/~lechellw/papers/2016-CICLING.pdf), [code + data](http://www-etud.iro.umontreal.ca/~lechellw/data/CICLing_092.zip))
+
+* *["An Evaluation of PredPatt and Open IE via Stage 1 Semantic Role Labeling"](https://aclweb.org/anthology/W17-6944)* - IWCS 2017
+
+  Sheng Zhang, Rachel Rudinger, Benjamin Van Durme
+
+* *["An assessment of open relation extraction systems for the semantic web"](https://www.sciencedirect.com/science/article/pii/S0306437916304999)* - Inf. Syst. 71, 2017
+
+  Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
+
+* *["Open Information Extraction on Scientific Text: An Evaluation"](http://aclweb.org/anthology/C18-1289)* - COLING 2018
+  
+  Paul T. Groth, Michael Lauruhn, Antony Scerri, Ron Daniel
+  
+  
 
 ## Slides
 
