@@ -348,6 +348,10 @@ An OIE system aims to make the following extractions:
 * *["MetaPAD: Meta Pattern Discovery from Massive Text Corpora"](http://www.meng-jiang.com/pubs/metapad-kdd17/metapad-kdd17-paper.pdf)* ([code](https://github.com/mjiang89/MetaPAD))- KDD 2017
 
   Meng Jiang, Jingbo Shang, Taylor Cassidy, Xiang Ren, Lance M. Kaplan, Timothy P. Hanratty, Jiawei Han
+  
+* *["RelVis: Benchmarking OpenIE Systems"](http://ceur-ws.org/Vol-1963/paper527.pdf)* - ISWC 2017
+
+  Rudolf Schneider, Tom Oberhauser, Tobias Klatt, Felix A. Gers, Alexander Löser
 
 * *["Open Relation Extraction and Grounding"](http://aclweb.org/anthology/I17-1086)* - IJCNLP 2017
 
@@ -516,6 +520,10 @@ An OIE system aims to make the following extractions:
 * *["An assessment of open relation extraction systems for the semantic web"](https://www.sciencedirect.com/science/article/pii/S0306437916304999)* - Inf. Syst. 71, 2017
 
   Amal Zouaq, Michel Gagnon, Ludovic Jean-Louis
+  
+* *["RelVis: Benchmarking OpenIE Systems"](http://ceur-ws.org/Vol-1963/paper527.pdf)* - ISWC 2017
+
+  Rudolf Schneider, Tom Oberhauser, Tobias Klatt, Felix A. Gers, Alexander Löser
   
 * *["Analysing Errors of Open Information Extraction Systems"](https://aclweb.org/anthology/W17-5402)* - Workshop on Building Linguistically Generalizable NLP Systems @ EMNLP 2017
 
