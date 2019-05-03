@@ -18,6 +18,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2018](#2018)
   * [2019](#2019)
 * [Papers grouped by category](#papers-grouped-by-category)
+  * [Surveys](#surveys)
   * [Evaluation](#evaluation)
 * [Slides](#slides)
 * [Talks](#talks)
