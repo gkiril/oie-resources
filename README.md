@@ -419,6 +419,10 @@ An OIE system aims to make the following extractions:
 
   Radityo Eko Prasojo, Mouna Kacimi, Werner Nutt
   
+* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/citation.cfm?id=3271707)* - CIKM 2018
+
+   Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
+  
 * *["Open Information Extraction with Global Structure Constraints"](http://www-bcf.usc.edu/~xiangren/www18_poster.pdf)* - WWW 2018
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu, Jiawei Han
