@@ -482,7 +482,7 @@ An OIE system aims to make the following extractions:
   
 ### 2019
 
-* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 (to appear) 
+* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
 
@@ -490,17 +490,17 @@ An OIE system aims to make the following extractions:
 
   Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Ahmed El-Kishky, Jiawei Han
 
-* *"Open Information Extraction from Question-Answer Pairs"* - NAACL 2019 (to appear)
+* *["Open Information Extraction from Question-Answer Pairs"](https://arxiv.org/pdf/1903.00172.pdf)* - NAACL 2019
 
   Nikita Bhutani, Yoshihiko Suhara, Wang-Chiew Tan, Alon Halevy and H V Jagadish
   
-* *"OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference"* - NAACL 2019
+* *["OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference"](https://people.mpi-inf.mpg.de/~smukherjee/research/openie-kb-ent-naacl19.pdf)* - NAACL 2019
 
   Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Xin Luna Dong, Andrew McCallum
   
-* *"When Open Information Extraction Meets the Semi-Structured Web"* - NAACL 2019
+* *["OpenCeres: When Open Information Extraction Meets the Semi-Structured Web"](http://lunadong.com/publication/openCeres_naacl.pdf)* - NAACL 2019
 
-  Colin Lockard, Prashant Shiralkar and Xin Luna Dong (to appear)
+  Colin Lockard, Prashant Shiralkar and Xin Luna Dong 
 
 * *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* CoRR 2019
    
