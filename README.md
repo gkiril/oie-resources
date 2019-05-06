@@ -551,6 +551,10 @@ An OIE system aims to make the following extractions:
 * *["Open Information Extraction on Scientific Text: An Evaluation"](http://aclweb.org/anthology/C18-1289)* - COLING 2018
   
   Paul T. Groth, Michael Lauruhn, Antony Scerri, Ron Daniel
+  
+* *["WiRe57 : A Fine-Grained Benchmark for Open Information Extraction"](https://arxiv.org/pdf/1809.08962.pdf)* - CoRR 2018
+
+  William Léchelle, Fabrizio Gotti, Philippe Langlais
 
 ## Slides
 
