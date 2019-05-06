@@ -56,14 +56,14 @@ An OIE system aims to make the following extractions:
 ## Papers sorted in chronological order
 
 ### 2007
-* *["Open information extraction from the web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
+* *["Open Information Extraction from the Web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
   
   Michele Banko,  Michael J. Cafarella, Stephen Soderland, Matthew Broadhead, Oren Etzioni
-* *["Autonomously semantifying wikipedia"](http://turing.cs.washington.edu/papers/cikm07.pdf)* - CIKM 2007
+* *["Autonomously Semantifying Wikipedia"](http://turing.cs.washington.edu/papers/cikm07.pdf)* - CIKM 2007
 
   Fei Wu, Daniel S. Weld
   
-* *["Unsupervised resolution of objects and relations on the web"](http://turing.cs.washington.edu/papers/object_identification_camera_ready_4.pdf)* - NAACL 2007
+* *["Unsupervised Resolution of Objects and Relations on the Web"](http://turing.cs.washington.edu/papers/object_identification_camera_ready_4.pdf)* - NAACL 2007
 
   Alexander Yates, Oren Etzioni
   
@@ -72,7 +72,7 @@ An OIE system aims to make the following extractions:
   Alexander Yates, Michele Banko, Matthew Broadhead, Michael J. Cafarella, Oren Etzioni, Stephen Soderland
   
 ### 2008
-* *["The tradeoffs between open and traditional relation extraction"](http://turing.cs.washington.edu/papers/acl08.pdf)* - ACL 2008
+* *["The Tradeoffs between Open and Traditional Relation Extraction"](http://turing.cs.washington.edu/papers/acl08.pdf)* - ACL 2008
 
   Michele Banko, Oren Etzioni
 
@@ -80,13 +80,13 @@ An OIE system aims to make the following extractions:
 
   Benjamin Van Durme, Lenhart K. Schubert
 
-* *["Open information extraction from the web"](https://dl.acm.org/citation.cfm?id=1409378)* - Commun. ACM 2008
+* *["Open Information Extraction from the Web"](https://dl.acm.org/citation.cfm?id=1409378)* - Commun. ACM 2008
 
   Oren Etzioni, Michele Banko, Stephen Soderland, Daniel S. Weld
   
 ### 2009
 
-* *["Using Wikipedia to bootstrap open information extraction"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.4369&rep=rep1&type=pdf)* - SIGMOD 2009
+* *["Using Wikipedia to Bootstrap Open Information Extraction"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.4369&rep=rep1&type=pdf)* - SIGMOD 2009
   	
     Daniel S. Weld, Raphael Hoffmann, Fei Wu
     
@@ -114,11 +114,11 @@ An OIE system aims to make the following extractions:
 
   Anthony Fader, Stephen Soderland, Oren Etzioni
   
-* *["Filtering and clustering relations for unsupervised information extraction in open domain"](https://perso.limsi.fr/bg/fichiers/2011/cikm0874-wang.pdf)* - CIKM 2011
+* *["Filtering and Clustering Relations for Unsupervised Information Extraction in Open Domain"](https://perso.limsi.fr/bg/fichiers/2011/cikm0874-wang.pdf)* - CIKM 2011
 
   Wei Wang, Romaric Besançon, Olivier Ferret, Brigitte Grau
 
-* *["An analysis of open information extraction based on semantic role labeling"](https://homes.cs.washington.edu/~mausam/papers/kcap11.pdf)* - K-CAP 2011
+* *["An Analysis of Open Information Extraction based on Semantic Role Labeling"](https://homes.cs.washington.edu/~mausam/papers/kcap11.pdf)* - K-CAP 2011
 
   Janara Christensen, Mausam, Stephen Soderland, Oren Etzioni
 
