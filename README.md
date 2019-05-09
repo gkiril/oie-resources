@@ -485,6 +485,10 @@ An OIE system aims to make the following extractions:
 * *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
+  
+* *["MinScIE: Citation-centered Open Information Extraction"](https://ub-madoc.bib.uni-mannheim.de/49216/1/_JCDL19Demo__MinScIE%20%284%29.pdf)* - JCDL 2019 ([code](https://github.com/gkiril/MinSCIE))
+
+  Anne Lauscher, Yide Song, Kiril Gashteovski
 
 * *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - WSDM 2019 ([code](https://github.com/GentleZhu/ReMine))
 
