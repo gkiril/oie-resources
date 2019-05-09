@@ -692,7 +692,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * MinIE: Open Information Extraction System
   * [MinIE](https://github.com/gkiril/minie): originally written in Java
   * [Python wrapper for MinIE](https://github.com/mmxgn/miniepy)
-  * [MinScIE](https://github.com/gkiril/MinSCIE) - an Open Information Extraction system which provides structured knowledge enriched with semantic information about citations.
+  * [MinScIE](https://github.com/gkiril/MinSCIE) - an Open Information Extraction system which provides structured knowledge enriched with semantic information about citations (based on MinIE).
 * ClausIE: Clause-based OIE
   * [ClausIE](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/): originally written in Java
   * [ClausIEpy](https://github.com/drwiner/ClausIEpy): Python wrapper for ClausIE
