@@ -489,6 +489,10 @@ An OIE system aims to make the following extractions:
 * *["MinScIE: Citation-centered Open Information Extraction"](https://ub-madoc.bib.uni-mannheim.de/49216/1/_JCDL19Demo__MinScIE%20%284%29.pdf)* - JCDL 2019 ([code](https://github.com/gkiril/MinSCIE))
 
   Anne Lauscher, Yide Song, Kiril Gashteovski
+  
+* *["EAL: A Toolkit and Dataset for Entity-Aspect Linking"](https://ub-madoc.bib.uni-mannheim.de/49596/1/EAL.pdf)* - JCDL 2019 ([data](https://federiconanni.com/eal-d/), [code](https://github.com/jinggz/Master-Thesis-EAL/tree/service), [demo](http://tools.dws.informatik.uni-mannheim.de/eal))
+
+  Federico Nanni, Jingyi Zhang, Ferdinand Betz, Kiril Gashteovski
 
 * *["Integrating Local Context and Global Cohesiveness for Open Information Extraction"](https://arxiv.org/pdf/1804.09931.pdf)* - WSDM 2019 ([code](https://github.com/GentleZhu/ReMine))
 
