@@ -510,10 +510,18 @@ An OIE system aims to make the following extractions:
 
   Colin Lockard, Prashant Shiralkar and Xin Luna Dong 
 
-* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* CoRR 2019
+* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* - CoRR 2019
    
    Junlang Zhan, Hai Zhao
    
+* *["Weakly Supervised, Data-Driven Acquisition of Rules for Open Information Extraction"](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_2)* - CAIAC 2019
+
+   Fabrizio GottiEmail, Philippe Langlais
+
+* *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"]*(https://arxiv.org/abs/1905.07471) - CoRR 2019
+
+   Jacob Beckerman, Theodore Christakis
+
 ## Papers grouped by category
 
 ### Surveys
