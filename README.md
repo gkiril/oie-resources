@@ -518,7 +518,7 @@ An OIE system aims to make the following extractions:
 
    Fabrizio GottiEmail, Philippe Langlais
 
-* *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"] (https://arxiv.org/abs/1905.07471)* - CoRR 2019
+* *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
    Jacob Beckerman, Theodore Christakis
 
