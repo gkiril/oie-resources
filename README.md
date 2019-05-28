@@ -509,18 +509,22 @@ An OIE system aims to make the following extractions:
 * *["OpenCeres: When Open Information Extraction Meets the Semi-Structured Web"](http://lunadong.com/publication/openCeres_naacl.pdf)* - NAACL 2019
 
   Colin Lockard, Prashant Shiralkar and Xin Luna Dong 
-
-* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* - CoRR 2019
-   
-   Junlang Zhan, Hai Zhao
    
 * *["Weakly Supervised, Data-Driven Acquisition of Rules for Open Information Extraction"](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_2)* - CAIAC 2019
 
    Fabrizio GottiEmail, Philippe Langlais
 
+* *["Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"]*(https://www.aclweb.org/anthology/papers/W/W19/W19-0412/) - ICCS 2019
+
+   Rifki Afina Putri, Giwon Hong, Sung-Hyon Myaeng
+
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
    Jacob Beckerman, Theodore Christakis
+   
+* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* - CoRR 2019
+   
+   Junlang Zhan, Hai Zhao
 
 ## Papers grouped by category
 
