@@ -514,7 +514,7 @@ An OIE system aims to make the following extractions:
 
    Fabrizio GottiEmail, Philippe Langlais
 
-* *["Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"]*(https://www.aclweb.org/anthology/papers/W/W19/W19-0412/) - ICCS 2019
+* *["Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"](https://www.aclweb.org/anthology/papers/W/W19/W19-0412/)* - ICCS 2019
 
    Rifki Afina Putri, Giwon Hong, Sung-Hyon Myaeng
 
