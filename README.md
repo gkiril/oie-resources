@@ -322,7 +322,7 @@ An OIE system aims to make the following extractions:
   
 ### 2017
 
-* *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017 ([code](https://github.com/gkiril/minie), [poster](https://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/pi1/people/rgemulla/publications/gashteovski17minie-poster.pdf), [all resources](https://dws.informatik.uni-mannheim.de/en/resources/software/minie/))
+* *["MinIE: Minimizing Facts in Open Information Extraction"](http://aclweb.org/anthology/D17-1278)* - EMNLP 2017 ([code](https://github.com/uma-pi1/minie), [poster](https://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/pi1/people/rgemulla/publications/gashteovski17minie-poster.pdf), [all resources](https://dws.informatik.uni-mannheim.de/en/resources/software/minie/))
 
   Kiril Gashteovski, Rainer Gemulla, Luciano Del Corro
   
@@ -710,7 +710,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 ## Code
 
 * MinIE: Open Information Extraction System
-  * [MinIE](https://github.com/gkiril/minie): originally written in Java
+  * [MinIE](https://github.com/uma-pi1/minie): originally written in Java
   * [Python wrapper for MinIE](https://github.com/mmxgn/miniepy)
   * [MinScIE](https://github.com/gkiril/MinSCIE) - an Open Information Extraction system which provides structured knowledge enriched with semantic information about citations (based on MinIE).
 * ClausIE: Clause-based OIE
