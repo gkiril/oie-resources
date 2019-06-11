@@ -509,6 +509,10 @@ An OIE system aims to make the following extractions:
 * *["OpenCeres: When Open Information Extraction Meets the Semi-Structured Web"](http://lunadong.com/publication/openCeres_naacl.pdf)* - NAACL 2019
 
   Colin Lockard, Prashant Shiralkar and Xin Luna Dong 
+  
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDM 2019
+
+   Xueling Lin, Lei Chen
    
 * *["Weakly Supervised, Data-Driven Acquisition of Rules for Open Information Extraction"](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_2)* - CAIAC 2019
 
