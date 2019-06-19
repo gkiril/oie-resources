@@ -20,15 +20,15 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
 * [Papers grouped by category](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
+  * [OIE for downstream applications](#oie-for-downstream-applications)
+     * [Question Answering](#question-answering)
+     * [Slot Filling](#slot-filling)
+     * [Event Schema Induction](#event-schema-induction)
+     * [Fact Salience](#fact-salience)
+     * [Knowledge Base Population](#knowledge-base-population)
+     * [Relating Entities](#relating-entities)
 * [Slides](#slides)
 * [Talks](#talks)
-* [OIE for downstream applications](#oie-for-downstream-applications)
-  * [Question Answering](#question-answering)
-  * [Slot Filling](#slot-filling)
-  * [Event Schema Induction](#event-schema-induction)
-  * [Fact Salience](#fact-salience)
-  * [Knowledge Base Population](#knowledge-base-population)
-  * [Relating Entities](#relating-entities)
 * [OIE in Different Languages](#oie-in-different-languages)
   * [OIE Systems for German Language](#oie-systems-for-german-language)
   * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
@@ -579,6 +579,53 @@ An OIE system aims to make the following extractions:
 * *["WiRe57 : A Fine-Grained Benchmark for Open Information Extraction"](https://arxiv.org/pdf/1809.08962.pdf)* - CoRR 2018
 
   William Léchelle, Fabrizio Gotti, Philippe Langlais
+  
+### OIE for downstream applications
+
+OIE's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OIE output are listed. 
+
+#### Question Answering
+* [*"Assertion-based QA with Question-Aware Open Information Extraction"*](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16705/16170) AAAI 2018
+
+  Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
+
+* *["Answering Complex Questions Using Open Information Extraction"](http://ai2-website.s3.amazonaws.com/publications/TupleInf_ACL17.pdf)* - ACL 2017
+
+  Tushar Khot, Ashish Sabharwal, Peter Clark
+
+* [*"Paraphrase-Driven Learning for Open Question Answering"*](http://www.aclweb.org/anthology/P13-1158) ACL 2013 
+
+  Anthony Fader, Luke S. Zettlemoyer, Oren Etzioni
+  
+#### Slot Filling
+
+* [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) - TAC 2013
+
+  Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
+
+#### Event Schema Induction
+
+* [*"Generating Coherent Event Schemas at Scale"*](http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf) - EMNLP 2013
+
+  Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
+
+#### Fact Salience
+
+* [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
+
+  Marco Ponza, Luciano Del Corro, Gerhard Weikum
+  
+#### Knowledge Base Population
+
+* [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
+
+  Travis Wolfe, Mark Dredze, Benjamin Van Durme
+
+#### Relating Entities
+
+* [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) - MTSR 2018
+  
+  Giovanni Siragusa, Rohan Nanda, Valeria De Paiva, Luigi Di Caro
 
 ## Slides
 
@@ -601,53 +648,6 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 * [*\[video\] "Open Information Extraction: Where Are We Going?"*](https://www.youtube.com/watch?v=EhOF_AbDwcE), by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/). The talk was given at AI2 in 2016. [Slides \[pdf\]](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf)
 * [*\[video\] "Nested Propositions in Open Information Extraction"*](https://vimeo.com/239245885) by Nikita Bhutani at EMNLP 2016
 * [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016
-
-## OIE for downstream applications
-
-OIE's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OIE output are listed. 
-
-### Question Answering
-* [*"Assertion-based QA with Question-Aware Open Information Extraction"*](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16705/16170) AAAI 2018
-
-  Zhao Yan, Duyu Tang, Nan Duan, Shujie Liu, Wendi Wang, Daxin Jiang, Ming Zhou, Zhoujun Li
-
-* *["Answering Complex Questions Using Open Information Extraction"](http://ai2-website.s3.amazonaws.com/publications/TupleInf_ACL17.pdf)* - ACL 2017
-
-  Tushar Khot, Ashish Sabharwal, Peter Clark
-
-* [*"Paraphrase-Driven Learning for Open Question Answering"*](http://www.aclweb.org/anthology/P13-1158) ACL 2013 
-
-  Anthony Fader, Luke S. Zettlemoyer, Oren Etzioni
-  
-### Slot Filling
-
-* [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) - TAC 2013
-
-  Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
-
-### Event Schema Induction
-
-* [*"Generating Coherent Event Schemas at Scale"*](http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf) - EMNLP 2013
-
-  Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
-
-### Fact Salience
-
-* [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
-
-  Marco Ponza, Luciano Del Corro, Gerhard Weikum
-  
-### Knowledge Base Population
-
-* [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
-
-  Travis Wolfe, Mark Dredze, Benjamin Van Durme
-
-### Relating Entities
-
-* [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) - MTSR 2018
-  
-  Giovanni Siragusa, Rohan Nanda, Valeria De Paiva, Luigi Di Caro
   
 ## OIE in Different Languages
 
