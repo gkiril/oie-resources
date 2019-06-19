@@ -626,6 +626,68 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) - MTSR 2018
   
   Giovanni Siragusa, Rohan Nanda, Valeria De Paiva, Luigi Di Caro
+  
+### OIE in Different Languages
+
+Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
+
+#### Multilingual OIE Systems
+
+* [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
+
+  Manaal Faruqui, Shankar Kumar
+
+* [*"Multilingual Open Information Extraction"*](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf) - EPIA 2015
+
+  Pablo Gamallo, Marcos García
+
+#### OIE Systems for German Language
+
+* [*"GerIE - An Open Information Extraction System for the German Language"*](http://www.jucs.org/jucs_24_1/gerie_an_open_information/jucs_24_01_0002_0024_bassa.pdf) - J. UCS 2018
+
+  Akim Bassa, Mark Kröll, Roman Kern
+  
+* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) - EMNLP 2016
+
+  Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
+
+#### OIE Systems for Portugese Language
+
+* [*"Challenges of an Annotation Task for Open Information Extraction in Portuguese"*](https://link.springer.com/chapter/10.1007/978-3-319-99722-3_7) - PROPOR 2018
+
+  Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
+
+* [*"Inference Approach to Enhance a Portuguese Open Information Extraction"*](http://www.scitepress.org/Papers/2017/63382/63382.pdf) - ICEIS 2017
+  
+  Cleiton Fernando Lima Sena, Rafael Glauber, Daniela Barreiro Claro
+  
+* [*"DependentIE: An Open Information Extraction system on Portuguese by a Dependence Analysis"*](https://www.researchgate.net/profile/Rafael_Glauber/publication/324759625_DependentIE_An_Open_Information_Extraction_system_on_Portuguese_by_a_Dependence_Analysis/links/5ae0e48faca272fdaf8d8979/DependentIE-An-Open-Information-Extraction-system-on-Portuguese-by-a-Dependence-Analysis.pdf) - ENIAC 2017
+
+  Leandro Souza de Oliveira, Rafael Glauber, Daniela Barreiro Claro
+  
+#### OIE Systems for Chinese Language
+
+* *["ZORE: A Syntax-based System for Chinese Open Relation Extraction"](http://aclweb.org/anthology/D14-1201)* - EMNLP 2014
+
+  Likun Qiu, Yue Zhang
+  
+* *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process. 2018 ([slides](https://hong.xmu.edu.cn/__local/B/68/C0/92B8F8DC6AC06A3F256E1FE1A6F_9556CC90_4CCA5D.pdf?e=.pdf), [code](https://github.com/lemonhu/open-entity-relation-extraction))
+
+  Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
+  
+#### OIE Systems for Persian Language
+
+* [*"A recursive algorithm for open information extraction from Persian texts"*](https://www.researchgate.net/publication/325977333_A_recursive_algorithm_for_open_information_extraction_from_Persian_texts) IJCAT 2018
+
+  Mahmoud Rahat, Alireza Talebpour, Seyedamin Monemian
+  
+* [*"Open information extraction as an intermediate semantic structure for Persian text summarization"*](https://link.springer.com/article/10.1007/s00799-018-0244-z) - Int. J. on Digital Libraries (2018)
+
+  Mahmoud Rahat, Alireza Talebpour
+  
+* [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) - DSH 2018
+
+  Mahmoud Rahat, Alireza Talebpour
 
 ## Slides
 
@@ -647,69 +709,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx)
 * [*\[video\] "Open Information Extraction: Where Are We Going?"*](https://www.youtube.com/watch?v=EhOF_AbDwcE), by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/). The talk was given at AI2 in 2016. [Slides \[pdf\]](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf)
 * [*\[video\] "Nested Propositions in Open Information Extraction"*](https://vimeo.com/239245885) by Nikita Bhutani at EMNLP 2016
-* [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016
-  
-## OIE in Different Languages
-
-Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
-
-### Multilingual OIE Systems
-
-* [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
-
-  Manaal Faruqui, Shankar Kumar
-
-* [*"Multilingual Open Information Extraction"*](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf) - EPIA 2015
-
-  Pablo Gamallo, Marcos García
-
-### OIE Systems for German Language
-
-* [*"GerIE - An Open Information Extraction System for the German Language"*](http://www.jucs.org/jucs_24_1/gerie_an_open_information/jucs_24_01_0002_0024_bassa.pdf) - J. UCS 2018
-
-  Akim Bassa, Mark Kröll, Roman Kern
-  
-* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) - EMNLP 2016
-
-  Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
-
-### OIE Systems for Portugese Language
-
-* [*"Challenges of an Annotation Task for Open Information Extraction in Portuguese"*](https://link.springer.com/chapter/10.1007/978-3-319-99722-3_7) - PROPOR 2018
-
-  Rafael Glauber, Leandro Souza de Oliveira, Cleiton Fernando Lima Sena, Daniela Barreiro Claro, Marlo Souza
-
-* [*"Inference Approach to Enhance a Portuguese Open Information Extraction"*](http://www.scitepress.org/Papers/2017/63382/63382.pdf) - ICEIS 2017
-  
-  Cleiton Fernando Lima Sena, Rafael Glauber, Daniela Barreiro Claro
-  
-* [*"DependentIE: An Open Information Extraction system on Portuguese by a Dependence Analysis"*](https://www.researchgate.net/profile/Rafael_Glauber/publication/324759625_DependentIE_An_Open_Information_Extraction_system_on_Portuguese_by_a_Dependence_Analysis/links/5ae0e48faca272fdaf8d8979/DependentIE-An-Open-Information-Extraction-system-on-Portuguese-by-a-Dependence-Analysis.pdf) - ENIAC 2017
-
-  Leandro Souza de Oliveira, Rafael Glauber, Daniela Barreiro Claro
-  
-### OIE Systems for Chinese Language
-
-* *["ZORE: A Syntax-based System for Chinese Open Relation Extraction"](http://aclweb.org/anthology/D14-1201)* - EMNLP 2014
-
-  Likun Qiu, Yue Zhang
-  
-* *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process. 2018 ([slides](https://hong.xmu.edu.cn/__local/B/68/C0/92B8F8DC6AC06A3F256E1FE1A6F_9556CC90_4CCA5D.pdf?e=.pdf), [code](https://github.com/lemonhu/open-entity-relation-extraction))
-
-  Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
-  
-### OIE Systems for Persian Language
-
-* [*"A recursive algorithm for open information extraction from Persian texts"*](https://www.researchgate.net/publication/325977333_A_recursive_algorithm_for_open_information_extraction_from_Persian_texts) IJCAT 2018
-
-  Mahmoud Rahat, Alireza Talebpour, Seyedamin Monemian
-  
-* [*"Open information extraction as an intermediate semantic structure for Persian text summarization"*](https://link.springer.com/article/10.1007/s00799-018-0244-z) - Int. J. on Digital Libraries (2018)
-
-  Mahmoud Rahat, Alireza Talebpour
-  
-* [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) - DSH 2018
-
-  Mahmoud Rahat, Alireza Talebpour  
+* [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016  
 
 ## Code
 
