@@ -692,11 +692,11 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
 ### Supervised OIE
 
-* [*"Supervised Open Information Extraction"](https://aclweb.org/anthology/N18-1081)* - NAACL-HLT 2018
+* [*"Supervised Open Information Extraction"*](https://aclweb.org/anthology/N18-1081) - NAACL-HLT 2018
 
   Gabriel Stanovsky, Julian Michael, Luke Zettlemoyer, Ido Dagan
 
-* [*"Neural Open Information Extraction"](https://arxiv.org/pdf/1805.04270.pdf)* - ACL 2018
+* [*"Neural Open Information Extraction"*](https://arxiv.org/pdf/1805.04270.pdf) - ACL 2018
 
   Lei Cui, Furu Wei, Ming Zhou
   
