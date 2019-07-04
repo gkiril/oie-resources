@@ -703,6 +703,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Neural Open Information Extraction"*](https://arxiv.org/pdf/1805.04270.pdf) - ACL 2018
 
   Lei Cui, Furu Wei, Ming Zhou
+  
+* *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
+
+  Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li
    
 * [*"Contextualized Word Embeddings in a Neural Open Information Extraction Model"*](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_31) - NLDB 2019
 
@@ -715,6 +719,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"*](https://arxiv.org/abs/1905.07471) - CoRR 2019
 
    Jacob Beckerman, Theodore Christakis
+   
 
 ## Slides
 
