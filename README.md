@@ -32,6 +32,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
     * [OIE Systems for Chinese Language](#oie-systems-for-chinese-language)
     * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
+  * [Supervised OIE](#supervised-oie)
 * [Slides](#slides)
 * [Talks](#talks)
 * [Code](#code)
@@ -688,6 +689,25 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) - DSH 2018
 
   Mahmoud Rahat, Alireza Talebpour
+
+### Supervised OIE
+
+* [*"Supervised Open Information Extraction"](https://aclweb.org/anthology/N18-1081)* - NAACL-HLT 2018
+
+  Gabriel Stanovsky, Julian Michael, Luke Zettlemoyer, Ido Dagan
+
+* [*"Neural Open Information Extraction"](https://arxiv.org/pdf/1805.04270.pdf)* - ACL 2018
+
+  Lei Cui, Furu Wei, Ming Zhou
+  
+* [*"Weakly Supervised, Data-Driven Acquisition of Rules for Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_2) - CAIAC 2019
+
+   Fabrizio GottiEmail, Philippe Langlais
+   
+* [*"Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"*](https://arxiv.org/abs/1905.07471) - CoRR 2019
+
+   Jacob Beckerman, Theodore Christakis
+   
 
 ## Slides
 
