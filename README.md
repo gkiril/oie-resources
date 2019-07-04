@@ -401,6 +401,10 @@ An OIE system aims to make the following extractions:
   	
   Gabriel Stanovsky, Julian Michael, Luke Zettlemoyer, Ido Dagan
   
+* [*"Logician and Orator: Learning from the Duality between Language and Knowledge in Open Domain"*](https://www.aclweb.org/anthology/D18-1236) - EMNLP 2018
+
+   Mingming Sun, Xu Li, Ping Li
+  
 * *["Open Information Extraction from Conjunctive Sentences"](http://aclweb.org/anthology/C18-1194)* - COLING 2018
 
   Swarnadeep Saha, Mausam
