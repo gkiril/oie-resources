@@ -522,6 +522,10 @@ An OIE system aims to make the following extractions:
 * *["Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"](https://www.aclweb.org/anthology/papers/W/W19/W19-0412/)* - ICCS 2019
 
    Rifki Afina Putri, Giwon Hong, Sung-Hyon Myaeng
+   
+* [*"Contextualized Word Embeddings in a Neural Open Information Extraction Model"*](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_31) - NLDB 2019
+
+   Injy Sarhan, Marco R. Spruit
 
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
@@ -699,7 +703,11 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Neural Open Information Extraction"*](https://arxiv.org/pdf/1805.04270.pdf) - ACL 2018
 
   Lei Cui, Furu Wei, Ming Zhou
-  
+   
+* [*"Contextualized Word Embeddings in a Neural Open Information Extraction Model"*](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_31) - NLDB 2019
+
+   Injy Sarhan, Marco R. Spruit
+
 * [*"Weakly Supervised, Data-Driven Acquisition of Rules for Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_2) - CAIAC 2019
 
    Fabrizio GottiEmail, Philippe Langlais
@@ -707,7 +715,6 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"*](https://arxiv.org/abs/1905.07471) - CoRR 2019
 
    Jacob Beckerman, Theodore Christakis
-   
 
 ## Slides
 
