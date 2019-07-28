@@ -515,6 +515,11 @@ An OIE system aims to make the following extractions:
 
   Colin Lockard, Prashant Shiralkar and Xin Luna Dong 
   
+* *["Improving Open Information Extraction via Iterative Rank-Aware Learning"](https://www.aclweb.org/anthology/P19-1523)* - ACL 2019
+
+   Zhengbao Jiang, Pengcheng Yin and Graham Neubig
+
+  
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDM 2019
 
    Xueling Lin, Lei Chen
