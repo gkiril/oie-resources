@@ -487,7 +487,7 @@ An OIE system aims to make the following extractions:
   
 ### 2019
 
-* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019
+* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/), [code (data reading)](https://github.com/uma-pi1/OPIEC), [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
   
