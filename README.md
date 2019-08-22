@@ -779,12 +779,13 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
    * [Baaz](https://github.com/sobhe/openie): Open information extraction from **Persian** web (Python)
    * [MT/IE](https://github.com/sheng-z/cross-lingual-open-ie): Cross-lingual Open IE. Attention-based sequence-to-sequence model for cross-lingual open IE. Written in Python
    * [Relation Extraction on German Websites](https://github.com/tabergma/relation-extraction): This repository holds a collection of three Open Information Extraction approaches for the **German** language
+   * [DptOIE:](https://github.com/FORMAS/DptOIE) A **Portuguese** Open Information Extraction system based on Dependency Analysis
+   * [PragmaticOIE:](https://github.com/FORMAS/PragmaticOIE) a rule-based approach to extract facts in **Portuguese** in a first pragmatic level
 * [CORE:](https://github.com/fabiopetroni/CORE) Context-Aware Open Relation Extraction with Factorization Machines
 * [CESI:](https://github.com/malllabiisc/cesi) Canonicalizing Open Knowledge Bases using Embeddings and Side Information
 * [IMPLIE:](https://github.com/knowitall/implie) IMPLIE (IMPLicit relation Information Extraction) is a program that extracts binary relations from English sentences where the relationship between the two entities is not explicitly stated in the text.
 * [Ranking:](https://github.com/jzbjyb/oie_rank) Iterative Rank-Aware Open IE (confidence score).
-* [DptOIE:](https://github.com/FORMAS/DptOIE) A Portuguese Open Information Extraction system based on Dependency Analysis
-* [PragmaticOIE:](https://github.com/FORMAS/PragmaticOIE) a rule-based approach to extract facts in Portuguese in a first pragmatic level
+
 
 ## Data
 
