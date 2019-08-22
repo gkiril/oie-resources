@@ -758,6 +758,7 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
   * [MinIE](https://github.com/uma-pi1/minie): originally written in Java
   * [Python wrapper for MinIE](https://github.com/mmxgn/miniepy)
   * [MinScIE](https://github.com/gkiril/MinSCIE) - an Open Information Extraction system which provides structured knowledge enriched with semantic information about citations (based on MinIE).
+  * [SalIE](https://github.com/mponza/SalIE) - Salient Open Information Extraction (based on MinIE)
 * ClausIE: Clause-based OIE
   * [ClausIE](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/): originally written in Java
   * [ClausIE (mavenized version)](https://github.com/IsaacChanghau/ClausIE)
