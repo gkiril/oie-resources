@@ -518,8 +518,19 @@ An OIE system aims to make the following extractions:
 * *["Improving Open Information Extraction via Iterative Rank-Aware Learning"](https://www.aclweb.org/anthology/P19-1523)* - ACL 2019 ([code](https://github.com/jzbjyb/oie_rank))
 
    Zhengbao Jiang, Pengcheng Yin and Graham Neubig
+   
+* *["Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data"](https://www.emnlp-ijcnlp2019.org/program/accepted/)* - EMNLP 2019
 
-  
+   Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun
+   
+* *["Supervising Unsupervised Open Information Extraction Models"](https://www.emnlp-ijcnlp2019.org/program/accepted/)* - EMNLP 2019
+
+   Arpita Roy, Youngja Park, Taesung Lee and Shimei Pan
+   
+* *["CaRB: A Crowdsourced Benchmark for Open IE"](https://www.emnlp-ijcnlp2019.org/program/accepted/)* - EMNLP 2019
+
+   Sangnie Bhardwaj, Samarth Aggarwal and Mausam
+
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDM 2019
 
    Xueling Lin, Lei Chen
