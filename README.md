@@ -546,6 +546,10 @@ An OIE system aims to make the following extractions:
 * [*"Contextualized Word Embeddings in a Neural Open Information Extraction Model"*](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_31) - NLDB 2019
 
    Injy Sarhan, Marco R. Spruit
+   
+* [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
+
+   Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
 
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
@@ -570,6 +574,10 @@ An OIE system aims to make the following extractions:
 * *["A systematic mapping study on open information extraction"](https://www.sciencedirect.com/science/article/pii/S0957417418303932)* -  Expert Syst. Appl. 2018
 
   Rafael Glauber, Daniela Barreiro Claro
+  
+* [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
+
+   Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
 
 ### Evaluation
 
@@ -657,6 +665,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
 #### Multilingual OIE Systems
+
+* [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
+
+   Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
 
 * [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
 
