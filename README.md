@@ -40,6 +40,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [OIE corpora](#oie-corpora)
   * [Resources derived from OIE output](#resources-derived-from-oie-output)
 * [PhD theses](#phd-theses)
+* [Demos](#demos)
 
 ## Introduction to OIE
 
@@ -841,3 +842,7 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 * [*"Exploiting Knowledge in Unsupervised Open Information Extraction"*](https://search.proquest.com/docview/1372164047?pq-origsite=gscholar) by Yuval Merhav, Illinois Institute of Technology, USA, 2012
 
 * [*"Open Information Extraction for the Web"*](http://turing.cs.washington.edu/papers/banko-thesis.pdf) by Michele Banko, University of Washington, USA, 2009
+
+### Demos
+* [ClausIE:](https://gate.d5.mpi-inf.mpg.de/ClausIEGate/ClausIEGate/) Demo for ClausIE, an OIE system.
+* [Fact retrieval:](https://openie.allenai.org/) Fact retrieval with OpenIE on large corpora.
