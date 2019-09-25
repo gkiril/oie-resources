@@ -614,6 +614,10 @@ An OIE system aims to make the following extractions:
 
   William Léchelle, Fabrizio Gotti, Philippe Langlais
   
+* *["CaRB: A Crowdsourced Benchmark for Open IE"](http://www.cse.iitd.ac.in/~mausam//papers/emnlp19.pdf)* - EMNLP 2019
+
+   Sangnie Bhardwaj, Samarth Aggarwal and Mausam
+  
 ### OIE for downstream applications
 
 OIE's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OIE output are listed. 
