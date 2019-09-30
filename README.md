@@ -32,6 +32,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
     * [OIE Systems for Chinese Language](#oie-systems-for-chinese-language)
     * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
+    * [OIE Systems for Italian Language](#oie-systems-for-italian-language)
   * [Supervised OIE](#supervised-oie)
 * [Slides](#slides)
 * [Talks](#talks)
@@ -536,6 +537,10 @@ An OIE system aims to make the following extractions:
 
    Xueling Lin, Lei Chen
    
+* *["Lexicon-Grammar based Open Information Extraction from Natural Language Sentences in Italian"](https://www.sciencedirect.com/science/article/pii/S0957417419306724)* - Expert Systems and Applications 2019
+
+   Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito, Giuseppe De Pietro
+   
 * *["Weakly Supervised, Data-Driven Acquisition of Rules for Open Information Extraction"](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_2)* - CAIAC 2019
 
    Fabrizio GottiEmail, Philippe Langlais
@@ -730,6 +735,12 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Parsa: An open information extraction system for Persian"*](https://academic.oup.com/dsh/article/33/4/874/4951677) - DSH 2018
 
   Mahmoud Rahat, Alireza Talebpour
+  
+#### OIE Systems for Italian Language
+
+* *["Lexicon-Grammar based Open Information Extraction from Natural Language Sentences in Italian"](https://www.sciencedirect.com/science/article/pii/S0957417419306724)* - Expert Systems and Applications 2019
+
+   Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito, Giuseppe De Pietro
 
 ### Supervised OIE
 
