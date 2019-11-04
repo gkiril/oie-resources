@@ -521,11 +521,11 @@ An OIE system aims to make the following extractions:
 
    Zhengbao Jiang, Pengcheng Yin and Graham Neubig
    
-* *["Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data"](https://www.emnlp-ijcnlp2019.org/program/accepted/)* - EMNLP 2019
+* *["Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data"](https://www.aclweb.org/anthology/D19-1021.pdf)* - EMNLP 2019
 
    Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun
    
-* *["Supervising Unsupervised Open Information Extraction Models"](https://www.emnlp-ijcnlp2019.org/program/accepted/)* - EMNLP 2019
+* *["Supervising Unsupervised Open Information Extraction Models"](https://www.aclweb.org/anthology/D19-1067.pdf)* - EMNLP 2019
 
    Arpita Roy, Youngja Park, Taesung Lee and Shimei Pan
    
