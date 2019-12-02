@@ -532,6 +532,10 @@ An OIE system aims to make the following extractions:
 * *["CaRB: A Crowdsourced Benchmark for Open IE"](http://www.cse.iitd.ac.in/~mausam//papers/emnlp19.pdf)* - EMNLP 2019
 
    Sangnie Bhardwaj, Samarth Aggarwal and Mausam
+   
+* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019
+
+   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
 
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDM 2019
 
