@@ -536,6 +536,10 @@ An OIE system aims to make the following extractions:
 * *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+   
+* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019
+ 
+   Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
 
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDM 2019
 
