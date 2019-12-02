@@ -438,10 +438,6 @@ An OIE system aims to make the following extractions:
 * *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
   
   Shikhar Vashishth, Prince Jain, Partha Talukdar
-  
-* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/citation.cfm?id=3271707)* - CIKM 2018
-
-  Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
 
 * *["Revisiting the Task of Scoring Open IE Relations"](http://www-etud.iro.umontreal.ca/~lechellw/papers/submitted_to_LREC18.pdf)* ([poster](http://www-etud.iro.umontreal.ca/~lechellw/papers/2018-LREC-poster.pdf)) - LREC 2018
 
