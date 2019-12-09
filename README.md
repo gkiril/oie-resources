@@ -545,6 +545,10 @@ An OIE system aims to make the following extractions:
 
    Xueling Lin, Lei Chen
    
+* *["Open Relation Extraction for Chinese Noun Phrases"](https://ieeexplore.ieee.org/abstract/document/8903488)* - TKDE 2019
+
+   Chengyu Wang, Xiaofeng He, Aoying Zhou
+   
 * *["Lexicon-Grammar based Open Information Extraction from Natural Language Sentences in Italian"](https://www.sciencedirect.com/science/article/pii/S0957417419306724)* - Expert Systems and Applications 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito, Giuseppe De Pietro
@@ -729,6 +733,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["Chinese Open Relation Extraction and Knowledge Base Establishment"](https://ai2-website.s3.amazonaws.com/publications/10094_Paper.pdf)* - ACM Trans. Asian & Low-Resource Lang. Inf. Process. 2018 ([slides](https://hong.xmu.edu.cn/__local/B/68/C0/92B8F8DC6AC06A3F256E1FE1A6F_9556CC90_4CCA5D.pdf?e=.pdf), [code](https://github.com/lemonhu/open-entity-relation-extraction))
 
   Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
+  
+* *["Open Relation Extraction for Chinese Noun Phrases"](https://ieeexplore.ieee.org/abstract/document/8903488)* - TKDE 2019
+
+   Chengyu Wang, Xiaofeng He, Aoying Zhou
   
 #### OIE Systems for Persian Language
 
