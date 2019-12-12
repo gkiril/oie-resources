@@ -549,6 +549,14 @@ An OIE system aims to make the following extractions:
 
    Chengyu Wang, Xiaofeng He, Aoying Zhou
    
+* *["Divide and Extract – Disentangling Clause Splitting and Proposition Extraction"](https://acl-bg.org/proceedings/2019/RANLP%202019/pdf/RANLP047.pdf)* - RANLP 2019
+
+   Darina Gold, Torsten Zesch
+   
+* *["Exploiting Open IE for Deriving Multiple Premises Entailment Corpus"](https://acl-bg.org/proceedings/2019/RANLP%202019/pdf/RANLP144.pdf)* - RANLP 2019
+
+   Martin Víta, Jakub Klímek
+   
 * *["Lexicon-Grammar based Open Information Extraction from Natural Language Sentences in Italian"](https://www.sciencedirect.com/science/article/pii/S0957417419306724)* - Expert Systems and Applications 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito, Giuseppe De Pietro
