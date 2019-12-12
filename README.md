@@ -568,6 +568,10 @@ An OIE system aims to make the following extractions:
 * [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
 
    Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
+   
+* [*"When Lexicon-Grammar Meets Open Information Extraction: a Computational Experiment for Italian Sentences"*](http://ceur-ws.org/Vol-2481/paper36.pdf) -  CLiC-it 2019
+
+   Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
 
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
