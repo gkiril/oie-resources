@@ -580,6 +580,10 @@ An OIE system aims to make the following extractions:
 * [*"When Lexicon-Grammar Meets Open Information Extraction: a Computational Experiment for Italian Sentences"*](http://ceur-ws.org/Vol-2481/paper36.pdf) -  CLiC-it 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
+   
+* [*"Towards a gold standard dataset for Open Information Extraction in Italian"*](https://ieeexplore.ieee.org/abstract/document/8931822) - SNAMS 2019
+
+   Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
 
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
@@ -646,6 +650,10 @@ An OIE system aims to make the following extractions:
 * *["CaRB: A Crowdsourced Benchmark for Open IE"](http://www.cse.iitd.ac.in/~mausam//papers/emnlp19.pdf)* - EMNLP 2019
 
    Sangnie Bhardwaj, Samarth Aggarwal and Mausam
+   
+* [*"Towards a gold standard dataset for Open Information Extraction in Italian"*](https://ieeexplore.ieee.org/abstract/document/8931822) - SNAMS 2019
+
+   Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
   
 ### OIE for downstream applications
 
@@ -769,6 +777,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["Lexicon-Grammar based Open Information Extraction from Natural Language Sentences in Italian"](https://www.sciencedirect.com/science/article/pii/S0957417419306724)* - Expert Systems and Applications 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito, Giuseppe De Pietro
+   
+* [*"Towards a gold standard dataset for Open Information Extraction in Italian"*](https://ieeexplore.ieee.org/abstract/document/8931822) - SNAMS 2019
+
+   Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
 
 ### Supervised OIE
 
