@@ -584,6 +584,10 @@ An OIE system aims to make the following extractions:
 * [*"Towards a gold standard dataset for Open Information Extraction in Italian"*](https://ieeexplore.ieee.org/abstract/document/8931822) - SNAMS 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
+   
+* [*"Co-Clustering Triples from Open Information Extraction"*](https://people.mpi-inf.mpg.de/~kpal/paper/COMAD_2020_kpal.pdf) - COMAD 2019
+
+   Koninika Pal, Vinh Thinh Ho, Gerhard Weikum
 
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
