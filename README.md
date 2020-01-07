@@ -17,6 +17,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2017](#2017)
   * [2018](#2018)
   * [2019](#2019)
+  * [2020](#2020)
 * [Papers grouped by category](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
@@ -593,7 +594,9 @@ An OIE system aims to make the following extractions:
 
    Jacob Beckerman, Theodore Christakis
    
-* *["Span Based Open Information Extraction"](https://arxiv.org/pdf/1901.10879.pdf)* - CoRR 2019
+### 2020
+
+* *["Span Model for Open Information Extraction on Accurate Corpus"](https://arxiv.org/pdf/1901.10879.pdf)* ([code](https://github.com/zhanjunlang/Span_OIE))- AAAI 2020
    
    Junlang Zhan, Hai Zhao
 
