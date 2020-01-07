@@ -538,7 +538,7 @@ An OIE system aims to make the following extractions:
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
    
-* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019
+* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
 
