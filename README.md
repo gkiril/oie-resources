@@ -849,9 +849,10 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
   * [ClausIE](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/): originally written in Java
   * [ClausIE (mavenized version)](https://github.com/IsaacChanghau/ClausIE)
   * [ClausIEpy](https://github.com/drwiner/ClausIEpy): Python wrapper for ClausIE
-* [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone): the latest version of OpenIE at A2I.
-* [OLLIE](http://knowitall.github.io/ollie/)
-* [ReVerb](http://reverb.cs.washington.edu/)
+* OpenIE at A2I:
+  * [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone): the latest version of OpenIE at A2I.
+  * [OLLIE](http://knowitall.github.io/ollie/)
+  * [ReVerb](http://reverb.cs.washington.edu/)
 * Stanford's OpenIE:
   * [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html): Stanford's OpenIE system.
   * [Stanford OpenIE Spider](https://github.com/liaoziyang/OpenIE-Spider): Extract Information from WebCorpus using Stanford Open Information Extraction.
