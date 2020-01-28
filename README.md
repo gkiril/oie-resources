@@ -34,6 +34,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [OIE Systems for Chinese Language](#oie-systems-for-chinese-language)
     * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
     * [OIE Systems for Italian Language](#oie-systems-for-italian-language)
+    * [OIE Systems for Indonesian Language](#oie-systems-for-indonesian-language)
   * [Supervised OIE](#supervised-oie)
 * [Slides](#slides)
 * [Talks](#talks)
@@ -484,6 +485,10 @@ An OIE system aims to make the following extractions:
 
   Shengbin Jia, Shijia E, Maozhen Li, Yang Xiang
   
+* *[Rule-based Indonesian Open Information Extraction"](https://ieeexplore.ieee.org/document/8541293)* - ICAICTA 2018 
+
+  Ade Romadhony, Ayu Purwarianti, Dwi H. Widyantoro
+  
 * *["WiRe57 : A Fine-Grained Benchmark for Open Information Extraction"](https://arxiv.org/pdf/1809.08962.pdf)* - CoRR 2018
 
   William Léchelle, Fabrizio Gotti, Philippe Langlais
@@ -788,6 +793,12 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Towards a gold standard dataset for Open Information Extraction in Italian"*](https://ieeexplore.ieee.org/abstract/document/8931822) - SNAMS 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
+   
+#### OIE Systems for Indonesian Language
+
+* *[Rule-based Indonesian Open Information Extraction"](https://ieeexplore.ieee.org/document/8541293)* - ICAICTA 2018 
+
+  Ade Romadhony, Ayu Purwarianti, Dwi H. Widyantoro
 
 ### Supervised OIE
 
