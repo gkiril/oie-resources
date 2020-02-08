@@ -604,6 +604,10 @@ An OIE system aims to make the following extractions:
 * *["Span Model for Open Information Extraction on Accurate Corpus"](https://arxiv.org/pdf/1901.10879.pdf)* ([code](https://github.com/zhanjunlang/Span_OIE))- AAAI 2020
    
    Junlang Zhan, Hai Zhao
+   
+* *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://pure.tudelft.nl/portal/files/69221720/2020_WWW_LOREM.pdf)* - WWW 2020
+
+   Tom Harting, Sepideh Mesbah, Christoph Lofi
 
 ## Papers grouped by category
 
@@ -719,6 +723,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
 #### Multilingual OIE Systems
+
+* *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://pure.tudelft.nl/portal/files/69221720/2020_WWW_LOREM.pdf)* - WWW 2020
+
+   Tom Harting, Sepideh Mesbah, Christoph Lofi
 
 * [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
 
