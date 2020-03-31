@@ -617,7 +617,7 @@ An OIE system aims to make the following extractions:
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
 
-* *["Hybrid Neural Tagging Model for Open Relation Extraction"](https://arxiv.org/pdf/1908.01761.pdf)* - CoRR 2020
+* *["Hybrid Neural Tagging Model for Open Relation Extraction"]*(https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020
 
    Shengbin Jia, Yang Xiang
 
@@ -859,7 +859,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
    
-* *["Hybrid Neural Tagging Model for Open Relation Extraction"](https://arxiv.org/pdf/1908.01761.pdf)* - CoRR 2020
+* *["Hybrid Neural Tagging Model for Open Relation Extraction"]*(https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020
 
    Shengbin Jia, Yang Xiang   
    
