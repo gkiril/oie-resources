@@ -613,6 +613,11 @@ An OIE system aims to make the following extractions:
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
 
+* *["Hybrid Neural Tagging Model for Open Relation Extraction"](https://arxiv.org/pdf/1908.01761.pdf)* - CoRR 2020
+
+   Shengbin Jia, Yang Xiang
+
+
 ## Papers grouped by category
 
 ### Surveys
@@ -841,6 +846,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"*](https://arxiv.org/abs/1905.07471) - CoRR 2019
 
    Jacob Beckerman, Theodore Christakis
+   
+* *["Hybrid Neural Tagging Model for Open Relation Extraction"](https://arxiv.org/pdf/1908.01761.pdf)* - CoRR 2020
+
+   Shengbin Jia, Yang Xiang   
    
 
 ## Slides
