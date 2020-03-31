@@ -612,6 +612,10 @@ An OIE system aims to make the following extractions:
 * *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* - WWW 2020
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
+   
+* *[An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"]*(https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
+
+   Guiliang Liu, Xu Li, Miningming Sun, Ping Li
 
 * *["Hybrid Neural Tagging Model for Open Relation Extraction"](https://arxiv.org/pdf/1908.01761.pdf)* - CoRR 2020
 
@@ -850,6 +854,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"*](https://arxiv.org/abs/1905.07471) - CoRR 2019
 
    Jacob Beckerman, Theodore Christakis
+   
+* *[An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"]*(https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
+
+   Guiliang Liu, Xu Li, Miningming Sun, Ping Li
    
 * *["Hybrid Neural Tagging Model for Open Relation Extraction"](https://arxiv.org/pdf/1908.01761.pdf)* - CoRR 2020
 
