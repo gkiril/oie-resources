@@ -613,11 +613,11 @@ An OIE system aims to make the following extractions:
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
    
-* *[An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"]*(https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
+* [*An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"*](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
 
-* *["Hybrid Neural Tagging Model for Open Relation Extraction"]*(https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020
+* [*"Hybrid Neural Tagging Model for Open Relation Extraction"*](https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020
 
    Shengbin Jia, Yang Xiang
 
@@ -855,11 +855,11 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
    Jacob Beckerman, Theodore Christakis
    
-* *[An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"]*(https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
+* [*An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"*](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
    
-* *["Hybrid Neural Tagging Model for Open Relation Extraction"]*(https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020
+* [*"Hybrid Neural Tagging Model for Open Relation Extraction"*](https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020
 
    Shengbin Jia, Yang Xiang   
    
