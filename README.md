@@ -725,7 +725,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
   
-* [*KBPearl: A Knowledge Base Population SystemSupported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - PVLDB 2020
+* [*KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - PVLDB 2020
 
   Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
 
