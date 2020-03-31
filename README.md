@@ -706,14 +706,14 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
 #### Fact Salience
 
-* [*Coherence and Salience-Based Multi-Document Relationship Mining*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
-
-   Yongpan Sheng, Zenglin Xu
-
 * [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
 
   Marco Ponza, Luciano Del Corro, Gerhard Weikum
   
+* [*Coherence and Salience-Based Multi-Document Relationship Mining*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
+
+   Yongpan Sheng, Zenglin Xu
+   
 #### Knowledge Base Population
 
 * [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
