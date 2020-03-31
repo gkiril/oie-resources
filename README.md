@@ -724,6 +724,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
 
   Travis Wolfe, Mark Dredze, Benjamin Van Durme
+  
+* [*KBPearl: A Knowledge Base Population SystemSupported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - PVLDB 2020
+
+  Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
 
 #### Relating Entities
 
