@@ -597,7 +597,7 @@ An OIE system aims to make the following extractions:
    
 * [*Coherence and Salience-Based Multi-Document Relationship Mining*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
 
-   Yongpan Sheng, Zenglin XuZenglin Xu
+   Yongpan Sheng, Zenglin Xu
 
 * *["Learning Open Information Extraction of Implicit Relations from Reading Comprehension Datasets"](https://arxiv.org/abs/1905.07471)* - CoRR 2019
 
@@ -708,7 +708,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
 * [*Coherence and Salience-Based Multi-Document Relationship Mining*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
 
-   Yongpan Sheng, Zenglin XuZenglin Xu
+   Yongpan Sheng, Zenglin Xu
 
 * [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
 
