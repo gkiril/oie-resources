@@ -519,7 +519,7 @@ An OIE system aims to make the following extractions:
 
   Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Xin Luna Dong, Andrew McCallum
   
-* *["OpenCeres: When Open Information Extraction Meets the Semi-Structured Web"](http://lunadong.com/publication/openCeres_naacl.pdf)* - NAACL 2019
+* *["OpenCeres: When Open Information Extraction Meets the Semi-Structured Web"](http://lunadong.com/publication/openCeres_naacl.pdf)* - NAACL 2019 ([video](https://vimeo.com/355837778))
 
   Colin Lockard, Prashant Shiralkar and Xin Luna Dong 
   
