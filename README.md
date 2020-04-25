@@ -613,6 +613,10 @@ An OIE system aims to make the following extractions:
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
    
+* *["Extracting Knowledge from Web Text with Monte Carlo Tree Search"](https://dl.acm.org/doi/abs/10.1145/3366423.3380010)* - WWW 2020
+
+   Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
+   
 * [*An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"*](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
