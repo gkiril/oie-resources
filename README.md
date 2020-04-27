@@ -846,6 +846,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction"](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/2018_Logician_A_Unified_End-to-End_Neural_Approach_for_open_domain_IE(1).pdf)* - WSDM 2018
 
   Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li
+  
+* [*"Logician and Orator: Learning from the Duality between Language and Knowledge in Open Domain"*](https://www.aclweb.org/anthology/D18-1236) - EMNLP 2018
+
+   Mingming Sun, Xu Li, Ping Li
    
 * [*"Contextualized Word Embeddings in a Neural Open Information Extraction Model"*](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_31) - NLDB 2019
 
