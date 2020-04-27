@@ -863,6 +863,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
    Jacob Beckerman, Theodore Christakis
    
+* *["Span Model for Open Information Extraction on Accurate Corpus"](https://arxiv.org/pdf/1901.10879.pdf)* ([code](https://github.com/zhanjunlang/Span_OIE))- AAAI 2020
+   
+   Junlang Zhan, Hai Zhao
+   
 * *["Extracting Knowledge from Web Text with Monte Carlo Tree Search"](https://dl.acm.org/doi/abs/10.1145/3366423.3380010)* - WWW 2020
 
    Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
