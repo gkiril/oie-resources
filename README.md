@@ -64,9 +64,6 @@ An OIE system aims to make the following extractions:
 * *["Open Information Extraction from the Web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
   
   Michele Banko,  Michael J. Cafarella, Stephen Soderland, Matthew Broadhead, Oren Etzioni
-* *["Autonomously Semantifying Wikipedia"](http://turing.cs.washington.edu/papers/cikm07.pdf)* - CIKM 2007
-
-  Fei Wu, Daniel S. Weld
   
 * *["Unsupervised Resolution of Objects and Relations on the Web"](http://turing.cs.washington.edu/papers/object_identification_camera_ready_4.pdf)* - NAACL 2007
 
