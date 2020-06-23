@@ -4,6 +4,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
 
 * [Introduction to OIE](#introduction-to-oie)
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
+  * [2006](#2006)
   * [2007](#2007)
   * [2008](#2008)
   * [2009](#2009)
@@ -59,6 +60,12 @@ An OIE system aims to make the following extractions:
     ("AMD"; "is"; "technology company")
 
 ## Papers sorted in chronological order
+
+### 2006
+
+* *["Machine Reading"](https://www.aaai.org/Papers/Symposia/Spring/2007/SS-07-06/SS07-06-001.pdf)* - AAAI 2006
+
+  Oren Etzioni, Michele Banko, Michael J. Cafarella
 
 ### 2007
 * *["Open Information Extraction from the Web"](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)* - IJCAI 2007
