@@ -628,6 +628,10 @@ An OIE system aims to make the following extractions:
 * [*"Hybrid Neural Tagging Model for Open Relation Extraction"*](https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020 ([data](https://github.com/TJUNLP/NSL4OIE))
 
    Shengbin Jia, Yang Xiang
+   
+* [*"Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network"*](https://arxiv.org/pdf/2006.09610.pdf) - CoRR 2020
+
+   Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
 
 ## Papers grouped by category
