@@ -813,7 +813,11 @@ Most of the OIE systems are focused on extractions made from text written on Eng
   
 #### OIE Systems for Persian Language
 
-* [*"A recursive algorithm for open information extraction from Persian texts"*](https://www.researchgate.net/publication/325977333_A_recursive_algorithm_for_open_information_extraction_from_Persian_texts) IJCAT 2018
+* [*"RePersian:An Efficient Open Information Extraction Tool in Persian"*](https://ieeexplore.ieee.org/abstract/document/9122301/authors#authors) - ICWR 2020
+
+  Raana Saheb-Nassagh, Majid Asgari, Behrouz Minaei-Bidgoli
+
+* [*"A recursive algorithm for open information extraction from Persian texts"*](https://www.researchgate.net/publication/325977333_A_recursive_algorithm_for_open_information_extraction_from_Persian_texts) - IJCAT 2018
 
   Mahmoud Rahat, Alireza Talebpour, Seyedamin Monemian
   
