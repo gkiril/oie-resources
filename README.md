@@ -633,6 +633,9 @@ An OIE system aims to make the following extractions:
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
+* [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
+
+   Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
 
 ## Papers grouped by category
 
@@ -891,6 +894,9 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
    Shengbin Jia, Yang Xiang   
    
+* [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
+
+   Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
 
 ## Slides
 * [\[pdf\] *"Compact Open Information Extraction on Large Corpora"*](https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_People/Researchers/gashteovski/oie_nec_labs_gashteovski.pdf). Talk by Kiril Gashteovski given at NEC Labs Europe GmbH, 2019.
@@ -926,8 +932,10 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
   * [ClausIE](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/): originally written in Java
   * [ClausIE (mavenized version)](https://github.com/IsaacChanghau/ClausIE)
   * [ClausIEpy](https://github.com/drwiner/ClausIEpy): Python wrapper for ClausIE
-* OpenIE at A2I:
-  * [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone): the latest version of OpenIE at A2I.
+* OpenIE at IIT Delhi:
+  * [IMoJIE](https://github.com/dair-iitd/imojie): a BERT-based OpenIE system
+  * [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone)
+* OpenIE at UW:
   * [OLLIE](http://knowitall.github.io/ollie/)
   * [ReVerb](http://reverb.cs.washington.edu/)
 * Stanford's OpenIE:
