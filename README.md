@@ -866,6 +866,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
    Mingming Sun, Xu Li, Ping Li
    
+* *["Supervising Unsupervised Open Information Extraction Models"](https://www.aclweb.org/anthology/D19-1067.pdf)* - EMNLP 2019
+
+   Arpita Roy, Youngja Park, Taesung Lee and Shimei Pan
+   
 * [*"Contextualized Word Embeddings in a Neural Open Information Extraction Model"*](https://link.springer.com/chapter/10.1007/978-3-030-23281-8_31) - NLDB 2019
 
    Injy Sarhan, Marco R. Spruit
