@@ -771,6 +771,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Multilingual Open Relation Extraction Using Cross-lingual Projection"*](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43449.pdf) - HLT-NAACL 2015
 
   Manaal Faruqui, Shankar Kumar
+  
+* *["MT/IE: Cross-lingual Open Information Extraction with Neural Sequence-to-Sequence Models"](http://www.aclweb.org/anthology/E17-2011)* - EACL 2017 ([code](https://github.com/sheng-z/cross-lingual-open-ie))
+  	
+  Kevin Duh, Benjamin Van Durme, Sheng Zhang
 
 * [*"Multilingual Open Information Extraction"*](https://gramatica.usc.es/~gamallo/artigos-web/EPIA2015.pdf) - EPIA 2015
 
