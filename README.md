@@ -297,7 +297,7 @@ An OIE system aims to make the following extractions:
 
   Gabriel Stanovsky, Ido Dagan
   
-* *["Porting an Open Information Extraction System from English to German"](https://aclweb.org/anthology/D16-1086)* - EMNLP 2016
+* *["Porting an Open Information Extraction System from English to German"](https://aclweb.org/anthology/D16-1086)* - EMNLP 2016 ([code](https://github.com/UKPLab/props-de))
 
   Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
   
@@ -786,7 +786,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
   Akim Bassa, Mark Kröll, Roman Kern
   
-* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) - EMNLP 2016
+* [*"Porting an Open Information Extraction System from English to German"*](https://aclweb.org/anthology/D16-1086) - EMNLP 2016 ([code](https://github.com/UKPLab/props-de))
 
   Tobias Falke, Gabriel Stanovsky, Iryna Gurevych, Ido Dagan
 
