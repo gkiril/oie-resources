@@ -32,6 +32,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [OIE in Different Languages](#oie-in-different-languages)
     * [OIE Systems for German Language](#oie-systems-for-german-language)
     * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
+    * [OIE Systems for Spanish Language](#oie-systems-for-spanish-language)
     * [OIE Systems for Chinese Language](#oie-systems-for-chinese-language)
     * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
     * [OIE Systems for Italian Language](#oie-systems-for-italian-language)
@@ -240,6 +241,10 @@ An OIE system aims to make the following extractions:
 * *["Entity-Centric Coreference Resolution of Person Entities for Open Information Extraction"](http://www.taln.upf.edu/pages/sepln2014/full_papers/edited_paper_30.pdf)* - Procesamiento del Lenguaje Natural (2014)
 
   Marcos García, Pablo Gamallo
+  
+* *["Open Information Extraction for Spanish Language based on Syntactic Constraints"](https://www.aclweb.org/anthology/P14-3011.pdf)* - ACL (Student Research Workshop) (2014)
+
+  Alisa Zhila, Alexander Gelbukh
   
 ### 2015
 
@@ -803,6 +808,12 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"DependentIE: An Open Information Extraction system on Portuguese by a Dependence Analysis"*](https://www.researchgate.net/profile/Rafael_Glauber/publication/324759625_DependentIE_An_Open_Information_Extraction_system_on_Portuguese_by_a_Dependence_Analysis/links/5ae0e48faca272fdaf8d8979/DependentIE-An-Open-Information-Extraction-system-on-Portuguese-by-a-Dependence-Analysis.pdf) - ENIAC 2017
 
   Leandro Souza de Oliveira, Rafael Glauber, Daniela Barreiro Claro
+  
+#### OIE Systems for Spanish Language
+
+* *["Open Information Extraction for Spanish Language based on Syntactic Constraints"](https://www.aclweb.org/anthology/P14-3011.pdf)* - ACL (Student Research Workshop) (2014)
+
+  Alisa Zhila, Alexander Gelbukh
   
 #### OIE Systems for Chinese Language
 
