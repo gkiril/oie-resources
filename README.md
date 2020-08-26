@@ -629,7 +629,16 @@ An OIE system aims to make the following extractions:
 * [*An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"*](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
+   
+* [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
 
+   Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
+
+   
+* *["Chinese Open Relation Extraction with Pointer-Generator Networks"](https://ieeexplore.ieee.org/abstract/document/9172882/references#references)* - DSC 2020
+
+   Ziheng Cheng, Xu Wu, Xiaqing Xie, Jingchen Wu
+   
 * [*"Hybrid Neural Tagging Model for Open Relation Extraction"*](https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020 ([data](https://github.com/TJUNLP/NSL4OIE))
 
    Shengbin Jia, Yang Xiang
@@ -638,9 +647,6 @@ An OIE system aims to make the following extractions:
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
-* [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
-
-   Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
 
 ## Papers grouped by category
 
@@ -828,6 +834,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["Open Relation Extraction for Chinese Noun Phrases"](https://ieeexplore.ieee.org/abstract/document/8903488)* - TKDE 2019
 
    Chengyu Wang, Xiaofeng He, Aoying Zhou
+   
+* *["Chinese Open Relation Extraction with Pointer-Generator Networks"](https://ieeexplore.ieee.org/abstract/document/9172882/references#references)* - DSC 2020
+
+   Ziheng Cheng, Xu Wu, Xiaqing Xie, Jingchen Wu
   
 #### OIE Systems for Persian Language
 
