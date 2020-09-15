@@ -614,6 +614,22 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
+* [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie), [video](https://slideslive.com/38929035/imojie-iterative-memorybased-joint-open-information-extraction)) - ACL 2020
+
+   Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
+   
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+
+   Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
+
+* [*"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts"*](https://www.aclweb.org/anthology/2020.acl-main.717/) ([video](https://slideslive.com/38928762/learning-interpretable-relationships-between-entities-relations-and-concepts-via-bayesian-structure-learning-on-open-domain-facts))
+
+   Jingyuan Zhang, Mingming Sun, Yue Feng, Ping Li
+
+* [*"In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts"*](https://www.aclweb.org/anthology/2020.acl-main.137.pdf) ([code](https://github.com/rubenkruiper/FOBIE), [video](https://slideslive.com/38928870/in-laymans-terms-semiopen-relation-extraction-from-scientific-texts))
+
+   Ruben Kruiper, Julian Vincent, Jessica Chen-Burger, Marc Desmulliez, Ioannis Konstas
+
 * *["Span Model for Open Information Extraction on Accurate Corpus"](https://arxiv.org/pdf/1901.10879.pdf)* ([code](https://github.com/zhanjunlang/Span_OIE))- AAAI 2020
    
    Junlang Zhan, Hai Zhao
@@ -629,10 +645,6 @@ An OIE system aims to make the following extractions:
 * [*An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"*](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
-   
-* [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
-
-   Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
 
    
 * *["Chinese Open Relation Extraction with Pointer-Generator Networks"](https://ieeexplore.ieee.org/abstract/document/9172882/references#references)* - DSC 2020
