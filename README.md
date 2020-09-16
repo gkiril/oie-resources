@@ -355,6 +355,10 @@ An OIE system aims to make the following extractions:
 * *["MT/IE: Cross-lingual Open Information Extraction with Neural Sequence-to-Sequence Models"](http://www.aclweb.org/anthology/E17-2011)* - EACL 2017 ([code](https://github.com/sheng-z/cross-lingual-open-ie))
   	
   Kevin Duh, Benjamin Van Durme, Sheng Zhang
+  
+* *[Open Relation Extraction for Support Passage Retrieval: Merit and Open Issues"](https://www.cs.unh.edu/~dietz/appendix/openie4ir/kadry-dietz-sigir2017-open-relation-extraction-for-support-passage-retrieval.pdf)* - SIGIR 2017
+
+  Amina Kadry, Laura Dietz
     
 * *["Syntactic Representation Learning for Open Information Extraction on Web"](https://dl.acm.org/citation.cfm?id=3041021.3054266)* - WWW 2017
 
