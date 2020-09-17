@@ -561,7 +561,7 @@ An OIE system aims to make the following extractions:
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
 
-* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDM 2019
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
 
    Xueling Lin, Lei Chen
    
@@ -971,9 +971,17 @@ Most of the OIE systems are focused on extractions made from text written on Eng
   
   Shikhar Vashishth, Prince Jain, Partha Talukdar
   
+* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/citation.cfm?id=3271707)* - CIKM 2018
+
+   Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
+  
 * *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+   
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
+
+   Xueling Lin, Lei Chen
 
 
 ## Slides
