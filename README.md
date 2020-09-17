@@ -757,6 +757,14 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * *["University of Washington System for 2015 KBP Cold Start Slot Filling"](https://www.cs.rochester.edu/u/gkim21/papers/UWashington-KBP2015.pdf)* - TAC 2015
 
    Stephen Soderland, Natalie Hawkins, Gene L. Kim, Daniel S. Weld
+   
+* *["Combining Open IE and Distant Supervision for KBP Slot Filling"](https://tac.nist.gov/publications/2015/participant.papers/TAC2015.UWashington.proceedings.pdf)* - TAC 2015
+
+   	Stephen Soderland, Natalie Hawkins, John Gilmer, Daniel S. Weld
+   
+* *["Open Relation Extraction and Grounding"](https://www.aclweb.org/anthology/I17-1086/)* -  IJCNLP 2017
+
+   Dian Yu, Lifu Huang, Heng Ji
 
 
 #### Event Schema Induction
