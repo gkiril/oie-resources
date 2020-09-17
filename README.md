@@ -749,6 +749,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Open Information Extraction to KBP Relations in 3 Hours"*](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf) - TAC 2013
 
   Stephen Soderland, John Gilmer, Robert Bart, Oren Etzioni, Daniel S. Weld
+  
+* *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015 ([code (Java)](https://stanfordnlp.github.io/CoreNLP/openie.html), [code (Python)](https://github.com/philipperemy/Stanford-OpenIE-Python))
+
+  Gabor Angeli, Melvin Jose Johnson Premkumar, Christopher D. Manning
 
 #### Event Schema Induction
 
