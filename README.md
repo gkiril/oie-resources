@@ -38,6 +38,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [OIE Systems for Italian Language](#oie-systems-for-italian-language)
     * [OIE Systems for Indonesian Language](#oie-systems-for-indonesian-language)
   * [Supervised OIE](#supervised-oie)
+  * [Canonicalization of OIE](#canonicalization-of-oie)
 * [Slides](#slides)
 * [Talks](#talks)
 * [Code](#code)
@@ -552,7 +553,7 @@ An OIE system aims to make the following extractions:
 
    Sangnie Bhardwaj, Samarth Aggarwal and Mausam
    
-* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019
+* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
    
@@ -942,6 +943,21 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
 
    Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
+
+### Canonicalization of OIE
+
+* *["Canonicalizing Open Knowledge Bases"](https://suchanek.name/work/publications/cikm2014.pdf)* - CIKM 2014
+
+  Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
+  
+* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
+  
+  Shikhar Vashishth, Prince Jain, Partha Talukdar
+  
+* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+
+   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+
 
 ## Slides
 * [\[pdf\] *"Compact Open Information Extraction on Large Corpora"*](https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_People/Researchers/gashteovski/oie_nec_labs_gashteovski.pdf). Talk by Kiril Gashteovski given at NEC Labs Europe GmbH, 2019.
