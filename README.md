@@ -753,6 +753,11 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * *["Leveraging Linguistic Structure For Open Domain Information Extraction"](https://nlp.stanford.edu/pubs/2015angeli-openie.pdf)* - ACL 2015 ([code (Java)](https://stanfordnlp.github.io/CoreNLP/openie.html), [code (Python)](https://github.com/philipperemy/Stanford-OpenIE-Python))
 
   Gabor Angeli, Melvin Jose Johnson Premkumar, Christopher D. Manning
+  
+* *["University of Washington System for 2015 KBP Cold Start Slot Filling"](https://www.cs.rochester.edu/u/gkim21/papers/UWashington-KBP2015.pdf)* - TAC 2015
+
+   Stephen Soderland, Natalie Hawkins, Gene L. Kim, Daniel S. Weld
+
 
 #### Event Schema Induction
 
