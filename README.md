@@ -619,6 +619,10 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
+* *["Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
+
+  Youngbin Ro, Yukyung Lee, Pilsung Kang
+
 * [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie), [video](https://slideslive.com/38929035/imojie-iterative-memorybased-joint-open-information-extraction)) - ACL 2020
 
    Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
@@ -663,6 +667,10 @@ An OIE system aims to make the following extractions:
 * [*"Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network"*](https://arxiv.org/pdf/2006.09610.pdf) - CoRR 2020
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+   
+* [*"Tag and Correct: Question Aware Open Information Extraction with Two-Stage Decoding"*](https://arxiv.org/pdf/2009.07406.pdf) - CoRR 2020
+
+   Martin Kuo, Yaobo Liang, Lei Ji, Nan Duan, Linjun Shou, Ming Gong, Peng Chen
 
 
 ## Papers grouped by category
@@ -804,6 +812,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
 #### Multilingual OIE Systems
+
+* *["Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
+
+  Youngbin Ro, Yukyung Lee, Pilsung Kang
 
 * *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* - WWW 2020
 
