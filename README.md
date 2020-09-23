@@ -619,7 +619,7 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
-* *["Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
+* [*"Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"*](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
 
   Youngbin Ro, Yukyung Lee, Pilsung Kang
 
@@ -813,7 +813,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
 #### Multilingual OIE Systems
 
-* *["Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
+* [*"Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"*](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
 
   Youngbin Ro, Yukyung Lee, Pilsung Kang
 
