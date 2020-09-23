@@ -631,11 +631,11 @@ An OIE system aims to make the following extractions:
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
-* [*"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts"*](https://www.aclweb.org/anthology/2020.acl-main.717/) ([video](https://slideslive.com/38928762/learning-interpretable-relationships-between-entities-relations-and-concepts-via-bayesian-structure-learning-on-open-domain-facts))
+* [*"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts"*](https://www.aclweb.org/anthology/2020.acl-main.717/) ([video](https://slideslive.com/38928762/learning-interpretable-relationships-between-entities-relations-and-concepts-via-bayesian-structure-learning-on-open-domain-facts)) - ACL 2020
 
    Jingyuan Zhang, Mingming Sun, Yue Feng, Ping Li
 
-* [*"In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts"*](https://www.aclweb.org/anthology/2020.acl-main.137.pdf) ([code](https://github.com/rubenkruiper/FOBIE), [video](https://slideslive.com/38928870/in-laymans-terms-semiopen-relation-extraction-from-scientific-texts))
+* [*"In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts"*](https://www.aclweb.org/anthology/2020.acl-main.137.pdf) ([code](https://github.com/rubenkruiper/FOBIE), [video](https://slideslive.com/38928870/in-laymans-terms-semiopen-relation-extraction-from-scientific-texts)) - ACL 2020
 
    Ruben Kruiper, Julian Vincent, Jessica Chen-Burger, Marc Desmulliez, Ioannis Konstas
 
