@@ -531,7 +531,7 @@ An OIE system aims to make the following extractions:
 
   Nikita Bhutani, Yoshihiko Suhara, Wang-Chiew Tan, Alon Halevy and H V Jagadish
   
-* *["OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference"](https://www.aclweb.org/anthology/N19-1083/)* - NAACL 2019
+* *["OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference"](https://www.aclweb.org/anthology/N19-1083/)* - NAACL 2019 ([data](https://github.com/zhangdongxu/relation-inference-naacl19)) 
 
   Dongxu Zhang, Subhabrata Mukherjee, Colin Lockard, Xin Luna Dong, Andrew McCallum
   
