@@ -662,6 +662,10 @@ An OIE system aims to make the following extractions:
 
    Ziheng Cheng, Xu Wu, Xiaqing Xie, Jingchen Wu
    
+* *[Explainable OpenIE Classifier with Morpho-syntactic Rules"](http://ceur-ws.org/Vol-2693/paper1.pdf)* - HI4NLP@ECAI 2020 
+
+   Bruno Cabral, Marlo Souza, Daniela Barreiro Claro
+   
 * [*"Hybrid Neural Tagging Model for Open Relation Extraction"*](https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020 ([data](https://github.com/TJUNLP/NSL4OIE))
 
    Shengbin Jia, Yang Xiang
@@ -822,6 +826,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* - WWW 2020
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
+   
+* *[Explainable OpenIE Classifier with Morpho-syntactic Rules"](http://ceur-ws.org/Vol-2693/paper1.pdf)* - HI4NLP@ECAI 2020 
+
+   Bruno Cabral, Marlo Souza, Daniela Barreiro Claro
 
 * [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
 
