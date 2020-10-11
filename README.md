@@ -621,6 +621,10 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
+* [*"OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction"*](https://arxiv.org/abs/2010.03147) ([code](https://github.com/dair-iitd/openie6)) - EMNLP 2020
+
+  Keshav Kolluru, Vaibhav Adlakha, Samarth Aggarwal, Mausam, Soumen Chakrabarti
+
 * [*"Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"*](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
 
   Youngbin Ro, Yukyung Lee, Pilsung Kang
@@ -1041,8 +1045,9 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
   * [ClausIE (mavenized version)](https://github.com/IsaacChanghau/ClausIE)
   * [ClausIEpy](https://github.com/drwiner/ClausIEpy): Python wrapper for ClausIE
 * OpenIE at IIT Delhi:
+  * [OpenIE6](https://github.com/dair-iitd/openie6)
   * [IMoJIE](https://github.com/dair-iitd/imojie): a BERT-based OpenIE system
-  * [OpenIE 5.0](https://github.com/dair-iitd/OpenIE-standalone)
+  * [OpenIE5](https://github.com/dair-iitd/OpenIE-standalone)
 * OpenIE at UW:
   * [OLLIE](http://knowitall.github.io/ollie/)
   * [ReVerb](http://reverb.cs.washington.edu/)
