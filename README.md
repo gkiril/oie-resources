@@ -657,7 +657,7 @@ An OIE system aims to make the following extractions:
 
    Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
    
-* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"*](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23) - WISE 2020
+* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23)* - WISE 2020
 
    Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen
 
@@ -1014,7 +1014,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
    Xueling Lin, Lei Chen
    
-* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"*](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23) - WISE 2020
+* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23)* - WISE 2020
 
    Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen
    
