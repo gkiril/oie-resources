@@ -657,6 +657,11 @@ An OIE system aims to make the following extractions:
 
    Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
    
+* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"*](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23) - WISE 2020
+
+   Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen
+
+   
 * [*An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction"*](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.25) - SDM 2020
 
    Guiliang Liu, Xu Li, Miningming Sun, Ping Li
@@ -1008,6 +1013,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
 
    Xueling Lin, Lei Chen
+   
+* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"*](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23) - WISE 2020
+
+   Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen
    
 * [*"Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network"*](https://arxiv.org/pdf/2006.09610.pdf) - CoRR 2020
 
