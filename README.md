@@ -623,7 +623,7 @@ An OIE system aims to make the following extractions:
 
 * [*Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction*](http://www.cs.ox.ac.uk/publications/publication14256-abstract.html) - EMNLP 2020
 
-   Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan and Thomas Lukasiewicz.
+   Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan, Thomas Lukasiewicz
 
 
 * [*SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction*](https://arxiv.org/pdf/2004.02438.pdf) - EMNLP 2020
