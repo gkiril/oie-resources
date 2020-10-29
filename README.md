@@ -621,6 +621,10 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
+* [*SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction*](https://arxiv.org/pdf/2004.02438.pdf) - EMNLP 2020
+
+   Xuming Hu, Chenwei Zhang, Yusong Xu, Lijie Wen, Philip S. Yu
+
 * [*"OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction"*](https://arxiv.org/abs/2010.03147) ([code](https://github.com/dair-iitd/openie6)) - EMNLP 2020
 
   Keshav Kolluru, Vaibhav Adlakha, Samarth Aggarwal, Mausam, Soumen Chakrabarti
