@@ -658,7 +658,7 @@ An OIE system aims to make the following extractions:
    
    Junlang Zhan, Hai Zhao
    
-* *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* - WWW 2020
+* *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* ([code](https://github.com/tomharting/LOREM)) - WWW 2020
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
    
@@ -841,7 +841,7 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 
   Youngbin Ro, Yukyung Lee, Pilsung Kang
 
-* *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* - WWW 2020
+* *["LOREM: Language-consistent Open Relation Extraction from Unstructured Text"](https://repository.tudelft.nl/islandora/object/uuid%3A3d9cfa08-4a7f-41cc-afdd-a8902094228c)* ([code](https://github.com/tomharting/LOREM)) - WWW 2020
 
    Tom Harting, Sepideh Mesbah, Christoph Lofi
    
