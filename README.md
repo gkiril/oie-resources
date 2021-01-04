@@ -621,6 +621,10 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
+* [*Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction*](https://www.aclweb.org/anthology/2020.emnlp-main.690) - EMNLP 2020
+
+   Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan, Thomas Lukasiewicz
+
 * [*A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression*](https://www.aclweb.org/anthology/2020.emnlp-main.167/) - EMNLP 2020 ([resources](https://sunbelbd.github.io/Open-Information-eXpression/))
 
    Mingming Sun, Wenyue Hua, Zoey Liu, Xin Wang, Kangjie Zheng, Ping Li
@@ -763,6 +767,10 @@ An OIE system aims to make the following extractions:
 * [*"Towards a gold standard dataset for Open Information Extraction in Italian"*](https://ieeexplore.ieee.org/abstract/document/8931822) - SNAMS 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
+   
+* [*Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction*](https://www.aclweb.org/anthology/2020.emnlp-main.690) - EMNLP 2020
+
+   Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan, Thomas Lukasiewicz
   
 ### OIE for downstream applications
 
@@ -1005,6 +1013,14 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"IMoJIE: Iterative Memory-Based Joint Open Information Extraction"*](https://www.aclweb.org/anthology/2020.acl-main.521/) ([code](https://github.com/dair-iitd/imojie)) - ACL 2020
 
    Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam, Soumen Chakrabarti
+   
+* [*"OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction"*](https://arxiv.org/abs/2010.03147) ([code](https://github.com/dair-iitd/openie6)) - EMNLP 2020
+
+  Keshav Kolluru, Vaibhav Adlakha, Samarth Aggarwal, Mausam, Soumen Chakrabarti
+   
+* [*Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction*](https://www.aclweb.org/anthology/2020.emnlp-main.690) - EMNLP 2020
+
+   Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan, Thomas Lukasiewicz
 
 ### Canonicalization of OIE
 
