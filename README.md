@@ -621,6 +621,11 @@ An OIE system aims to make the following extractions:
    
 ### 2020
 
+* [*A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression*](https://www.aclweb.org/anthology/2020.emnlp-main.167/) - EMNLP 2020 ([resources](https://sunbelbd.github.io/Open-Information-eXpression/))
+
+   Mingming Sun, Wenyue Hua, Zoey Liu, Xin Wang, Kangjie Zheng, Ping Li
+
+
 * [*Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction*](http://www.cs.ox.ac.uk/publications/publication14256-abstract.html) - EMNLP 2020
 
    Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan, Thomas Lukasiewicz
