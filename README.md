@@ -28,7 +28,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Question Answering](#question-answering)
     * [Slot Filling](#slot-filling)
     * [Event Schema Induction](#event-schema-induction)
-    * [Fact Salience](#fact-salience)
+    * [Text Summarization](#text-summarization)
     * [Knowledge Base Population](#knowledge-base-population)
     * [Relating Entities](#relating-entities)
   * [OIE in Different Languages](#oie-in-different-languages)
@@ -826,15 +826,20 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
   Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
 
-#### Fact Salience
+#### Text Summarization
 
 * [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
 
   Marco Ponza, Luciano Del Corro, Gerhard Weikum
   
-* [*Coherence and Salience-Based Multi-Document Relationship Mining*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
+* [*"Coherence and Salience-Based Multi-Document Relationship Mining"*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
 
    Yongpan Sheng, Zenglin Xu
+   
+* [*"FAR-ASS: Fact-aware reinforced abstractive sentence summarization"*](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309675) - Information Processing & Management 2021
+
+   Mengli Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liu
+
    
 #### Knowledge Base Population
 
