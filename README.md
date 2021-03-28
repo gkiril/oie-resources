@@ -708,6 +708,10 @@ An OIE system aims to make the following extractions:
 * [*"Tag and Correct: Question Aware Open Information Extraction with Two-Stage Decoding"*](https://arxiv.org/pdf/2009.07406.pdf) - CoRR 2020
 
    Martin Kuo, Yaobo Liang, Lei Ji, Nan Duan, Linjun Shou, Ming Gong, Peng Chen
+   
+* [*"Abstractive Query Focused Summarization with Query-Free Resources"*](https://arxiv.org/abs/2012.14774) - CoRR 2020
+
+   Yumo Xu, Mirella Lapata
 
 
 ## Papers grouped by category
@@ -839,6 +843,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"FAR-ASS: Fact-aware reinforced abstractive sentence summarization"*](https://www.sciencedirect.com/science/article/abs/pii/S0306457320309675) - Information Processing & Management 2021
 
    Mengli Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liu
+   
+* [*"Abstractive Query Focused Summarization with Query-Free Resources"*](https://arxiv.org/abs/2012.14774) - CoRR 2020
+
+   Yumo Xu, Mirella Lapata
 
    
 #### Knowledge Base Population
