@@ -564,6 +564,10 @@ An OIE system aims to make the following extractions:
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
    
+* *["Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text"](https://www.aclweb.org/anthology/D19-1029/)* - EMNLP 2019
+
+   Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh Chawla, Meng Jiang
+   
 * *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
