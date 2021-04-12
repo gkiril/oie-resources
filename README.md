@@ -30,6 +30,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Event Schema Induction](#event-schema-induction)
     * [Text Summarization](#text-summarization)
     * [Knowledge Base Population](#knowledge-base-population)
+    * [Knowledge Base Construction](#knowledge-base-construction)
     * [Relating Entities](#relating-entities)
   * [OIE in Different Languages](#oie-in-different-languages)
     * [OIE Systems for German Language](#oie-systems-for-german-language)
@@ -562,6 +563,10 @@ An OIE system aims to make the following extractions:
 * *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
+   
+* *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
+
+   Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
 
@@ -858,6 +863,12 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - PVLDB 2020
 
   Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
+  
+#### Knowledge Base Construction
+
+* *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
+
+   Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
 #### Relating Entities
 
