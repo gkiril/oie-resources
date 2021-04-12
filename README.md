@@ -608,6 +608,10 @@ An OIE system aims to make the following extractions:
 
    Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
    
+* [*"CTGA: Graph-based Biomedical Literature Search"](https://ieeexplore.ieee.org/abstract/document/8983173)* - IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+
+   Tianwen Jiang, Zhihan Zhang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+   
 * [*"When Lexicon-Grammar Meets Open Information Extraction: a Computational Experiment for Italian Sentences"*](http://ceur-ws.org/Vol-2481/paper36.pdf) -  CLiC-it 2019
 
    Raffaele Guarasci, Emanuele Damiano, Aniello Minutolo, Massimo Esposito
