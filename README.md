@@ -21,6 +21,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2018](#2018)
   * [2019](#2019)
   * [2020](#2020)
+  * [2021](#2020)
 * [Papers grouped by category](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
@@ -726,6 +727,11 @@ An OIE system aims to make the following extractions:
 
    Yumo Xu, Mirella Lapata
 
+### 2021
+
+* [*"Multi-Grained Dependency Graph Neural Network for Chinese Open Information Extraction"*](https://link.springer.com/content/pdf/10.1007/978-3-030-75768-7_13.pdf) - PAKDD 2021
+
+   Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
 
 ## Papers grouped by category
 
@@ -965,6 +971,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["Chinese Open Relation Extraction with Pointer-Generator Networks"](https://ieeexplore.ieee.org/abstract/document/9172882/references#references)* - DSC 2020
 
    Ziheng Cheng, Xu Wu, Xiaqing Xie, Jingchen Wu
+   
+* [*"Multi-Grained Dependency Graph Neural Network for Chinese Open Information Extraction"*](https://link.springer.com/content/pdf/10.1007/978-3-030-75768-7_13.pdf) - PAKDD 2021
+
+   Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
   
 #### OIE Systems for Persian Language
 
@@ -1061,6 +1071,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction*](https://www.aclweb.org/anthology/2020.emnlp-main.690) - EMNLP 2020
 
    Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan, Thomas Lukasiewicz
+   
+* [*"Multi-Grained Dependency Graph Neural Network for Chinese Open Information Extraction"*](https://link.springer.com/content/pdf/10.1007/978-3-030-75768-7_13.pdf) - PAKDD 2021
+
+   Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
 
 ### Canonicalization of OIE
 
