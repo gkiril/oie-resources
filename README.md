@@ -729,6 +729,10 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
+* [*"Open Hierarchical Relation Extraction"*](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf) - NAACL 2021 ([code](https://github.com/thunlp/OHRE))
+
+   Kai Zhang, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun
+
 * [*"Semi-Open Information Extraction"*](https://dl.acm.org/doi/abs/10.1145/3442381.3450029) - WWW 2021
 
    Bowen Yu, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang
