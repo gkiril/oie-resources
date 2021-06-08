@@ -729,7 +729,7 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
-* [*Semi-Open Information Extraction"*](https://dl.acm.org/doi/abs/10.1145/3442381.3450029) - WWW 2021
+* [*"Semi-Open Information Extraction"*](https://dl.acm.org/doi/abs/10.1145/3442381.3450029) - WWW 2021
 
    Bowen Yu, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang
 
@@ -737,7 +737,7 @@ An OIE system aims to make the following extractions:
 
    Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
    
-* [*CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction"*](https://arxiv.org/pdf/2106.00793.pdf) - CoRR 2021
+* [*"CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction"*](https://arxiv.org/pdf/2106.00793.pdf) - CoRR 2021
 
    Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong
 
