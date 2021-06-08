@@ -732,6 +732,10 @@ An OIE system aims to make the following extractions:
 * [*"Multi-Grained Dependency Graph Neural Network for Chinese Open Information Extraction"*](https://link.springer.com/content/pdf/10.1007/978-3-030-75768-7_13.pdf) - PAKDD 2021
 
    Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
+   
+* [*CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction"*](https://arxiv.org/pdf/2106.00793.pdf) - CoRR 2021
+
+   Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong
 
 ## Papers grouped by category
 
