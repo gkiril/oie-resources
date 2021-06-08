@@ -729,6 +729,10 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
+* [*Semi-Open Information Extraction"*](https://dl.acm.org/doi/abs/10.1145/3442381.3450029) - WWW 2021
+
+   Bowen Yu, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang
+
 * [*"Multi-Grained Dependency Graph Neural Network for Chinese Open Information Extraction"*](https://link.springer.com/content/pdf/10.1007/978-3-030-75768-7_13.pdf) - PAKDD 2021
 
    Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
