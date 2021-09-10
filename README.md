@@ -33,6 +33,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Knowledge Base Population](#knowledge-base-population)
     * [Knowledge Base Construction](#knowledge-base-construction)
     * [Relating Entities](#relating-entities)
+    * [Video Grounding](#video-grounding)
   * [OIE in Different Languages](#oie-in-different-languages)
     * [OIE Systems for German Language](#oie-systems-for-german-language)
     * [OIE Systems for Portugese Language](#oie-systems-for-portugese-language)
