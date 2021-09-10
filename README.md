@@ -32,6 +32,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Text Summarization](#text-summarization)
     * [Knowledge Base Population](#knowledge-base-population)
     * [Knowledge Base Construction](#knowledge-base-construction)
+    * [Open Link Prediction](#open-link-prediction)
     * [Relating Entities](#relating-entities)
     * [Video Grounding](#video-grounding)
   * [OIE in Different Languages](#oie-in-different-languages)
