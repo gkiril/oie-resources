@@ -32,6 +32,8 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Text Summarization](#text-summarization)
     * [Knowledge Base Population](#knowledge-base-population)
     * [Knowledge Base Construction](#knowledge-base-construction)
+    * [Entity Linking](#entity-linking)
+    * [Relation Linking](#relation-linking)
     * [Open Link Prediction](#open-link-prediction)
     * [Relating Entities](#relating-entities)
     * [Video Grounding](#video-grounding)
@@ -763,6 +765,10 @@ An OIE system aims to make the following extractions:
 * [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
+    
+* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
+
+    Xueling Lin, Lei Chen, Chaorui Zhang
 
 * [*"Multi-Grained Dependency Graph Neural Network for Chinese Open Information Extraction"*](https://link.springer.com/content/pdf/10.1007/978-3-030-75768-7_13.pdf) - PAKDD 2021
 
@@ -924,6 +930,18 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+   
+#### Entity Linking
+
+* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
+
+    Xueling Lin, Lei Chen, Chaorui Zhang
+    
+#### Relation Linking
+
+* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
+
+    Xueling Lin, Lei Chen, Chaorui Zhang
    
 #### Open Link Prediction
 
