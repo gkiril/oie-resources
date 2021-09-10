@@ -42,6 +42,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [OIE Systems for Persian Language](#oie-systems-for-persian-language)
     * [OIE Systems for Italian Language](#oie-systems-for-italian-language)
     * [OIE Systems for Indonesian Language](#oie-systems-for-indonesian-language)
+    * [OIE Systems for Greek Language](#oie-systems-for-greek-language)
   * [Supervised OIE](#supervised-oie)
   * [Canonicalization of OIE](#canonicalization-of-oie)
 * [Slides](#slides)
@@ -742,6 +743,10 @@ An OIE system aims to make the following extractions:
 
    Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
    
+* *[PENELOPIE: Enabling Open Information Extraction for the Greek Language through Machine Translation"](https://aclanthology.org/2021.eacl-srw.4/)* - Student Research Workshop @ EACL
+
+   Dimitris Papadopoulos, Nikolaos Papadakis, Nikolaos Matsatsinis
+   
 * [*"CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction"*](https://arxiv.org/pdf/2106.00793.pdf) - CoRR 2021
 
    Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong
@@ -1028,6 +1033,12 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *[Rule-based Indonesian Open Information Extraction"](https://ieeexplore.ieee.org/document/8541293)* - ICAICTA 2018 
 
   Ade Romadhony, Ayu Purwarianti, Dwi H. Widyantoro
+  
+#### OIE Systems for Greek Language
+
+* *[PENELOPIE: Enabling Open Information Extraction for the Greek Language through Machine Translation"](https://aclanthology.org/2021.eacl-srw.4/)* - Student Research Workshop @ EACL
+
+   Dimitris Papadopoulos, Nikolaos Papadakis, Nikolaos Matsatsinis
 
 ### Supervised OIE
 
