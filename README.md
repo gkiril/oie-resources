@@ -735,6 +735,10 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
+* [*"LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction"*](https://aclanthology.org/2021.eacl-main.222/) - EACL 2021 ([code and data](https://github.com/Jacobsolawetz/large-scale-oie)) 
+
+   Jacob Solawetz, Stefan Larson
+
 * [*"Open Hierarchical Relation Extraction"*](https://www.aclweb.org/anthology/2021.naacl-main.452.pdf) - NAACL 2021 ([code](https://github.com/thunlp/OHRE))
 
    Kai Zhang, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun
