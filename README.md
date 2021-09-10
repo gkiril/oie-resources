@@ -902,6 +902,12 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
   
   Giovanni Siragusa, Rohan Nanda, Valeria De Paiva, Luigi Di Caro
   
+#### Video Grounding
+
+* *["Interventional Video Grounding With Dual Contrastive Learning"](https://openaccess.thecvf.com/content/CVPR2021/papers/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.pdf)* - CVPR 2021
+
+  Guoshun Nan, Rui Qiao, Yao Xiao, Jun Liu, Sicong Leng, Hao Zhang, Wei Lu
+  
 ### OIE in Different Languages
 
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
