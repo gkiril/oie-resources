@@ -735,6 +735,18 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
+* [*"CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction"*](https://arxiv.org/pdf/2106.00793.pdf) - ACL 2021
+
+   Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong
+   
+* [*"DocOIE: A Document-level Context-Aware Dataset for OpenIE"*](https://aclanthology.org/2021.findings-acl.210/) - ACL 2021
+
+   Kuicai Dong, Zhao Yilin, Aixin Sun, Jung-Jae Kim, Xiaoli Li
+   
+* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
+
+   	Chandrahas, Partha Pratim Talukdar
+   
 * [*"LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction"*](https://aclanthology.org/2021.eacl-main.222/) - EACL 2021 ([code and data](https://github.com/Jacobsolawetz/large-scale-oie)) 
 
    Jacob Solawetz, Stefan Larson
@@ -759,9 +771,7 @@ An OIE system aims to make the following extractions:
 
    Dimitris Papadopoulos, Nikolaos Papadakis, Nikolaos Matsatsinis
    
-* [*"CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction"*](https://arxiv.org/pdf/2106.00793.pdf) - CoRR 2021
 
-   Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong
 
 ## Papers grouped by category
 
@@ -913,6 +923,16 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+   
+#### Open Link Prediction
+
+* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
+
+   	Chandrahas, Partha Pratim Talukdar
+    
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction)) - ACL 2020
+
+   Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
 #### Relating Entities
 
