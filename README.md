@@ -713,6 +713,10 @@ An OIE system aims to make the following extractions:
 
    Bruno Cabral, Marlo Souza, Daniela Barreiro Claro
    
+* [*Language Models are Open Knowledge Graphs*](https://arxiv.org/abs/2010.11967) - CoRR 2020
+
+   Chenguang Wang, Xiao Liu, Dawn Song
+   
 * [*"Hybrid Neural Tagging Model for Open Relation Extraction"*](https://arxiv.org/pdf/1908.01761.pdf) - CoRR 2020 ([data](https://github.com/TJUNLP/NSL4OIE))
 
    Shengbin Jia, Yang Xiang
