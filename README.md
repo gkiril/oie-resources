@@ -2,7 +2,7 @@
 
 A curated list of Open Information Extraction (OIE) resources: research papers, code, data, applications, etc. The list is not limited to Open Information Extraction systems exclusively. It also includes work highly related to OIE, such as taxonomizing open relations and using OIE in downstream applications. 
 
-## Table of content
+## Table of contents
 
 * [Introduction to OIE](#introduction-to-oie)
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
