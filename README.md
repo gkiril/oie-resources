@@ -32,6 +32,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Text Summarization](#text-summarization)
     * [Knowledge Base Population](#knowledge-base-population)
     * [Knowledge Base Construction](#knowledge-base-construction)
+    * [Knowledge Graph Construction](#knowledge-graph-construction)
     * [Entity Linking](#entity-linking)
     * [Relation Linking](#relation-linking)
     * [Open Link Prediction](#open-link-prediction)
@@ -735,6 +736,10 @@ An OIE system aims to make the following extractions:
 * [*"Abstractive Query Focused Summarization with Query-Free Resources"*](https://arxiv.org/abs/2012.14774) - CoRR 2020
 
    Yumo Xu, Mirella Lapata
+   
+* [Open Information Extraction for Knowledge Graph Construction](https://link.springer.com/chapter/10.1007/978-3-030-59028-4_10) - DEXA 2020 
+
+   Iqra Muhammad, Anna Kearney, Carrol Gamble, Frans Coenen, and Paula Williamson
 
 ### 2021
 
@@ -930,7 +935,13 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
-   
+
+#### Knowledge Graph Construction
+
+* [Open Information Extraction for Knowledge Graph Construction](https://link.springer.com/chapter/10.1007/978-3-030-59028-4_10) - DEXA 2020 
+
+   Iqra Muhammad, Anna Kearney, Carrol Gamble, Frans Coenen, and Paula Williamson
+
 #### Entity Linking
 
 * [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
