@@ -516,6 +516,10 @@ An OIE system aims to make the following extractions:
 
   William Léchelle, Fabrizio Gotti, Philippe Langlais
   
+* *["  Uncovering Algorithmic Approaches in Open Information Extraction: A Literature Review."](https://www.researchgate.net/publication/333922642_uncovering_algorithmic_approaches_in_open_information_extraction)* - 30th Benelux Conference on Artificial Intelligence 2018
+
+  Injy Sarhan, Marco Spruit
+  
 ### 2019
 
 * *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/), [code (data reading)](https://github.com/uma-pi1/OPIEC), [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
@@ -735,6 +739,10 @@ An OIE system aims to make the following extractions:
 * [*"Abstractive Query Focused Summarization with Query-Free Resources"*](https://arxiv.org/abs/2012.14774) - CoRR 2020
 
    Yumo Xu, Mirella Lapata
+   
+* [*"Can we survive without labelled data in nlp? transfer learning for open information extraction"*](https://www.mdpi.com/2076-3417/10/17/5758/pdf) -  Applied Sciences 2020
+
+   Injy Sarhan, Marco Spruit
 
 ### 2021
 
@@ -778,7 +786,9 @@ An OIE system aims to make the following extractions:
 
    Dimitris Papadopoulos, Nikolaos Papadakis, Nikolaos Matsatsinis
    
+* *[" Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph"](https://www.sciencedirect.com/science/article/pii/S0950705121007863)* - Knowledge-Based Systems 2021
 
+   Injy Sarhan, Marco Spruit
 
 ## Papers grouped by category
 
@@ -796,9 +806,15 @@ An OIE system aims to make the following extractions:
 
   Rafael Glauber, Daniela Barreiro Claro
   
+* *["  Uncovering Algorithmic Approaches in Open Information Extraction: A Literature Review."](https://www.researchgate.net/publication/333922642_uncovering_algorithmic_approaches_in_open_information_extraction)* - 30th Benelux Conference on Artificial Intelligence 2018
+
+  Injy Sarhan, Marco Spruit
+  
 * [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
 
    Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
+   
+   
 
 ### Evaluation
 
@@ -930,6 +946,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * *["The Role of "Condition": A Novel Scientific Knowledge Graph Representation and Construction Model"](https://dl.acm.org/doi/10.1145/3292500.3330942)* - KDD 2019
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+
+* *[" Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph"](https://www.sciencedirect.com/science/article/pii/S0950705121007863)* - Knowledge-Based Systems 2021
+
+   Injy Sarhan, Marco Spruit
    
 #### Entity Linking
 
@@ -1253,6 +1273,7 @@ Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren
 * [CESI:](https://github.com/malllabiisc/cesi) Canonicalizing Open Knowledge Bases using Embeddings and Side Information
 * [IMPLIE:](https://github.com/knowitall/implie) IMPLIE (IMPLicit relation Information Extraction) is a program that extracts binary relations from English sentences where the relationship between the two entities is not explicitly stated in the text.
 * [Ranking:](https://github.com/jzbjyb/oie_rank) Iterative Rank-Aware Open IE (confidence score).
+* [Open-CyKG: An Open Cyber Threat Intelligence Knowledge Graph:](https://github.com/IS5882/Open-CyKG): Implementation of attention-based OIE, KG construction and canonicalization.
 
 
 ## Data
