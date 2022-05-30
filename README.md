@@ -788,7 +788,11 @@ An OIE system aims to make the following extractions:
 * [*"MILIE: Modular & Iterative Multilingual Open Information Extraction"*](https://aclanthology.org/2022.acl-long.478/) - ACL 2022 
 
    Bhushan Kotnis, Kiril Gashteovski, Daniel Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence
-   
+
+* [*Alignment-Augmented Consistent Translation for Multilingual Open Information Extraction"*](https://aclanthology.org/2022.acl-long.179/) - ACL 2022 ([code](https://github.com/dair-iitd/moie))
+
+   Keshav Kolluru, Muqeeth Mohammed, Shubham Mittal, Soumen Chakrabarti, Mausam
+
 * [*"OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework"*](https://aclanthology.org/2022.acl-long.430/) - ACL 2022 
 
    Xin Wang, Minlong Peng, Mingming Sun, Ping Li
