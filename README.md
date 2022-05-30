@@ -800,6 +800,10 @@ An OIE system aims to make the following extractions:
 * [*"Open Relation Modeling: Learning to Define Relations between Entities"*](https://aclanthology.org/2022.findings-acl.26/) - ACL 2022 ([code](https://github.com/jeffhj/open-relation-modeling))
 
    Jie Huang, Kevin Chang, Jinjun Xiong, Wen-mei Hwu
+   
+* [*"DeepStruct: Pretraining of Language Models for Structure Prediction"*](https://aclanthology.org/2022.findings-acl.67/) - ACL 2022 ([code](https://github.com/cgraywang/deepstruct))
+
+   Chenguang Wang, Xiao Liu, Zui Chen, Haoyun Hong, Jie Tang, Dawn Song
       
 * [*"AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark"*](https://aclanthology.org/2022.acl-demo.5/) - ACL 2022 ([code](https://github.com/nfriedri/annie-annotation-platform))
 
