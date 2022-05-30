@@ -22,6 +22,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [2019](#2019)
   * [2020](#2020)
   * [2021](#2021)
+  * [2022](#2022)
 * [Papers grouped by category](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
@@ -778,7 +779,19 @@ An OIE system aims to make the following extractions:
 
    Dimitris Papadopoulos, Nikolaos Papadakis, Nikolaos Matsatsinis
    
+### 2022
 
+* [*"BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation"*](https://aclanthology.org/2022.acl-long.307/) - ACL 2022 ([code](https://github.com/gkiril/benchie))
+
+   Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
+   
+* [*"MILIE: Modular & Iterative Multilingual Open Information Extraction"*](https://aclanthology.org/2022.acl-long.478/) - ACL 2022 
+
+   Bhushan Kotnis, Kiril Gashteovski, Daniel Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence
+   
+* [*"AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark"*](https://aclanthology.org/2022.acl-demo.5/) - ACL 2022 
+
+   Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
 
 ## Papers grouped by category
 
@@ -849,6 +862,11 @@ An OIE system aims to make the following extractions:
 * [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study), [slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf), [resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) - Eval4NLP@EMNLP 2020
 
    Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
+   
+* [*"BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation"*](https://aclanthology.org/2022.acl-long.307/) - ACL 2022 ([code](https://github.com/gkiril/benchie))
+
+   Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
+   
   
 ### OIE for downstream applications
 
