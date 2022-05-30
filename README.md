@@ -797,6 +797,10 @@ An OIE system aims to make the following extractions:
 
    Xin Wang, Minlong Peng, Mingming Sun, Ping Li
    
+* [*"Open Relation Modeling: Learning to Define Relations between Entities"*](https://aclanthology.org/2022.findings-acl.26/) - ACL 2022 ([code](https://github.com/jeffhj/open-relation-modeling))
+
+   Jie Huang, Kevin Chang, Jinjun Xiong, Wen-mei Hwu
+   
 * [*"AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark"*](https://aclanthology.org/2022.acl-demo.5/) - ACL 2022 ([code](https://github.com/nfriedri/annie-annotation-platform))
 
    Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
