@@ -789,6 +789,10 @@ An OIE system aims to make the following extractions:
 
    Bhushan Kotnis, Kiril Gashteovski, Daniel Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence
    
+* [*"OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework"*](https://aclanthology.org/2022.acl-long.430/) - ACL 2022 
+
+   Xin Wang, Minlong Peng, Mingming Sun, Ping Li
+   
 * [*"AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark"*](https://aclanthology.org/2022.acl-demo.5/) - ACL 2022 ([code](https://github.com/nfriedri/annie-annotation-platform))
 
    Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
