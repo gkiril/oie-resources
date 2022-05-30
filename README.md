@@ -800,10 +800,15 @@ An OIE system aims to make the following extractions:
 * [*"Open Relation Modeling: Learning to Define Relations between Entities"*](https://aclanthology.org/2022.findings-acl.26/) - ACL 2022 ([code](https://github.com/jeffhj/open-relation-modeling))
 
    Jie Huang, Kevin Chang, Jinjun Xiong, Wen-mei Hwu
-   
+      
 * [*"AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark"*](https://aclanthology.org/2022.acl-demo.5/) - ACL 2022 ([code](https://github.com/nfriedri/annie-annotation-platform))
 
    Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
+
+* [*"A Survey on Neural Open Information Extraction: Current Status and Future Directions"*]([A Survey on Neural Open Information Extraction: Current Status and Future Directions](https://arxiv.org/pdf/2205.11725.pdf) - CoRR 2022
+
+   Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun
+
 
 ## Papers grouped by category
 
@@ -824,6 +829,10 @@ An OIE system aims to make the following extractions:
 * [*"Multilingual Open Information Extraction: Challenges and Opportunities"*](https://www.preprints.org/manuscript/201905.0029/download/final_file) -  Information 10(7): 228, 2019
 
    Daniela Barreiro Claro, Marlo Souza, Clarissa Castellã Xavier, Leandro Souza de Oliveira
+   
+* [*"A Survey on Neural Open Information Extraction: Current Status and Future Directions"*]([A Survey on Neural Open Information Extraction: Current Status and Future Directions](https://arxiv.org/pdf/2205.11725.pdf) - CoRR 2022
+
+   Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun
 
 ### Evaluation
 
