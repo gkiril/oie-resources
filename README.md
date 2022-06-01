@@ -956,6 +956,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Abstractive Query Focused Summarization with Query-Free Resources"*](https://arxiv.org/abs/2012.14774) - CoRR 2020
 
    Yumo Xu, Mirella Lapata
+   
+* [*"Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization"*](https://aclanthology.org/2022.findings-acl.323/) - ACL 2022
+
+   Kexun Zhang, Jiaao Chen, Diyi Yang
 
    
 #### Knowledge Base Population
