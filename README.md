@@ -953,6 +953,11 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
    Mengli Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liu
    
+* [*"Summary Explorer: Visualizing the State of the Art in Text Summarization"*](https://aclanthology.org/2021.emnlp-demo.22/) - EMNLP 2021
+
+   Shahbaz Syed, Tariq Yousef, Khalid Al Khatib, Stefan Jänicke, Martin Potthast
+
+   
 * [*"Generating Query Focused Summaries from Query-Free Resources"*](https://aclanthology.org/2021.acl-long.475/) - ACL 2021
 
    Yumo Xu, Mirella Lapata
