@@ -29,7 +29,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
   * [OIE for downstream applications](#oie-for-downstream-applications)
     * [Question Answering](#question-answering)
     * [Slot Filling](#slot-filling)
-    * [Event Schema Induction](#event-schema-induction)
+    * [Event Extraction](#event-extraction)
     * [Text Summarization](#text-summarization)
     * [Knowledge Base Population](#knowledge-base-population)
     * [Knowledge Base Construction](#knowledge-base-construction)
@@ -933,11 +933,15 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
    Dian Yu, Lifu Huang, Heng Ji
 
 
-#### Event Schema Induction
+#### Event Extraction
 
 * [*"Generating Coherent Event Schemas at Scale"*](http://turing.cs.washington.edu/papers/emnlp-2013-niranjan.pdf) - EMNLP 2013
 
   Niranjan Balasubramanian, Stephen Soderland, Mausam, Oren Etzioni
+
+* [*"Cross-document Event Identity via Dense Annotation"*](https://aclanthology.org/2021.conll-1.39/) - CoNLL 2021
+
+   Adithya Pratapa, Zhengzhong Liu, Kimihiro Hasegawa, Linwei Li, Yukari Yamakawa, Shikun Zhang, Teruko Mitamura
 
 #### Text Summarization
 
