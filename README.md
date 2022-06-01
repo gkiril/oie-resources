@@ -953,7 +953,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
    Mengli Zhanga, Gang Zhoua, Wanting Yua, Wenfen Liu
    
-* [*"Abstractive Query Focused Summarization with Query-Free Resources"*](https://arxiv.org/abs/2012.14774) - CoRR 2020
+* [*"Generating Query Focused Summaries from Query-Free Resources"*](https://aclanthology.org/2021.acl-long.475/) - ACL 2021
 
    Yumo Xu, Mirella Lapata
    
