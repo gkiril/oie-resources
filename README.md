@@ -808,6 +808,10 @@ An OIE system aims to make the following extractions:
 * [*"AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark"*](https://aclanthology.org/2022.acl-demo.5/) - ACL 2022 ([code](https://github.com/nfriedri/annie-annotation-platform))
 
    Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš
+   
+* [*"CompactIE: Compact Facts in Open Information Extraction"*](https://aclanthology.org/2022.naacl-main.65/) - NAACL 2022 ([code](https://github.com/FarimaFatahi/CompactIE))
+
+   Farima Fatahi Bayat, Nikita Bhutani, H. V. Jagadish
 
 * [*"A Survey on Neural Open Information Extraction: Current Status and Future Directions"*](https://arxiv.org/pdf/2205.11725.pdf) - CoRR 2022
 
