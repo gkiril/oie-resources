@@ -813,7 +813,7 @@ An OIE system aims to make the following extractions:
 
    Farima Fatahi Bayat, Nikita Bhutani, H. V. Jagadish
 
-* [*"DetIE: Multilingual Open Information Extraction Inspired by Object Detection"*](https://www.aaai.org/AAAI22Papers/AAAI-8073.VasilkovskyM.pdf) - AAAI 2022 ([code](https://github.com/sberbank-ai/DetIE)
+* [*"DetIE: Multilingual Open Information Extraction Inspired by Object Detection"*](https://www.aaai.org/AAAI22Papers/AAAI-8073.VasilkovskyM.pdf) - AAAI 2022 ([code](https://github.com/sberbank-ai/DetIE))
 
    Michael Vasilkovsky, Anton Alekseev, Valentin Malykh, Ilya Shenbin, Elena Tutubalina, Dmitriy Salikhov, Mikhail Stepnov, Andrey Chertok, Sergey I. Nikolenko
 
@@ -1039,6 +1039,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
 #### Multilingual OIE Systems
+
+* [*"MILIE: Modular & Iterative Multilingual Open Information Extraction"*](https://aclanthology.org/2022.acl-long.478/) - ACL 2022 
+
+   Bhushan Kotnis, Kiril Gashteovski, Daniel Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence
 
 * [*"DetIE: Multilingual Open Information Extraction Inspired by Object Detection"*](https://www.aaai.org/AAAI22Papers/AAAI-8073.VasilkovskyM.pdf) - AAAI 2022 ([code](https://github.com/sberbank-ai/DetIE)
 
