@@ -813,6 +813,10 @@ An OIE system aims to make the following extractions:
 
    Farima Fatahi Bayat, Nikita Bhutani, H. V. Jagadish
 
+* [*"DetIE: Multilingual Open Information Extraction Inspired by Object Detection"*](https://www.aaai.org/AAAI22Papers/AAAI-8073.VasilkovskyM.pdf) - AAAI 2022 ([code](https://github.com/sberbank-ai/DetIE)
+
+   Michael Vasilkovsky, Anton Alekseev, Valentin Malykh, Ilya Shenbin, Elena Tutubalina, Dmitriy Salikhov, Mikhail Stepnov, Andrey Chertok, Sergey I. Nikolenko
+
 * [*"A Survey on Neural Open Information Extraction: Current Status and Future Directions"*](https://arxiv.org/pdf/2205.11725.pdf) - CoRR 2022
 
    Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun
@@ -1035,6 +1039,11 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 Most of the OIE systems are focused on extractions made from text written on English. However, some OIE systems either are focused on a language other than English, or are multilingual. In this section, OIE systems on languages other than English or multilingual OIE systems are listed. 
 
 #### Multilingual OIE Systems
+
+* [*"DetIE: Multilingual Open Information Extraction Inspired by Object Detection"*](https://www.aaai.org/AAAI22Papers/AAAI-8073.VasilkovskyM.pdf) - AAAI 2022 ([code](https://github.com/sberbank-ai/DetIE)
+
+   Michael Vasilkovsky, Anton Alekseev, Valentin Malykh, Ilya Shenbin, Elena Tutubalina, Dmitriy Salikhov, Mikhail Stepnov, Andrey Chertok, Sergey I. Nikolenko
+
 
 * [*"Multi2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT"*](https://arxiv.org/pdf/2009.08128.pdf) ([code](https://github.com/youngbin-ro/Multi2OIE)) - EMNLP 2020
 
