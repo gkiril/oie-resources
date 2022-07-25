@@ -1043,6 +1043,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"MILIE: Modular & Iterative Multilingual Open Information Extraction"*](https://aclanthology.org/2022.acl-long.478/) - ACL 2022 
 
    Bhushan Kotnis, Kiril Gashteovski, Daniel Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence
+   
+* [*Alignment-Augmented Consistent Translation for Multilingual Open Information Extraction"*](https://aclanthology.org/2022.acl-long.179/) - ACL 2022 ([code](https://github.com/dair-iitd/moie))
+
+   Keshav Kolluru, Muqeeth Mohammed, Shubham Mittal, Soumen Chakrabarti, Mausam
 
 * [*"DetIE: Multilingual Open Information Extraction Inspired by Object Detection"*](https://www.aaai.org/AAAI22Papers/AAAI-8073.VasilkovskyM.pdf) - AAAI 2022 ([code](https://github.com/sberbank-ai/DetIE)
 
