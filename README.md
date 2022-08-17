@@ -750,6 +750,10 @@ An OIE system aims to make the following extractions:
 * [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
 
    	Chandrahas, Partha Pratim Talukdar
+    
+* [*"Maximal Clique Based Non-Autoregressive Open Information Extraction"*](https://aclanthology.org/2021.emnlp-main.764/) - EMNLP 2021
+
+    Bowen Yu, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun, Bin Wang
    
 * [*"LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction"*](https://aclanthology.org/2021.eacl-main.222/) - EACL 2021 ([code and data](https://github.com/Jacobsolawetz/large-scale-oie)) 
 
