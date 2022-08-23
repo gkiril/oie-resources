@@ -824,6 +824,10 @@ An OIE system aims to make the following extractions:
 * [*"A Survey on Neural Open Information Extraction: Current Status and Future Directions"*](https://arxiv.org/pdf/2205.11725.pdf) - IJCAI 2022
 
    Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun
+   
+* [*"Open Information Extraction from 2007 to 2022 – A Survey"*](https://arxiv.org/pdf/2208.08690.pdf) - CoRR 2022
+
+   Pai Liu, Wenyang Gao, Wenjie Dong, Songfang Huang, Yue Zhang
 
 
 ## Papers grouped by category
@@ -849,6 +853,10 @@ An OIE system aims to make the following extractions:
 * [*"A Survey on Neural Open Information Extraction: Current Status and Future Directions"*](https://arxiv.org/pdf/2205.11725.pdf) - IJCAI 2022
 
    Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun
+
+* [*"Open Information Extraction from 2007 to 2022 – A Survey"*](https://arxiv.org/pdf/2208.08690.pdf) - CoRR 2022
+
+   Pai Liu, Wenyang Gao, Wenjie Dong, Songfang Huang, Yue Zhang
 
 ### Evaluation
 
