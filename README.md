@@ -36,6 +36,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Entity Linking](#entity-linking)
     * [Relation Linking](#relation-linking)
     * [Open Link Prediction](#open-link-prediction)
+    * [Relation Extraction](#relation-extraction)
     * [Relating Entities](#relating-entities)
     * [Video Grounding](#video-grounding)
   * [OIE in Different Languages](#oie-in-different-languages)
@@ -1033,6 +1034,12 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction)) - ACL 2020
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
+   
+#### Relation Extraction
+
+* [*"RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information"*](https://aclanthology.org/D18-1157.pdf) - EMNLP 2018
+
+   Shikhar Vashishth, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, Partha Talukdar
 
 #### Relating Entities
 
