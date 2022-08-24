@@ -756,6 +756,10 @@ An OIE system aims to make the following extractions:
 
     Bowen Yu, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun, Bin Wang
     
+* [*"Zero Shot Information Extraction as a Unified Text to Triple Translation"*](https://aclanthology.org/2021.emnlp-main.94/) - EMNLP 2021 ([code](https://github.com/cgraywang/deepex))
+
+    Chenguang Wang, Xiao Liu, Zui Chen, Haoyun Hong, Jie Tang, Dawn Song
+    
 * [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization))
 
     Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
