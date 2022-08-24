@@ -383,6 +383,10 @@ An OIE system aims to make the following extractions:
 * *["RelVis: Benchmarking OpenIE Systems"](http://ceur-ws.org/Vol-1963/paper527.pdf)* - ISWC 2017
 
   Rudolf Schneider, Tom Oberhauser, Tobias Klatt, Felix A. Gers, Alexander Löser
+  
+* *["A Consolidated Open Knowledge Representation for Multiple Texts"](https://aclanthology.org/W17-0902.pdf)* -  LSDSem@EACL 2017
+
+  Rachel Wities, Vered Shwartz, Gabriel Stanovsky, Meni Adler, Ori Shapira, Shyam Upadhyay, Dan Roth, Eugenio Martínez-Cámara, Iryna Gurevych, Ido Dagan
 
 * *["Open Relation Extraction and Grounding"](http://aclweb.org/anthology/I17-1086)* - IJCNLP 2017
 
