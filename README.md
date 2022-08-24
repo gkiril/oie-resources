@@ -788,6 +788,10 @@ An OIE system aims to make the following extractions:
 
    Zhiheng Lyu, Kaijie Shi, Xin Li, Lei Hou, Juanzi Li, Binheng Song
    
+* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
+
+   Hao Xin, Xueling Lin, Lei Chen
+   
 * *[PENELOPIE: Enabling Open Information Extraction for the Greek Language through Machine Translation"](https://aclanthology.org/2021.eacl-srw.4/)* - Student Research Workshop @ EACL
 
    Dimitris Papadopoulos, Nikolaos Papadakis, Nikolaos Matsatsinis
@@ -1299,6 +1303,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
+    
+* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
+
+   Hao Xin, Xueling Lin, Lei Chen
    
 * [*"Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network"*](https://arxiv.org/pdf/2006.09610.pdf) - CoRR 2020
 
