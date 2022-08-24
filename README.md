@@ -755,6 +755,10 @@ An OIE system aims to make the following extractions:
 * [*"Maximal Clique Based Non-Autoregressive Open Information Extraction"*](https://aclanthology.org/2021.emnlp-main.764/) - EMNLP 2021
 
     Bowen Yu, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun, Bin Wang
+    
+* *["Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021
+
+    Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
    
 * [*"LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction"*](https://aclanthology.org/2021.eacl-main.222/) - EACL 2021 ([code and data](https://github.com/Jacobsolawetz/large-scale-oie)) 
 
@@ -1283,6 +1287,10 @@ Most of the OIE systems are focused on extractions made from text written on Eng
 * *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23)* - WISE 2020
 
    Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen
+   
+* *["Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021
+
+    Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
    
 * [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
 
