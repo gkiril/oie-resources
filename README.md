@@ -38,6 +38,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Open Link Prediction](#open-link-prediction)
     * [Relation Extraction](#relation-extraction)
     * [Relating Entities](#relating-entities)
+    * [Story Comprehension](#story-comprehension)
     * [Video Grounding](#video-grounding)
   * [OIE in Different Languages](#oie-in-different-languages)
     * [OIE Systems for German Language](#oie-systems-for-german-language)
@@ -1062,6 +1063,12 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Relating Legal Entities via Open Information Extraction"*](https://link.springer.com/chapter/10.1007/978-3-030-14401-2_17) - MTSR 2018
   
   Giovanni Siragusa, Rohan Nanda, Valeria De Paiva, Luigi Di Caro
+  
+#### Story Comprehension
+
+* [*"Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs"*](https://www.aaai.org/AAAI22Papers/AAAI-10221.AndrusB.pdf) - AAAI 2022
+
+   Berkeley Andrus, Yeganeh Nasiri, Jay Cui, Ben Cullen, Nancy Fulda
   
 #### Video Grounding
 
