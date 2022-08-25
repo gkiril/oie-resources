@@ -1044,7 +1044,7 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
     
 * [*"Capturing Knowledge in Semantically-typed Relational Patterns to Enhance Relation Linking"*](https://dl.acm.org/doi/pdf/10.1145/3148011.3148031) - K-CAP 2017
 
-    	Kuldeep Singh, Isaiah Onando Mulang', Ioanna Lytra, Mohamad Yaser Jaradeh, Ahmad Sakor, Maria-Esther Vidal, Christoph Lange, Sören Auer
+    Kuldeep Singh, Isaiah Onando Mulang', Ioanna Lytra, Mohamad Yaser Jaradeh, Ahmad Sakor, Maria-Esther Vidal, Christoph Lange, Sören Auer
    
 #### Open Link Prediction
 
