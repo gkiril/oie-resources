@@ -1017,6 +1017,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
    Yumo Xu, Mirella Lapata
    
+* [*"Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters"*](https://aclanthology.org/2021.naacl-main.380.pdf) - NAACL 2021
+
+   Ramakanth Pasunuru, Mengwen Liu, Mohit Bansal, Sujith Ravi, Markus Dreyer
+   
 * [*"Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization"*](https://aclanthology.org/2022.findings-acl.323/) - ACL 2022
 
    Kexun Zhang, Jiaao Chen, Diyi Yang
