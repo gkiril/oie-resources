@@ -1020,8 +1020,11 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization"*](https://aclanthology.org/2022.findings-acl.323/) - ACL 2022
 
    Kexun Zhang, Jiaao Chen, Diyi Yang
-
    
+* [*"FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations"*](https://aclanthology.org/2022.naacl-main.236/) - NAACL 2022 ([code](https://github.com/amazon-research/fact-graph))
+
+   Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal
+
 #### Knowledge Base Population
 
 * [*"Pocket Knowledge Base Population"*](https://www.cs.jhu.edu/~mdredze/publications/2017_acl_pocket_kb.pdf) - ACL 2017
