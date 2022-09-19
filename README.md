@@ -940,6 +940,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting"*](https://aclanthology.org/2021.acl-long.465/) - ACL 2021
 
    Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin, Yefeng Zheng
+   
+* [*"Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs"*](https://aclanthology.org/D19-1428.pdf) - EMNLP 2019
+
+   Angela Fan, Claire Gardent, Chloé Braud, Antoine Bordes
 
 * [*"Assertion-based QA with Question-Aware Open Information Extraction"*](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16705/16170) AAAI 2018
 
@@ -991,6 +995,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Facts That Matter"*](http://aclweb.org/anthology/D18-1129) - EMNLP 2018
 
   Marco Ponza, Luciano Del Corro, Gerhard Weikum
+  
+* [*"Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs"*](https://aclanthology.org/D19-1428.pdf) - EMNLP 2019
+
+   Angela Fan, Claire Gardent, Chloé Braud, Antoine Bordes
   
 * [*"Coherence and Salience-Based Multi-Document Relationship Mining"*](https://www.researchgate.net/publication/332735453_Coherence_and_Salience-Based_Multi-Document_Relationship_Mining) - APWeb-WAIM 2019
 
