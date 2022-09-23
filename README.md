@@ -937,6 +937,10 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 
 #### Question Answering
 
+* [*"Triple-Fact Retriever: An explainable reasoning retrieval model for multi-hop QA problem"*](https://ieeexplore.ieee.org/abstract/document/9835400) - ICDE 2022
+
+   Chengmin Wu, Enrui Hu, Ke Zhan, Lan Luo, Xinyu Zhang, Hao Jiang, Qirui Wang, Zhao Cao, Fan Yu, Lei Chen
+
 * [*"Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting"*](https://aclanthology.org/2021.acl-long.465/) - ACL 2021
 
    Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin, Yefeng Zheng
