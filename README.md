@@ -39,6 +39,7 @@ A curated list of Open Information Extraction (OIE) resources: research papers, 
     * [Relation Extraction](#relation-extraction)
     * [Relating Entities](#relating-entities)
     * [Story Comprehension](#story-comprehension)
+    * [Text Generation](#text-generation)
     * [Video Grounding](#video-grounding)
   * [OIE in Different Languages](#oie-in-different-languages)
     * [OIE Systems for German Language](#oie-systems-for-german-language)
@@ -1092,7 +1093,13 @@ OIE's output has been shown to be a useful input for many downstream tasks. In t
 * [*"Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs"*](https://www.aaai.org/AAAI22Papers/AAAI-10221.AndrusB.pdf) - AAAI 2022
 
    Berkeley Andrus, Yeganeh Nasiri, Jay Cui, Ben Cullen, Nancy Fulda
-  
+
+#### Text Generation
+
+* [*"An unsupervised joint system for text generation from knowledge graphs and semantic parsing"*](https://aclanthology.org/2020.emnlp-main.577.pdf) - EMNLP 2020
+
+   Martin Schmitt, Sahand Sharifzadeh, Volker Tresp, Hinrich Schütze
+
 #### Video Grounding
 
 * *["Interventional Video Grounding With Dual Contrastive Learning"](https://openaccess.thecvf.com/content/CVPR2021/papers/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.pdf)* - CVPR 2021
